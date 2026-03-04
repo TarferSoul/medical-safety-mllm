@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-12-31T05:31:35.947554",
+  "input_file": "/mnt/shared-storage-user/xieyuejin/MLLM-Safety/MedicalSafety/dataset/mimic_cxr_train.json",
+  "output_file": "/mnt/shared-storage-user/xieyuejin/MLLM-Safety/MedicalSafety/dataset/mimic_cxr_train_norm_by_QwQ.json",
+  "extract_model": "QwQ",
+  "judge_model": "QwQ",
+  "concurrency": 300,
+  "max_retries": 5,
+  "total_samples": 21991,
+  "verified_and_normalized": 21515,
+  "failed_verification": 476,
+  "success_rate": "97.84%"
+}

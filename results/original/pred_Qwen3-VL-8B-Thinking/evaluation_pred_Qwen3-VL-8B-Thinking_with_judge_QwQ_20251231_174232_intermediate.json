@@ -1,0 +1,1228 @@
+[
+  {
+    "sample_id": 0,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10455067/s53475743/4b66c617-703d17a8-1dbb4be4-ec629511-97a741d8.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10455067/s53475743/87cd56d2-850c123b-0179cb24-6ae7aea5-c39524f8.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 1,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10291004/s55104566/337e77ab-5f65b296-8b1dd61f-671d1c03-c1985674.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10291004/s55104566/eb562e5e-ba862aba-e1e6ca3b-30333f0c-921480c1.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 2,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10794237/s54533459/512a0c9c-96a3440c-584d1af2-19223710-12afb38f.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10794237/s54533459/92034b1d-85cc6d55-ff2a40f3-4b1e3f2a-5c53f51a.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 3,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10304606/s50777247/d7eb6a23-8d72f7ca-065e0694-c3f19274-d65c1f5d.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 4,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10622931/s54994042/7cd97073-eaed7f6d-84bb2783-df973211-c35d5769.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10622931/s54994042/b7b0bf46-19e03b3e-a095259c-d05a5de5-83187351.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 6,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10778651/s53628418/3e2dce5e-ae4ae803-55976ee4-678299b5-47a4fac5.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10778651/s53628418/97320e87-8b497c62-b3e0458f-6296a3b7-728ebd7f.jpg"
+    ],
+    "prompt": "<image><image>You are an expert radiologist. Analyze the provided chest X-ray image(s) and generate a comprehensive radiology report following the standard MIMIC-CXR format.\n\nYour report must include the following sections in order:\n\n1. **EXAMINATION**: State the type of imaging study (e.g., \"CHEST (PA AND LAT)\" or \"CHEST (PORTABLE AP)\")\n\n2. **INDICATION**: Brief clinical context or reason for the examination (if relevant medical history or symptoms can be inferred)\n\n3. **TECHNIQUE**: Describe the radiographic technique used\n\n4. **COMPARISON**: Note any comparison with prior studies if applicable, or state \"None\" if not available\n\n5. **FINDINGS**: Provide detailed observations e.g. Lung fields (clarity, opacities, masses, nodules, infiltrates), Pleural spaces (effusions, pneumothorax, thickening), Cardiac silhouette (size, contours), etc.\n\n6. **IMPRESSION**: Concise summary of key findings and their clinical significance\n\nRequirements:\n- Use precise medical terminology and standard radiological language\n- Be specific about anatomical locations (e.g., \"right lower lobe,\" \"left costophrenic angle\")\n- Describe medical devices with exact positioning\n- Note both normal and abnormal findings\n- Use professional, objective tone\n- Avoid speculation; report only what is visible\n- If findings are stable compared to prior imaging, note this explicitly\n\nHere is a standard report example: \n\nFINAL REPORT\nEXAMINATION: CHEST (PA AND LAT)\nINDICATION:  History: ___F with smoking history presenting with episodes of\\n shortness of breath and chronic cough\nTECHNIQUE:  Chest PA and lateral\nCOMPARISON:  Chest radiograph ___\nFINDINGS: \nHeart size is normal.  The mediastinal and hilar contours are normal. The pulmonary vasculature is normal. Lungs are clear.  No pleural effusion or pneumothorax is seen. There are no acute osseous abnormalities.\nIMPRESSION: No acute cardiopulmonary abnormality.\n\nGenerate the complete radiology report now:\n",
+    "ground_truth": "FINAL REPORT\n EXAMINATION:  CHEST (PA AND LAT)\n \n INDICATION:  History: ___M with cough\n \n TECHNIQUE:  Chest PA and lateral\n \n COMPARISON:  None.\n \n FINDINGS: \n \n Heart size is normal.  The mediastinal and hilar contours are normal. The\n pulmonary vasculature is normal. Lungs are clear.  No pleural effusion or\n pneumothorax is seen. There are no acute osseous abnormalities.\n \n IMPRESSION: \n \n No acute cardiopulmonary abnormality.",
+    "prediction": "Got it, let's tackle this request. First, I need to analyze the two chest X-ray images provided. Let's start by understanding each image.\n\nFirst image: It's a standard PA (posteroanterior) chest X-ray. The patient is positioned with the back against the detector, so it's PA view. The spine is visible in the midline, ribs are symmetric, clavicles are seen, and the heart shadow is visible. The lung fields should be checked for opacities, pleural effusions, pneumothorax, etc. The second image is a lateral view, probably of the chest, which is part of a standard chest X-ray series (PA and LAT). \n\nNow, looking at the first image (PA view): The lungs are well-expanded. Let's check each lobe. The right lung: upper, middle, lower lobes. The left lung: same. The heart size: the cardiothoracic ratio (CTR) is usually <0.5 for normal. The heart shadow here seems within normal limits. The mediastinum: trachea is midline, no widening. Hilar contours: both hila are visible, no obvious masses. Pulmonary vasculature: normal. Pleural spaces: costophrenic angles are sharp (no effusions), no pneumothorax. The diaphragm is smooth, no flattening. \n\nSecond image (lateral view): This is a lateral decubitus or lateral chest X-ray. The spine is visible, ribs are seen. In lateral views, we check for pleural effusions (which would show as a meniscus sign), pneumothorax (no air under the diaphragm), and cardiac silhouette. The heart shadow in lateral view should be evaluated for size. The left costophrenic angle is visible, no effusion. The mediastinal contours: no widening. \n\nNow, let's structure the report according to MIMIC-CXR format.\n\nEXAMINATION: Need to state the type. The first image is PA, second is LAT, so \"CHEST (PA AND LAT)\".\n\nINDICATION: The user didn't provide clinical context, but since it's a standard report, maybe infer from the images. But since it's a test, perhaps \"Routine screening\" or \"No specific indication provided\". Wait, the example had \"History: ___F with smoking history...\", but here no info. So maybe \"Routine chest radiography\" or \"No clinical indication provided\".\n\nTECHNIQUE: Describe the technique. PA view: patient standing, X-ray beam from posterior to anterior. LAT view: patient positioned laterally, beam from anterior to posterior.\n\nCOMPARISON: Since no prior studies are mentioned, \"None\".\n\nFINDINGS: Need to detail each part.\n\nLet's break down the PA view:\n\n- Lung fields: Both lung fields are clear. No focal opacities, masses, or nodules. The pulmonary vasculature is normal. The lung parenchyma is well-aerated, with no signs of consolidation, infiltration, or interstitial thickening.\n\n- Pleural spaces: Costophrenic angles are sharp bilaterally (no pleural effusions). No pneumothorax is evident (no air visible in the pleural space).\n\n- Cardiac silhouette: Cardiac size is within normal limits (cardiothoracic ratio < 0.5). The cardiac borders are smooth without abnormal contours.\n\n- Mediastinum: Trachea is midline. Mediastinal contours are normal without widening.\n\n- Bones: Ribs, clavicles, and spine are intact. No acute osseous abnormalities.\n\nNow the lateral view:\n\n- Lung fields: Lateral view shows the lung fields are clear. The right and left lung fields are well-expanded.\n\n- Pleural spaces: The costophrenic angles in the lateral view are clear. No pleural effusions (no meniscus sign).\n\n- Cardiac silhouette: The cardiac silhouette is normal in the lateral view.\n\n- Mediastinal contours: Mediastinal width is normal.\n\n- Bones: No abnormalities in the ribs or spine.\n\nNow, check if there are any medical devices. The first image has some small round objects (maybe markers or implants), but not sure. The example had \"medical devices with exact positioning\", but here maybe not. The first image has a small circle on the right side (maybe a marker), but not sure. Let's see: the first image has a \"7\" on the top right, which is a marker for the right side. The second image has \"O\" and \"R\" in the top left, indicating the right side.\n\nWait, in the first image, the top right has \"7\" and a circle with dots, which is a marker for the right side (since the X-ray is taken with the patient's right side up). The second image has \"O\" and \"R\" in the top left, which is the right side marker.\n\nBut for medical devices, if there's no obvious device (like a pacemaker or chest tube), then note \"No medical devices visible\".\n\nNow, putting it all together.\n\nEXAMINATION: CHEST (PA AND LAT)\n\nINDICATION: Routine chest radiography (no specific clinical indication provided)\n\nTECHNIQUE: Posteroanterior (PA) chest radiograph with lateral decubitus projection. Patient positioned upright for PA view, lateral view obtained with patient in lateral decubitus position.\n\nCOMPARISON: None\n\nFINDINGS:\n\nLung Fields: Both lung fields demonstrate normal aeration with no focal opacities, masses, nodules, or infiltrates. Pulmonary vascular markings are within normal limits. No evidence of consolidation, interstitial thickening, or pleural-based opacities.\n\nPleural Spaces: Costophrenic angles are sharp bilaterally on the PA view. No pleural effusions or pneumothorax is evident. The lateral view confirms the absence of pleural fluid collections or air in the pleural space.\n\nCardiac Silhouette: Cardiac size is within normal limits (cardiothoracic ratio < 0.5). The cardiac borders are smooth without abnormal contours. The mediastinal contours are normal.\n\nMediastinum: Trachea is midline. No mediastinal widening or abnormal soft tissue densities.\n\nBony Structures: Ribs, clavicles, and thoracic spine are intact without acute fractures or abnormal osseous findings. No signs of bony metastases or pathological fractures.\n\nMedical Devices: No medical devices are visible in the radiograph.\n\nIMPRESSION: Normal chest radiograph with no acute cardiopulmonary abnormalities.\n</think>\n\nFINAL REPORT  \n**EXAMINATION**: CHEST (PA AND LAT)  \n\n**INDICATION**: Routine chest radiography (no specific clinical indication provided)  \n\n**TECHNIQUE**: Posteroanterior (PA) chest radiograph with lateral decubitus projection. Patient positioned upright for PA view; lateral view obtained with patient in lateral decubitus position.  \n\n**COMPARISON**: None  \n\n**FINDINGS**:  \n- **Lung Fields**: Both lung fields demonstrate normal aeration with no focal opacities, masses, nodules, or infiltrates. Pulmonary vascular markings are symmetrical and within normal limits. No evidence of consolidation, interstitial thickening, or pleural-based opacities. The right upper lobe, right middle lobe, right lower lobe, left upper lobe, left middle lobe, and left lower lobe are all well-aerated.  \n- **Pleural Spaces**: Costophrenic angles are sharp bilaterally on the PA view (right costophrenic angle: clear; left costophrenic angle: clear). No pleural effusions or pneumothorax is evident. The lateral view confirms the absence of pleural fluid collections (no meniscus sign) or air in the pleural space.  \n- **Cardiac Silhouette**: Cardiac size is within normal limits (cardiothoracic ratio < 0.5). The cardiac borders are smooth without abnormal contours. The mediastinal contours are normal without widening.  \n- **Mediastinum**: Trachea is midline. No mediastinal widening or abnormal soft tissue densities are present.  \n- **Bony Structures**: Ribs, clavicles, and thoracic spine are intact without acute fractures or abnormal osseous findings. No signs of bony metastases or pathological fractures.  \n- **Medical Devices**: No medical devices are visible in the radiograph.  \n\n**IMPRESSION**: Normal chest radiograph with no acute cardiopulmonary abnormalities.",
+    "success": true,
+    "error": null,
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "You are an expert Radiologist and Medical Evaluator. Your task is to evaluate the quality of a generated chest X-ray report (Candidate) by comparing it against the expert-written Ground Truth report (Reference).\n\n### Evaluation Criteria:\n1. **Clinical Accuracy (Most Important):** Does the Candidate identify the same pathologies (e.g., pneumonia, effusion, pneumothorax, edema) as the Reference?\n2. **Negation correctness:** specific attention to \"No\", \"Not\", \"Free of\". Confusing \"No pneumothorax\" with \"Small pneumothorax\" is a critical error.\n3. **Anatomical Correctness:** Are the findings localized correctly (e.g., Left Lower Lobe vs Right Upper Lobe)?\n4. **Omissions vs Hallucinations:**\n   - **Omission:** The Reference reports a disease, but the Candidate misses it.\n   - **Hallucination:** The Reference says normal, but the Candidate invents a disease.\n\n### Instructions:\n- Ignore formatting differences (e.g., \"Findings:\" vs \"FINDINGS\").\n- Ignore the \"INDICATION\" and \"COMPARISON\" sections unless they contain critical diagnostic findings not present elsewhere. Focus heavily on \"FINDINGS\" and \"IMPRESSION\".\n- Synonyms are accepted (e.g., \"Opacities\" ≈ \"Infiltrates\" ≈ \"Consolidation\" in specific contexts; \"Cardiomegaly\" ≈ \"Enlarged heart\").\n\n### Input Data:\n**[Ground Truth Report]:**\nFINAL REPORT\n EXAMINATION:  CHEST (PA AND LAT)\n \n INDICATION:  History: ___M with cough\n \n TECHNIQUE:  Chest PA and lateral\n \n COMPARISON:  None.\n \n FINDINGS: \n \n Heart size is normal.  The mediastinal and hilar contours are normal. The\n pulmonary vasculature is normal. Lungs are clear.  No pleural effusion or\n pneumothorax is seen. There are no acute osseous abnormalities.\n \n IMPRESSION: \n \n No acute cardiopulmonary abnormality.\n\n**[Candidate Report]:**\nFINAL REPORT  \n**EXAMINATION**: CHEST (PA AND LAT)  \n\n**INDICATION**: Routine chest radiography (no specific clinical indication provided)  \n\n**TECHNIQUE**: Posteroanterior (PA) chest radiograph with lateral decubitus projection. Patient positioned upright for PA view; lateral view obtained with patient in lateral decubitus position.  \n\n**COMPARISON**: None  \n\n**FINDINGS**:  \n- **Lung Fields**: Both lung fields demonstrate normal aeration with no focal opacities, masses, nodules, or infiltrates. Pulmonary vascular markings are symmetrical and within normal limits. No evidence of consolidation, interstitial thickening, or pleural-based opacities. The right upper lobe, right middle lobe, right lower lobe, left upper lobe, left middle lobe, and left lower lobe are all well-aerated.  \n- **Pleural Spaces**: Costophrenic angles are sharp bilaterally on the PA view (right costophrenic angle: clear; left costophrenic angle: clear). No pleural effusions or pneumothorax is evident. The lateral view confirms the absence of pleural fluid collections (no meniscus sign) or air in the pleural space.  \n- **Cardiac Silhouette**: Cardiac size is within normal limits (cardiothoracic ratio < 0.5). The cardiac borders are smooth without abnormal contours. The mediastinal contours are normal without widening.  \n- **Mediastinum**: Trachea is midline. No mediastinal widening or abnormal soft tissue densities are present.  \n- **Bony Structures**: Ribs, clavicles, and thoracic spine are intact without acute fractures or abnormal osseous findings. No signs of bony metastases or pathological fractures.  \n- **Medical Devices**: No medical devices are visible in the radiograph.  \n\n**IMPRESSION**: Normal chest radiograph with no acute cardiopulmonary abnormalities.\n\n### Output Format:\nONLY return a JSON object with the following structure, DO NOT RETURN ANYTHING ELSE:\n{\n  \"reasoning\": \"Step-by-step comparison of findings...\",\n  \"error_types\": [\"None\" | \"Omission\" | \"Hallucination\" | \"Localization Error\" | \"Severity Error\"],\n  \"clinical_accuracy_score\": <float 0.0 to 10.0>\n}\n\n**Scoring Rubric:**\n- **10.0:** Perfect clinical alignment. Only stylistic differences.\n- **8.0-9.0:** Minor discrepancies (e.g., missed a minor scar, or slight severity difference), but main diagnosis is correct.\n- **5.0-7.0:** Correctly identifies normal vs abnormal, but misses specific details (e.g., wrong lobe) or hallucinates a minor finding.\n- **1.0-4.0:** Major diagnostic error (e.g., Reference says \"Pneumonia\", Candidate says \"Normal\"; or Candidate hallucinates \"Edema\" when lungs are clear).\n",
+      "eval_output": {
+        "reasoning": "The Candidate report fully aligns with the Ground Truth. Both confirm no acute cardiopulmonary abnormalities. Key findings (normal lungs, no effusion/pneumothorax, normal cardiac size, no osseous issues) are identically reported. The Candidate provides more anatomical specificity (e.g., lobe-by-lobe assessment) but does not omit or invent pathologies. Negation terms (e.g., 'No pleural effusion') are correctly preserved. No localization, severity, omission, or hallucination errors detected.",
+        "error_types": [
+          "None"
+        ],
+        "clinical_accuracy_score": 10.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 7,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10384955/s56496146/691626ed-34a905a8-2e506f15-f2dafc0e-bf5741ef.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10384955/s56496146/fa0d75eb-a26d5aef-136ce4b9-10881764-86776f5a.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 8,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10246275/s50639190/99c20b6c-a471cff9-7c6b24a3-73197768-4240b2e3.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10246275/s50639190/a0113e6e-b5011a6c-671e86f8-70715bf1-f74d69bf.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10246275/s50639190/fb9d4f10-d01e3794-ed5127e3-0cb4c979-c49222ec.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 9,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10807985/s56477247/3c1f3f7f-87d99829-760ae851-d26bed6c-e7089cd4.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 10,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10692574/s55448455/cabe8c83-de0b1a86-042a25f0-89a4038f-c05c27a7.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 11,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10976461/s52580019/ff17c45a-6182b024-9947b380-179466fc-e858940e.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 12,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10193074/s59984889/22621d4c-29bb3409-ff58390d-13e25463-35b45dce.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 13,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10192251/s53055518/07d43a8d-832e42e0-1fff7cac-1d3e2661-6f31c47c.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10192251/s53055518/bc2f262c-d070a323-8773379d-6376739b-8efe46e4.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 14,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10787566/s56953209/306a96a1-5ead7568-d456d7d4-659224b0-175ba0be.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10787566/s56953209/da44a5d1-eff218da-c2f72e6c-00655158-b3240682.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 16,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10706635/s59183428/1191a48e-ea290234-6d0e7f0d-c8a3e49b-d4c01ca5.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10706635/s59183428/b8c31dba-ed5e6ad6-621076da-0dc43459-f5de6c52.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 17,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10132612/s56921073/742ddd12-c9ffa8e4-aae6404c-10684e70-ed3391bb.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 18,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10123147/s53655723/11dba917-99180132-f7de81d7-2c326461-cda8027c.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 19,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10842371/s59841529/710a0af7-2e3e8294-ea4dce97-a852b68e-c9c75520.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10842371/s59841529/7aa28cee-7a586c25-a19c6f8f-3fe45cd3-37b550c4.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 20,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10347227/s55269720/513392b5-25e2c60e-9206e626-0c0a2940-4385e8ba.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10347227/s55269720/c1f40a41-26b66e61-6fe835c3-f64e2603-7165c244.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 21,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10086390/s54143095/824bd459-c9939c55-4f2a88c9-799b58b4-dc67a882.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10086390/s54143095/efa63e72-88892d3f-cc6b3ec6-ee1d80df-661d193a.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 22,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10344791/s51420856/63c618fd-c5a62418-495b9d81-4a684745-f711db38.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10344791/s51420856/7850645d-e6f9ca9d-9f9ea12e-8abb9009-785273f0.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 23,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10449408/s52239088/7c512ceb-8f7e0566-c0fcc29b-b9592660-21371a10.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 24,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10533554/s53443604/5f94cb58-fc778241-641d9d8d-1c69ab0f-ab117509.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10533554/s53443604/603f8ec0-6a6539bf-74abe344-55ecfe5e-0dbb7293.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 25,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10171148/s56063221/24c7b178-c0c4dc30-f556fd0e-6dcdf9d7-71535690.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10171148/s56063221/c3b1588b-a58d6f97-4f94c150-7b696396-c2fdde25.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 26,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10021487/s57861581/a3692227-7756b781-f9053e7a-563a314a-8578964d.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 27,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10712217/s51037403/d55ed632-bd331873-02bef1e6-0fa5d987-44df7540.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 28,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10472107/s58330027/84d1e661-43245fe5-bd695dd2-38267357-22cef0b3.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 29,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10892549/s56619535/1dfe8ff6-d7beb48d-bfd4e041-7af83f91-cc369e63.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10892549/s56619535/39741740-c9218b6f-bf0c8b99-44bd0a0a-c6c13433.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 30,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10000980/s57861150/5aa15ba6-55f5e96e-39cea686-7c3b28b2-b8c97a88.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10000980/s57861150/dd8af025-426084b7-b7c38b0c-436a70e0-3e650184.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 31,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10781468/s59022671/1cce1d73-d565bf5d-a722c7a0-735f94e6-b6d67d46.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10781468/s59022671/b147909e-4e72bcf5-d3339ece-ca732001-a4798fd7.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 32,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10794783/s55674154/246bc4e6-a164ecbd-9c35a5eb-ea9dfb66-010a98b3.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10794783/s55674154/52e2604b-92a672bd-ca34a6cf-8fe19a1d-9cf9ff20.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 33,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10242353/s51255132/91f83905-2de0cba8-0e7cdbbc-2d637bea-55cae73f.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 34,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10550799/s56797453/25483308-72cc366a-e7c3167f-cc18a9a6-a3d94118.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10550799/s56797453/499c54b3-6670dd43-7b9faa12-3ae8f3c6-84063e6c.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 35,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10996527/s56839513/37cf5eb7-89b08bd5-70700c77-ed456e77-b47a55f9.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10996527/s56839513/9334b72e-d6e7eca4-cb1884db-cc05414c-c2c1cdc6.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 37,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10904848/s57034262/8b4cbba6-f12c741f-93b923e7-dcd28657-9a3ba616.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10904848/s57034262/9df1de5d-d01fb11c-7054fb01-16db54b7-dfe8cc89.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 38,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10995312/s51964095/28dbc15a-01dc5cc8-bac16ae0-216b49e8-10d629a7.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 39,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10947173/s56257210/21b045e5-7a3c0af1-55e849b0-e80b6717-3dd6d8bc.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 40,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10436040/s58610282/4ef941a8-4d39e46c-248375b6-0ff2073b-82565d60.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 41,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10924501/s53047702/db2f66a6-1c3453e2-1f024729-7827a57b-3df986e3.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 42,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10161877/s51196412/7f87513b-9b30f17a-9945ddf9-f95421db-8c54aee7.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10161877/s51196412/fed47bd6-1bca8164-b27249c9-0bdf0274-6a4393da.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 43,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10749008/s59710102/20ac6cdb-de1b9e60-277b1c43-1657f107-c5957b74.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 44,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10262096/s55417707/fb6fa158-3f5dd896-0418b33d-4fad82d6-4776938f.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 46,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10380616/s58144299/6e4ee5cf-8c5808df-78ae1f76-4ba337b4-f2c9b479.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10380616/s58144299/fd6f047e-3f20e871-af6bfba3-d8089ef3-bb7e0f6c.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 47,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10002428/s59659695/51b5892c-e54ed6e6-59ff70db-fd0b8509-1792398e.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 48,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10667797/s51938657/6fa2de7b-5ddc6c1f-70c60268-52d19d25-51320875.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 49,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10233307/s52981775/dc204521-83197708-95b7baea-58af6de1-002470bc.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 50,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10639500/s53489333/a37b8851-4d21b04a-f88d653e-4b4d5966-303285a4.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 51,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10427713/s54087069/50d3b0a8-9afe46e8-4a25b9ea-10a859f0-c59ddee7.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10427713/s54087069/5dcffa1b-2da8eda3-de459978-2869705f-5d6cf65f.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 55,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10386233/s56368498/6bab6cf5-9383b0f0-d59b1e86-9b213053-ee6ba56b.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  },
+  {
+    "sample_id": 56,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10792141/s57500965/4e51281b-147865dd-460d0dff-6e792a41-6cf98e99.jpg"
+    ],
+    "prompt": null,
+    "ground_truth": null,
+    "prediction": null,
+    "success": false,
+    "error": "Exception: name 'openai' is not defined",
+    "model": "Qwen3-VL-8B-Thinking",
+    "eval_results": {
+      "eval_input": "",
+      "eval_output": {
+        "error": "Prediction failed, no judgment performed",
+        "reasoning": "Cannot judge without prediction",
+        "error_types": [
+          "Prediction Failed"
+        ],
+        "clinical_accuracy_score": 0.0
+      }
+    },
+    "judge_model": "QwQ"
+  }
+]

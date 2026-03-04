@@ -1,0 +1,42 @@
+{
+    "mimic_cxr_train": {
+        "file_name": "mimic_cxr_train.json",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations",
+            "images": "images"
+        }
+    },
+    "mimic_cxr_train_normalized_v2_improved": {
+        "file_name": "mimic_cxr_train_normalized_v2_improved.json",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations",
+            "images": "images"
+        }
+    },
+    "mimic_cxr_train_normalized_v2_improved_w_qwen3vl32b_reason": {
+        "file_name": "mimic_cxr_train_normalized_v2_improved_w_qwen3vl32b_reason.json",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations",
+            "images": "images"
+        }
+    },
+    "medical_xray_train": {
+        "file_name": "medical_xray_train.json",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations",
+            "images": "images"
+        }
+    },
+    "cxr_all_train_clean":  {
+        "file_name": "cxr_all_train_clean.json",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations",
+            "images": "images"
+        }
+    }
+}

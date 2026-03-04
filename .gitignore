@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.pyc
+
+# Large dataset files (>100MB)
+dataset/cxr_all_train_clean.json
+dataset/medical_xray_train.json
+dataset/mimic_cxr_train_norm_by_QwQ_intermediate.json
+dataset/mimic_cxr_train_norm_by_QwQ.json
+dataset/cxr_all_train.json
+
+# Large reasoning results (>100MB)
+reasoning_results/reasoning_results_20251229_144040.json
+reasoning_results/intermediate_reasoning_20251229_144040.json
+
+# Model checkpoints (large files)
+*.pth
+*.pt
+*.bin
+*.safetensors
+*.tar.gz
+*.ckpt
+
+# Evaluation results cache
+evaluation_results/*/intermediate_*.json
+evaluation_results/*/reasoning_*.json
+
+# LLaMA-Factory specific
+LLaMA-Factory/output/
+LLaMA-Factory/saves/
+LLaMA-Factory/cache/
+LLaMA-Factory/logs/
+
+# ReXrank-metric specific
+ReXrank-metric/results/
+ReXrank-metric/data/findings/
+ReXrank-metric/data/reports/
+ReXrank-metric/radgraph_fixed/
+ReXrank-metric/logs/
+ReXrank-metric/scripts/CXR-Report-Metric/cache/
+
+# GREEN specific
+GREEN/*.pt
+GREEN/cache/
+
+# Claude memory
+.claude/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

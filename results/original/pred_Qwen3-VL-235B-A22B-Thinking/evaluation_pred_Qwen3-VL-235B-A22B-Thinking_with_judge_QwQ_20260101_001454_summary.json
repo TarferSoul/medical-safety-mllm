@@ -1,0 +1,17 @@
+{
+  "timestamp": "20260101_001454",
+  "prediction_model": "Qwen3-VL-235B-A22B-Thinking",
+  "judge_model": "QwQ",
+  "concurrency": 20,
+  "total_samples": 200,
+  "prediction_success": 0,
+  "prediction_failed": 200,
+  "prediction_success_rate": 0.0,
+  "judge_success": 0,
+  "judge_failed": 200,
+  "judge_success_rate": 0.0,
+  "successfully_scored": 0,
+  "average_score": 0.0,
+  "min_score": 0.0,
+  "max_score": 0.0
+}

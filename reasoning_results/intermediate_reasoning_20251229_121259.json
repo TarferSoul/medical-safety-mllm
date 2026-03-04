@@ -1,0 +1,1864 @@
+[
+  {
+    "sample_id": 0,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10641937/s52052319/f46de270-f0bc7c91-1617d68b-f043e840-aec43d94.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: PA AND LATERAL CHEST X-RAY\n\n INDICATION: AML, double cord stem cell transplant, immunosuppressant, biliary sepsis, recent hypoxia, assess interval change\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Multiple chest x-rays from [DATE] to [DATE].\n\n FINDINGS:\n\n Bilateral opacities have not significantly changed since the last exam. Even if part of it could be related to pulmonary edema, more focal areas in right middle and upper lobe should raise concern for superimposed pneumonia. Right jugular line ends in mid SVC. Mediastinal and cardiac contours are normal. There is no pneumothorax or significant pleural effusion.\n\n IMPRESSION:\n\n Bilateral opacities have not changed in extent. As mentioned in earlier exam, part of it could be due to pulmonary edema; however, more focal areas in right lung should raise concern for superimposed infection.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 1,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10517964/s57032149/f14895f2-9135093d-24258253-449f5a0a-dd4f0b04.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n WET READ: WET READ: [AGE/GENDER] [AGE/GENDER] 11:43 PM Within the limitations of frontal radiography, no large change is detected compared to earlier this afternoon. Discussed with Dr. [AGE/GENDER] by phone at 23:41 on [DATE] at time of wet read request. WET READ VERSION #1\n ______________________________________________________________________________\n EXAMINATION: Not specified.\n\n INDICATION: History of loculated pleural effusions and pneumonia. Please evaluate for interval change.\n\n TECHNIQUE: Single AP portable radiograph of the chest.\n\n COMPARISON: CTA from [DATE] and chest radiographs dated back to [DATE].\n\n FINDINGS:\n\n Right-sided pigtail terminates at the medial right lung base. There has been no significant interval change in the opacification of the mid and lower right lung secondary to large loculated pleural effusions with adjacent atelectasis as described on the recent chest CT. Superimposed infection cannot be excluded. Mild left basilar atelectasis is persistent. There is no evidence of a pneumothorax.\n\n IMPRESSION:\n\n Stable opacification of the mid and lower right lung consistent with large loculated pleural effusions and adjacent atelectasis. Superimposed infectious process cannot be excluded. These findings were discussed by Dr. [AGE/GENDER] with Dr. [AGE/GENDER] by phone at 23:41 on [DATE].",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 2,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10402135/s58230532/226d3cc7-a5b83731-b756ef4e-37afd118-cf5ea84e.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n WET READ: WET READ: [AGE/GENDER] [AGE/GENDER] [AGE/GENDER] 3:31 AM\n  Decreased size of bilateral pleural effusions. Persistent right upper lobe opacity. Pulmonary vascular congestion. Discussed with Dr. ___ by phone at 3:25 a.m. on [DATE].\n ______________________________________________________________________________\n EXAMINATION: CHEST RADIOGRAPH\n\n INDICATION: To look for pulmonary edema.\n\n TECHNIQUE: Erect portable chest view was read in comparison with prior radiograph from [DATE].\n\n COMPARISON: None.\n\n FINDINGS:\n\n Over last 24 hours, the right upper lobe pneumonia has progressed whereas bilateral mild-to-moderate pleural effusions associated with lower lung atelectasis have improved. Mild pulmonary vascular congestion is present, but no over pulmonary edema. Mildly enlarged heart size, mediastinal and hilar contours are unchanged.\n\n IMPRESSION:\n\n Left upper lung is clear.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 3,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10300745/s56956974/171212fd-12ef5b1d-a3b55e3e-36641e4e-74e18f9b.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10300745/s56956974/3442f2e0-c7425056-a52f13b0-91e12acc-ebd6ae4f.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10300745/s56956974/81cb1f01-59e7469c-6ded2c6f-f86991fa-1cfde578.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10300745/s56956974/91cf7a12-2e5cb760-c5e8c155-2409f64c-5ee53517.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10300745/s56956974/bd6acff5-dc5533e5-f4e17514-2ac6aea7-3ae1a3e4.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: chest radiograph\n\n INDICATION: History of hypertension, hyperlipidemia, stage I breast cancer, presenting with cough and weakness. Evaluate for pulmonary infiltrates.\n\n TECHNIQUE: Frontal and lateral chest radiographs were obtained.\n\n COMPARISON: Chest radiograph from [PRIOR_STUDY].\n\n FINDINGS:\n\n The visualized lung fields are clear of any focal opacities, pleural effusions or pneumothorax. Lung markings in the retrocardiac space are likely atelectasis within the left lower lobe. The cardiac and mediastinal silhouette is unremarkable. Visualized osseous structures are unremarkable.\n\n IMPRESSION:\n\n No acute cardiopulmonary process.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 4,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10879112/s58557872/f8537eb1-68c0440c-4a03ae10-65f79d82-d3899c25.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER] year old man with s/- AVR/MVR/MAZE // eval infiltrate/pulm edema\n\n TECHNIQUE: Not specified.\n\n COMPARISON: None.\n\n FINDINGS:\n\n Heart size is enlarged. Mediastinum is stable. Replaced aortic and mitral valve are in expected positions. There is interval improvement in bibasal aeration. No pneumothorax is seen. No increase in pleural effusion demonstrated.\n\n IMPRESSION:\n\n Not specified.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 5,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10996546/s55465753/3e0d09fb-97b2f532-69b6ee91-3a8c32c5-de908f14.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10996546/s55465753/aaf2798a-7ad83302-84d8ddc6-01629db5-24a88583.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST RADIOGRAPH\n\n INDICATION: Cough and rhinitis, question pneumonia.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Comparison is made with a prior study from [DATE] as well as a CT chest from [DATE].\n\n FINDINGS:\n\n PA and lateral views of the chest are obtained.  The lungs are clear and well expanded without focal consolidation, effusion, or pneumothorax.  Cardiomediastinal silhouette is normal.  Bony structures are intact.  No free air below the right hemidiaphragm is seen.\n\n IMPRESSION:\n\n No acute intrathoracic process.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 6,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10536738/s59916122/2d847d47-bba17c07-e8616cf8-dd3a160d-4d90edcf.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Not specified.\n\n INDICATION: Chest pain.\n\n TECHNIQUE: Single AP portable view of the chest was obtained.\n\n COMPARISON: None.\n\n FINDINGS:\n\n Subtle nodule opacities in the right lower lung and possibly left upper lung. There is no pleural effusion or pneumothorax. Cardiomediastinal silhouette is moderately enlarged. There are no bony abnormalities. There is no free air below the right hemidiaphragm. Sternal EKG leads are seen.\n\n IMPRESSION:\n\n Subtle nodular opacities in the right lower lung and possibly left upper lung could be early pneumonia. Follow-up to resolution is recommended. Moderate cardiomegaly.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 7,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10583093/s54524894/682f7210-fabe9c51-9a41e664-ee3e9492-4fe6e850.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10583093/s54524894/858277f8-7d17183c-03e6fb0f-5f85bb0b-70d17ef6.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest: Frontal and lateral views\n\n INDICATION: [AGE/GENDER]m hyperglycemia today in the context of not taking insulin x3 days. please eval for any cardiopulm change  // [AGE/GENDER]m hyperglycemia today in the context of not taking insulin x3 days. please eval for any cardiopulm change\n\n TECHNIQUE: Chest: Frontal and Lateral\n\n COMPARISON: None.\n\n FINDINGS:\n\n Subtle lower lobe opacities are seen which may be due to atelectasis, aspiration, or infection. No pleural effusion or pneumothorax is seen. The cardiac silhouette is top-normal. Mediastinal contours are unremarkable.\n\n IMPRESSION:\n\n Subtle lower lobe opacities may be due to atelectasis, aspiration, subtle infection not excluded.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 8,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10640623/s55588556/cc1e8725-0b483cc9-74117f6b-584ee7b7-e1702d1b.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10640623/s55588556/fecdfa36-1ee0a9c4-6611dd6d-f46890ba-0a3fd688.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest PA and lateral\n\n INDICATION: [AGE/GENDER]-year-old female patient with L1 vertebral body compression fracture and anterior chest pain, not cardiac in nature. Questionable malignancy, bone destruction. Pathological versus degenerative.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: None.\n\n FINDINGS:\n\n Patient's clinical condition required examination in sitting position using AP frontal and left lateral views. There is mild cardiac enlargement. The configuration suggests a prominence of the left ventricular contour to the left and posteriorly, a finding which in conjunction with the moderately widened and generally elongated thoracic aorta suggests the possibility of systemic hypertension. The pulmonary vasculature, however, is not congested and there is no evidence of acute or chronic pulmonary parenchymal infiltrates. The lateral and posterior pleural sinuses are free and no pneumothorax is identified in the apical area. Skeleton skeletal structures are grossly within normal limits. Because of patient's prominent ___, the area of the lower thoracic and upper lumbar spine cannot be identified with any detail. Our records include multiple previous chest examinations, most of which were taken in [DATE]. On these frontal chest examinations, there is no evidence of any compression fracture of any vertebral body.\n\n IMPRESSION:\n\n For the conclusive diagnosis of a fracture in this area, dedicated lumbar spine examination is recommended.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 9,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10790116/s56496122/3fb53672-020cc8c3-16352f04-676705de-c3eeb108.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10790116/s56496122/9153f34a-9fd274bb-df6458fc-2b583524-11afb18b.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: chest radiographs\n\n INDICATION: Evaluation of the patient with congestive heart failure.\n\n TECHNIQUE: PA and lateral upright chest radiographs were reviewed\n\n COMPARISON: in comparison to [PRIOR_STUDY]\n\n FINDINGS:\n\n Cardiomegaly is severe. Mediastinal contours are unchanged, dilated. There is upper zone redistribution, mild, but no overt pulmonary edema. Left mid lung opacity is concerning for infectious process. There is also evidence of bilateral pleural effusions.\n\n IMPRESSION:\n\n Severe cardiomegaly, mediastinal contours unchanged and dilated, upper zone redistribution, no overt pulmonary edema, left mid lung opacity concerning for infectious process, and bilateral pleural effusions.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 10,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10984032/s51650625/248364a6-79859afc-612bd0c2-e1d1c1d4-1d1b56b9.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10984032/s51650625/572747a8-041f1b75-c3dee845-cd8874f6-6a317a2f.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Not specified.\n\n INDICATION: ___ is a medically complex [AGE/GENDER]year-old woman with a history of breast cancer, s/p partial mastectomy and chemotherapy (last cycle [DATE]), severe MR, and recent onset HFpEF presumably due to MR. ___ has also had recent PNA and C. dif infections. She was readmitted to ___ in decompensated HF and is being transferred for HF optimization and consideration of surgical candidacy for MVR. // r/o acute process, assess pulm edema, r/o infection\n\n TECHNIQUE: Chest PA and lateral\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n Compared to the prior study there is no significant interval change. There continues to be increase in interstitial markings, pulmonary vascular redistribution, and left effusion. The right-sided catheter tip is in the mid SVC. There is no pneumothorax. Degenerative changes are again seen in the right humeral head.\n\n IMPRESSION:\n\n No chain",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 11,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10232271/s52922480/be58dacc-1dd90320-636fe8d7-a05f6114-e1850dd1.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest X-ray\n\n INDICATION: [AGE/GENDER] year old woman with hypoxic respiratory failure and septic shock  // replaced OGT- positioning\n\n TECHNIQUE: AP portable chest radiograph\n\n COMPARISON: [PRIOR_STUDY] from earlier in the day\n\n FINDINGS:\n\n The tip of the endotracheal tube projects 2.3 cm from the carina. The gastric tube extends below the level the diaphragms but beyond the field of view of this radiograph. Large layering pleural effusions are unchanged in addition to bibasilar consolidations. No pneumothorax is identified. The size and appearance of the cardiomediastinal silhouette is unchanged.\n\n IMPRESSION:\n\n No significant interval change since the prior examination.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 12,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10908257/s54869863/9427c662-d84b6f24-45baff18-660299a9-c2069462.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10908257/s54869863/a1ffbe30-c2c509fd-0514d487-00ff7e34-a98f36be.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n WET READ: WET READ: [AGE/GENDER] [AGE/GENDER] [AGE/GENDER] [DATE]\nenlarged cardiac silhouette- may be cardiomegaly or possible pericardial\neffusion, can distinguish by echo.\nmild height loss of mid thoracic vertebral body, age indeterminate\nWET READ VERSION #1 \n______________________________________________________________________________\n ______________________________________________________________________________\n EXAMINATION: CHEST, TWO VIEWS\n\n INDICATION: [AGE/GENDER]-year-old female with history of AFib and fevers with cough.\n\n TECHNIQUE: Frontal and lateral views of the chest.\n\n COMPARISON: None.\n\n FINDINGS:\n\n The lungs are clear of confluent consolidation, effusion, or pulmonary vascular congestion. There is moderate-to-severe enlargement of the cardiac silhouette. Mild compression deformity is seen in the mid thoracic spine which is age indeterminate.\n\n IMPRESSION:\n\n 1. Enlargement of the cardiac silhouette which may be due to cardiomegaly, although pericardial effusion is also possible. Consider echocardiogram. 2. Mild height loss of a mid thoracic vertebral body, age indeterminate and clinical correlation is suggested.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 13,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10062692/s59688344/6802d63c-2e1d4da9-2ab34f03-50afb23e-e7d5c6bd.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10062692/s59688344/fe54e761-07efc935-2e1286cf-e7967119-366885d4.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n WET READ: [DATE] [DATE] [DATE] 7:07 PM Increased opacity in the hila of the right upper lobe could represent progression of the patients chronic sarcoidosis or an acute overlying pneumonia. ___ ___ d/w ___ ___ MD via telephone at 5:30 pm on [DATE].\n ______________________________________________________________________________\n EXAMINATION: PA AND LATERAL CHEST ON [DATE]\n\n INDICATION: [AGE/GENDER]-year-old woman with sarcoid and frequent recent pneumonia, with cough and sputum production.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: PA and lateral chest compared to [PRIOR_STUDY] through [PRIOR_STUDY]\n\n FINDINGS:\n\n There is greater consolidation in the right upper lobe joining a region of probable sarcoid scarring, as well as in the right middle lobe, better appreciated on the lateral view, compared to [PRIOR_STUDY]. There has been no change in the extent of central adenopathy, and there is no pleural effusion. Heart size is normal.\n\n IMPRESSION:\n\n Findings are certainly consistent with acute pneumonia, but given the geographic association of the upper lobe infection with a region of chronic abnormality, this area needs to be followed closely to make sure there is no indolent infection, in a region of sarcoid involvement, or any structural explanation such as bronchial stricture. Dr. ___ was notified by Dr. ___ by telephone of possibility of pneumonia, 5:30 p.m. on [DATE].",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 14,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10993512/s52568164/90456141-62ebfb99-96edf169-34d0e7cf-36edd090.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10993512/s52568164/c14cc423-b40e568f-a798de98-95764e93-dc88a722.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PA AND LAT)\n\n INDICATION: [AGE/GENDER] year old woman with fever, aspiration  // ? aspiration      ? aspiration\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Comparison to [PRIOR_STUDY].\n\n FINDINGS:\n\n In the interval, the patient has developed bilateral pleural effusions, left more than right. In addition, there is a retrocardiac atelectasis as well as a parenchymal opacity at the right lung base, combined to air bronchograms and thickening of the peribronchial connective tissue. No pulmonary edema. Unchanged borderline size of the heart.\n\n IMPRESSION:\n\n In the appropriate clinical setting this change could reflect pneumonia.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 15,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10805461/s57081650/76dda7b3-c609f9b1-eb85be45-442d4688-50e16c60.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER]F ESRD on HD, COPD, now with hypotension and productive cough now s/p 3L IVF  // Please assess for pneumonia vs pulmonary edema\n\n TECHNIQUE: Not specified.\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n Minimal scarring at both the left and the right lung bases. Non thickening of the minor fissure. No overt pulmonary edema. The cystic findings seen on an accompanying CT examination, reflecting both LIP and centrilobular emphysema are not visualized on this image. Normal size of the heart.\n\n IMPRESSION:\n\n As compared to the previous radiograph, no relevant change is seen.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 16,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10128191/s57481280/a4c04a36-a48192d4-b7d130ff-f11eaccb-cb02d50b.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n WET READ: [AGE/GENDER] [AGE/GENDER] 3:59 AM\n ______________________________________________________________________________\n EXAMINATION: Not specified.\n\n INDICATION: History: [AGE/GENDER] with sob pls ev al pna  // History: [AGE/GENDER] with sob pls ev al pna\n\n TECHNIQUE: Chest PA and lateral\n\n COMPARISON: Chest radiograph dated [DATE] and CTA chest dated [DATE].\n\n FINDINGS:\n\n Mild right basilar atelectasis.  Cardiomediastinal and hilar contours are unchanged.  There is no pneumothorax, pleural effusion, or consolidation.  The aorta is tortuous.\n\n IMPRESSION:\n\n No pneumonia.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 17,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10389638/s53949733/9f057c6c-b07b32ee-3fb7c386-eaf0295b-2f2ae726.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Not specified.\n\n INDICATION: Trauma, fall.\n\n TECHNIQUE: AP view of the chest\n\n COMPARISON: None available.\n\n FINDINGS:\n\n There is no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal contours are normal. No fracture is identified.\n\n IMPRESSION:\n\n No acute intrathoracic process. No fracture however a solitary chest radiograph is not designed to evaluate for fracture. Dedicated views based on physical exam findings can be done.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 18,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10702026/s53570663/af26947c-ad5cbe2d-d2cc45d1-470e05aa-bee47925.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10702026/s53570663/d666af51-da5a995c-fc57cfd0-c5af5966-a0c51e20.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST RADIOGRAPH\n\n INDICATION: Weakness and palpitations\n\n TECHNIQUE: Chest, PA and lateral\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n The heart is again moderately enlarged.  The mediastinal and hilar contours appear stable.  There is no pleural effusion or pneumothorax.  The lungs appear clear\n\n IMPRESSION:\n\n No evidence of acute cardiopulmonary disease",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 19,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10887045/s57315626/983f260e-a8aeb7aa-d4edc501-129924e9-5069f9b3.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10887045/s57315626/c493fd66-fec3c84c-1d61acc9-dadd90c5-b466d82b.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest X-ray\n\n INDICATION: History: [AGE/GENDER] with cp  // ptx?\n\n TECHNIQUE: PA and lateral chest\n\n COMPARISON: None.\n\n FINDINGS:\n\n Lungs are clear. No pneumothorax. Heart size and mediastinal contour are normal. No suspicious bone findings with mild multilevel disc degeneration.\n\n IMPRESSION:\n\n No suspicious bone findings with mild multilevel disc degeneration.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 20,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10013643/s58785837/7d3d7074-431e6b99-d396d1dd-1724eeac-fb16946c.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10013643/s58785837/e8b05d45-d370fd48-169c82f6-bd62e3b2-cddb088a.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Not specified.\n\n INDICATION: [AGE/GENDER] with fever, right upper quadrant pain, evaluate for pneumonia.\n\n TECHNIQUE: Frontal lateral view of the chest.\n\n COMPARISON: None Available.\n\n FINDINGS:\n\n SINCE [DATE], PREVIOUS MILD PULMONARY EDEMA HAS RESOLVED.  No new focal consolidation.  There is blunting of the left and right costophrenic angles representing small bilateral pleural effusions. ALLOWING FOR DIFFERENCES IN PROJECTION, MILD TO MODERATE CARDIOMEGALY IS UNCHANGED. .  There is no evidence of pneumothorax.  Left-sided 2 lead pacer read demonstrated with leads terminating in the right atrium and right ventricle.  Aortic valve prosthesis is unchanged.\n\n IMPRESSION:\n\n 1.  PREVIOUS MILD PULMONARY EDEMA RESOLVED.\n 2. Small bilateral pleural effusions",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 21,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10309614/s59584331/0919930f-adfb9a56-44c7b31d-afa19c5e-cc9cb07e.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10309614/s59584331/7c637942-1eb011d6-f1c9dd7b-39e8e094-6ad2e4f0.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10309614/s59584331/ff7d8eed-1fe13144-4993faea-5d32b3d8-1613dea0.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n WET READ: [AGE/GENDER] [AGE/GENDER] [AGE/GENDER] 2:32 PM\n ______________________________________________________________________________\n EXAMINATION: Not specified.\n\n INDICATION: [AGE/GENDER]M with chest tightness  // eval for ptx\n\n TECHNIQUE: PA and lateral views of the chest.\n\n COMPARISON: None.\n\n FINDINGS:\n\n The lungs are clear.  There is no effusion or pneumothorax.  The cardiomediastinal silhouette is within normal limits.  There is a posterior right eighth rib fracture which is likely old.\n\n IMPRESSION:\n\n No acute cardiopulmonary process.  Probably old posterior right eighth rib fracture.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 22,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10650522/s55234575/38d5b760-3ac69e49-fa75a43b-15bef2a9-b1b7f7cb.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER] year old man with CHF having desaturations to high 80s  // ? worsening pulm edema vs pneumonia?\n\n TECHNIQUE: Not specified.\n\n COMPARISON: [DATE], 06:13\n\n FINDINGS:\n\n Unchanged moderate cardiomegaly. Status post CABG. No larger pleural effusions. No pneumonia.\n\n IMPRESSION:\n\n Centralized pulmonary edema has increased in severity.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 23,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10504635/s57376609/aa24b8bd-0cd1cc0b-5ddd3dab-169168d4-012a43d9.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10504635/s57376609/b1b19958-cbb289d2-7921bda1-add15a8d-3cf3de80.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Not specified.\n\n INDICATION: [AGE/GENDER]-year-old male with AML. Evaluation for allogenic transplant workup.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Comparison is made to chest radiograph from [DATE].\n\n FINDINGS:\n\n PA and lateral views of the chest are obtained. The lungs are well expanded and clear. The cardiomediastinal silhouette is unremarkable. There is no evidence of pneumonia, pneumothorax or pleural effusion. The visualized osseous structures are unremarkable.\n\n IMPRESSION:\n\n Normal chest radiograph.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 24,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10899766/s57703770/4efefb6a-116c9a76-40cd00be-b27f5d99-055cc8f3.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10899766/s57703770/92963774-9b591a17-6317a3f9-d6a26889-15a9084f.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Not specified.\n\n INDICATION: Weakness. Evaluate for pneumonia.\n\n TECHNIQUE: Frontal AP and lateral chest radiographs were obtained.\n\n COMPARISON: Chest radiograph from [PRIOR_STUDY].\n\n FINDINGS:\n\n The lungs are well expanded. Nodular opacities projecting over the right hila is unchanged since at least [DATE] and may represent prominent vessel on end versus hilar lymphadenoapthy. No focal parenchymal opacities are seen bilaterally. Mild vascular cephalization is present. The heart is moderately enlarged, and appears slightly worsened compared with [PRIOR_STUDY]. An AICD generator is noted overlying the left upper hemithorax, with three leads ending in expected positions. Sternotomy wires are intact. Ring markers from prior CABG surgery are also stable. There is no pleural effusion or pneumothorax.\n\n IMPRESSION:\n\n Mild vascular congestion in the setting of moderate cardiomegaly. The cardiomegaly appears slightly worsened from [DATE].",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 25,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10997073/s59776806/e263e19f-a6f73995-4f70c6c7-867505a8-8471a53d.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest X-ray\n\n INDICATION: [AGE/GENDER] with LIJ placement // evaluate LIJ placement\n\n TECHNIQUE: Single portable view of the chest.\n\n COMPARISON: Chest x-ray from earlier the same day at 16:30.\n\n FINDINGS:\n\n There has been interval placement of a left-sided central venous catheter with tip in the upper SVC. There is no pneumothorax. Otherwise, there has been no change.\n\n IMPRESSION:\n\n Otherwise, there has been no change.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 26,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10373824/s55495106/3b5e8d52-a95d34e1-83edbc0f-0270d7bf-fb29936b.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10373824/s55495106/bb2747a6-f7df1c94-f93c8483-b61b5f90-5a870206.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest x-ray PA and lateral\n\n INDICATION: [AGE/GENDER] year old woman with history of asthma, CHF, increased dyspnea // ? Worsening CHF, pneumonia\n\n TECHNIQUE: Chest PA and lateral\n\n COMPARISON: Comparison is made to chest x-rays dating from [DATE] through [DATE].\n\n FINDINGS:\n\n The cardiac silhouette is mildly enlarged and stable from previous studies. The aorta is heavily calcified otherwise the mediastinal silhouette is unremarkable. The hila are normal. The lungs are hyperinflated with flattening of the diaphragms. There is a small left pleural effusion but no evidence of focal consolidations or pulmonary edema.\n\n IMPRESSION:\n\n Small left pleural effusion otherwise no acute cardiopulmonary abnormalities.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 27,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10689622/s58890984/1e52a100-4354370f-d10cd0fb-48d928c9-fc6a13d4.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10689622/s58890984/a28a10f8-57b7867c-9860bcc2-5e4bf706-0075ede5.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Not specified.\n\n INDICATION: History of seizure. Please evaluate for infection.\n\n TECHNIQUE: AP and lateral radiographs of the chest.\n\n COMPARISON: Chest radiograph from [DATE].\n\n FINDINGS:\n\n Mild cardiomegaly has been stable compared to the prior exam from [DATE]. The evaluation of the lung parenchyma is limited due to low lung volumes and patient rotation, particularly of the left lower lobe. There is no large pleural effusion or pneumothorax. The visualized osseous structures are unremarkable.\n\n IMPRESSION:\n\n Limited assessment of the left lower lobe due to patient rotation, however no definite abnormalities are identified. Recommend repeat true upright and lateral radiographs for further evaluation.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 28,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10340584/s58970482/5f6889f0-c62d92e8-ea91338b-a6e6614c-040aa69e.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10340584/s58970482/f191704f-b838bba8-960c116a-7915072f-28d40a92.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest: Frontal and lateral views\n\n INDICATION: [AGE/GENDER] with chest pain and fever  // ?pneumonia\n\n TECHNIQUE: Chest: Frontal and Lateral\n\n COMPARISON: None.\n\n FINDINGS:\n\n There relatively low lung volumes.The lungs are clear without focal consolidation.  No pleural effusion or pneumothorax is seen. The cardiac and mediastinal silhouettes are unremarkable.\n\n IMPRESSION:\n\n No focal consolidation to suggest pneumonia.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 29,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10196368/s56179210/9302748d-919c791b-f430724e-f62b4f53-226251a0.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: PORTABLE AP CHEST X-RAY\n\n INDICATION: Patient with intubation.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: [PRIOR_STUDY] [PRIOR_STUDY]\n\n FINDINGS:\n\n ET tube is in adequate position, ending 6.4 cm above the carina.  Bibasilar opacities are nonspecific, it could represent aspiration pneumonia, atelectasis with superimposed pleural effusion.  There is mild volume overload and moderate cardiomegaly.  There is no pneumothorax.\n\n IMPRESSION:\n\n 1.  ET tube is in adequate position. 2.  Bilateral basal opacities are nonspecific and could be due to aspiration, atelectasis or pneumonia with probable superimposed pleural effusion.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 30,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10869829/s53621244/64e61e55-13c7ddf7-70e4a8d8-940cec1c-084a6f23.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER] year old man with s/p AVR // eval PICC placement\n\n TECHNIQUE: Not specified.\n\n COMPARISON: As compared to previous radiograph of [DATE], a right PICC has been placed, terminating at the expected location of the cavoatrial junction.\n\n FINDINGS:\n\n a right PICC has been placed, terminating at the expected location of the cavoatrial junction. Improved aeration at the lung bases.\n\n IMPRESSION:\n\n Otherwise relatively similar appearance of the chest except for improved aeration at the lung bases.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 31,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10048001/s54792659/3843f158-c0582cf2-ca2e1591-60e21556-42e77e70.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: chest\n\n INDICATION: Cough, suspected aspiration event.\n\n TECHNIQUE: Portable AP radiograph of the chest\n\n COMPARISON: in comparison to [PRIOR_STUDY] obtained at 07:28 p.m.\n\n FINDINGS:\n\n The current study continues to redemonstrate low lung volumes. There is no evidence of pneumothorax. There is minimal amount of pleural effusion demonstrated. The lungs are essentially clear with no definitive evidence of new consolidation to suggest aspiration process.\n\n IMPRESSION:\n\n no definitive evidence of new consolidation to suggest aspiration process",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 32,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10370489/s52296261/8821e90e-f26e4dfb-258999f3-af367a42-1dc4ef78.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10370489/s52296261/c58e86db-4f1d5556-4537bb1d-ece2bd54-8e12be30.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Not specified.\n\n INDICATION: [AGE/GENDER]-year-old female with cough and fever. Effusion seen on recent chest x-ray. Evaluation for interval change.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Comparison is made to radiograph of the chest from [DATE].\n\n FINDINGS:\n\n PA and lateral views of the chest are obtained. There is interval improvement in the right pleural effusion with some underlying atelectasis at the right lung base. The previously seen left pleural effusion is unchanged. The cardiomediastinal silhouette is unremarkable. There is no evidence of pulmonary edema or pneumothorax.\n\n IMPRESSION:\n\n Improving right pleural effusion with underlying atelectasis. Left pleural effusion is unchanged.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 33,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10357836/s55762936/849ee924-f083c673-ca7cd106-86474594-b517b964.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST RADIOGRAPH\n\n INDICATION: Dyspnea\n\n TECHNIQUE: Chest, AP supine\n\n COMPARISON: None\n\n FINDINGS:\n\n The aorta is calcified. Heart appears mildly enlarged. The chest is hyperinflated. Postsurgical changes are noted along the lower right hemithorax. Bronchovascular irregularity suggests emphysema. Patchy retrocardiac opacity suggests opacification in the left lower lobe with mild associated volume loss. Mild loss in height of T12 is noted.\n\n IMPRESSION:\n\n Findings suggesting emphysema. Patchy opacity at the left lung base, probably atelectasis but not specific",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 34,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10413821/s56301083/d35cfc54-0054903c-7ba4e9f9-572fa1ea-897c6b0c.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: History: [AGE/GENDER] with cough, presenting status post syncope\n\n TECHNIQUE: Portable upright AP view of the chest\n\n COMPARISON: None.\n\n FINDINGS:\n\n Lung volumes are low. This accentuates the size of the cardiac silhouette which is borderline enlarged. The mediastinal and hilar contours are unremarkable. There is crowding of the bronchovascular structures, but no overt pulmonary edema is demonstrated. Minimal streaky opacities are seen in the lung bases likely reflective of atelectasis. No large pleural effusion, focal consolidation or pneumothorax is present. Mild to moderate multilevel degenerative changes are noted in the thoracic spine.\n\n IMPRESSION:\n\n Low lung volumes with mild bibasilar atelectasis.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 35,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10592647/s50146893/1e87ac6c-8163cc50-bbc115e6-29222628-1725d5b2.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER] year old woman with tachypnea, chest pain  // r/o edema\n\n TECHNIQUE: Not specified.\n\n COMPARISON: [DATE].\n\n FINDINGS:\n\n Rotated positioning. Compared with [PRIOR_STUDY], there has been some interval clearing at both bases, with decreased retrocardiac opacity and renewed visualization of the left hemidiaphragm. Air bronchograms at the right base have also resolved. Small residual left-greater-than-right patchy opacity remains visible. Previously seen vascular blurring, consistent with mild CHF, has resolved. Enlarged cardiomediastinal silhouette, with sternotomy wires and prosthetic valve again noted, unchanged.\n\n IMPRESSION:\n\n Interval improvement of opacities at both bases and interval improvement of CHF findings.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 36,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10677866/s54401207/a360bcba-dc3886f7-7aa9a482-09cd94d3-2febe95d.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER] year old woman with stroke  // ?PNA      ?PNA\n\n TECHNIQUE: Not specified.\n\n COMPARISON: There no prior chest radiographs.\n\n FINDINGS:\n\n Lungs are fully expanded and clear.  Cardiomediastinal and hilar silhouettes and pleural surfaces are normal.\n\n IMPRESSION:\n\n Not specified.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 37,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10151556/s59213469/990a3f1a-0d3334a8-b851c75b-ac8c9033-b137f504.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER] year old woman with SOB, desat // eval for acute process\n\n TECHNIQUE: CHEST (PORTABLE AP)\n\n COMPARISON: [DATE]\n\n FINDINGS:\n\n Tracheostomy is in place. Cardiomediastinal silhouette is stable. Left pleural effusion is moderate to large, slightly increased. Left perihilar area appears to be increased as well as there is worsening of vascular congestion of the right lung\n\n IMPRESSION:\n\n findings concerning for progression of interstitial pulmonary edema.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 38,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10129254/s56509962/015b1c08-dcab2e78-81ab961b-31c18246-7bfa0454.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10129254/s56509962/c613e7ab-1b89b5eb-609c5636-809c0753-cbb143f9.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest PA and lateral\n\n INDICATION: [AGE/GENDER]-year-old male patient with persistent fevers, status post complicated hospital course for mesenteric ischemia, and [DATE] fungemia, evaluate for pneumonia.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Comparison is made with the next preceding portable AP single view chest examination obtained four hours earlier during the same day.\n\n FINDINGS:\n\n PA and lateral chest views were obtained with patient in upright position. The patient was now brought in upright position and a PA and lateral chest image could be obtained. Again, high positioned diaphragm probably related to abdominal process, obscured partially the heart shadow. Significant cardiac enlargement is unlikely. Unremarkable appearance of thoracic aorta without evidence of local contour abnormalities. Unchanged position of previously described PICC line terminating in lower third of SVC. The lateral and posterior pleural sinuses are free from any significant fluid accumulation. Again, there are bilateral thin plate atelectasis related to the high positioned diaphragms, but acute infiltrates of pneumonic appearance cannot be identified. No pneumothorax is seen in the apical area.\n\n IMPRESSION:\n\n No acute pneumonia in patient with history of fungemia in the presence of mesenteric ischemia.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 39,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10779064/s55489329/1572a8a0-3eb5d3c9-5e6e8adc-2a8cda17-2576b109.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST RADIOGRAPH\n\n INDICATION: Acute shortness of breath, evaluation for pulmonary edema.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n As compared to the previous radiograph, the aortic balloon pump has been removed. Mild pulmonary edema persists but has not increased as compared to the previous examination. Mild retrocardiac atelectasis, small cardiac silhouette. No pleural effusions.\n\n IMPRESSION:\n\n Mild pulmonary edema persists but has not increased as compared to the previous examination.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 40,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10115397/s51081971/0923ac3f-082dc77b-c589566a-9ab650f3-c6b71e71.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10115397/s51081971/b2aed372-4b457d94-f328e917-2bbfd06e-f9c0a473.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: AP radiograph of the chest\n\n INDICATION: Evaluation of the patient after aortic valve replacement and CABG.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: compared to [PRIOR_STUDY]\n\n FINDINGS:\n\n interval progression of interstitial pulmonary edema. Minimal, but overall, the severity of the edema is at least moderate, associated with bilateral pleural effusions and bibasal atelectasis. No appreciable pneumothorax is seen. The Dobbhoff tube tip is in the stomach.\n\n IMPRESSION:\n\n Interval progression of interstitial pulmonary edema with moderate severity, associated with bilateral pleural effusions and bibasal atelectasis. No pneumothorax. Dobbhoff tube tip in the stomach.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 41,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10388400/s51423594/e66eadb3-a2059372-5091d88d-b010854b-3c3b04b6.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest X-ray\n\n INDICATION: [AGE/GENDER] year old woman s/p Chest tube removal with concern for R PTX and subjective SOB // please eval for PTX\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Radiographs from [DATE]\n\n FINDINGS:\n\n Support lines and tubes are unchanged in position. Cardiac silhouette is upper limits of normal. There is a persistent moderate-sized left pleural effusion.\n\n IMPRESSION:\n\n There are no pneumothoraces.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 42,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10456934/s56194790/19347009-5ab0dc13-8e7a07bd-cf1d8c69-c80a9ce6.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest radiograph\n\n INDICATION: Evaluation of NG tube placement in a patient status post open sigmoid colectomy for diverticulitis.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Chest radiograph, [DATE].\n\n FINDINGS:\n\n Portable AP semi-upright view of the chest was reviewed and compared to the prior study. The nasogastric tube is in proper position with its most proximal side port located in the stomach. There are two additional lines that are known to be external. Left lower lung atelectasis is minimal; otherwise, the lungs are clear. Normal heart, pleural, and mediastinal surfaces.\n\n IMPRESSION:\n\n Nasogastric tube is in proper position with the most proximal side port located in the stomach.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 43,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10146904/s58446407/ea057600-70012dbe-931a51b4-d86a1870-3210678b.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Not specified.\n\n INDICATION: Shortness of breath. Evaluate for infiltrate.\n\n TECHNIQUE: Portable semi-upright AP radiograph of the chest.\n\n COMPARISON: Chest radiographs, [PRIOR_STUDY], [PRIOR_STUDY], and [PRIOR_STUDY].\n\n FINDINGS:\n\n The lungs are normally expanded and clear.  There is no focal airspace opacity, large pleural effusion or pneumothorax.  The heart is not enlarged.  The mediastinal and hilar contours are normal.  The aortic knob is calcified.  A right humeral prosthesis is partially imaged.\n\n IMPRESSION:\n\n No acute cardiopulmonary abnormality.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 44,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10956924/s54139333/89b329b3-95dd1671-7bf41723-e13e1afa-5a30b264.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10956924/s54139333/ee016c01-edb2bdb5-f3abb413-a47d6ec1-ed976c55.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Not specified.\n\n INDICATION: Chest pain\n\n TECHNIQUE: PA and lateral views of the chest\n\n COMPARISON: None.\n\n FINDINGS:\n\n The patient is status post median sternotomy, CABG, and aortic valve replacement. There is evidence of coronary artery stenting. The heart size is mildly to moderately enlarged. The aortic knob is calcified. The mediastinal and hilar contours are unremarkable. There is cephalization of the pulmonary vascular markings with mild engorgement, suggestive of mild pulmonary vascular congestion. The lungs are hyperinflated with flattening of the diaphragms possibly due to underlying COPD. Small right pleural effusion is present. There is adjacent compressive atelectasis in the right lung base. No pneumothorax is identified. No acute osseous abnormalities seen.\n\n IMPRESSION:\n\n Mild pulmonary vascular congestion and small right pleural effusion.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 45,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10838161/s58472084/91201217-ec83c9c0-713e5b1e-b62d5e44-4b33e2c6.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Not specified.\n\n INDICATION: Intubation with recent volume overload.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: None.\n\n FINDINGS:\n\n In comparison with the study of [DATE], the monitoring and support devices are unchanged. Cardiac silhouette remains at the upper limits of normal in size. Continued obscuration of the left hemidiaphragm is consistent with volume loss in the left lower lobe and small pleural effusion.\n\n IMPRESSION:\n\n Continued obscuration of the left hemidiaphragm is consistent with volume loss in the left lower lobe and small pleural effusion.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 46,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10685081/s52802097/139208cf-3436ff8e-18a5a2f3-70769c03-b8460597.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10685081/s52802097/1872851a-b65e1420-c46fa051-83f339e6-5d5d5ed4.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n WET READ: WET READ: [AGE/GENDER] [AGE/GENDER] [AGE/GENDER] 7:43 PM interval placement of L chest tube with only trace apical pneumothorax evident. lungs are clear. unchanged cardiomediastinal contour. [AGE/GENDER]\n ______________________________________________________________________________\n EXAMINATION: CHEST RADIOGRAPH\n\n INDICATION: Left pneumothorax after biopsy of left upper lobe mass. Evaluation.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: [PRIOR_STUDY], 12:46.\n\n FINDINGS:\n\n As compared to the previous radiograph, there has been interval placement of a left chest tube. The left apicolateral pneumothorax has a diameter of approximately 3-4 mm. There is no evidence of tension. Normal appearance of the cardiac silhouette. No acute lung abnormalities. The known biopsied changes are constant.\n\n IMPRESSION:\n\n The known biopsied changes are constant.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 47,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10853368/s50678940/1f81954b-42bafe53-1860909c-618e866e-d9f19629.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10853368/s50678940/5b482e27-0c029f83-469807a2-ae767d5b-ac82cef6.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest frontal and lateral views\n\n INDICATION: [AGE/GENDER]-year-old female with history of dizziness, recent angioplasty\n\n TECHNIQUE: Not specified.\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n Frontal and lateral views of the chest were obtained. There is minimal bibasilar atelectasis. No focal consolidation, pleural effusion, or evidence of pneumothorax is seen. The cardiac and mediastinal silhouettes are stable, as are the hilar contours\n\n IMPRESSION:\n\n Minimal bibasilar atelectasis. Otherwise, no acute cardiopulmonary process",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 48,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10754991/s58387117/c1984786-b291d859-07d79cd1-d59ece72-e72c4281.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10754991/s58387117/dfaee3fa-19671647-db26f715-c905aec0-4a450d2b.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST, FRONTAL AND LATERAL VIEWS.\n\n INDICATION: Chest pain.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n Frontal and lateral views of the chest were obtained. Surgical clips are seen in the thyroidectomy bed. No focal consolidation, pleural effusion, or evidence of pneumothorax is seen. There is slight prominence of the interstitial markings which may be due to very minimal interstitial edema. The cardiac and mediastinal silhouettes are unremarkable and stable.\n\n IMPRESSION:\n\n Possible minimal interstitial edema. No focal consolidation.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 49,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10760670/s53468449/aa1de98c-5b2943ac-7b348d9e-23424c11-71dd667b.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest X-ray\n\n INDICATION: [AGE/GENDER]-year-old female with non-productive cough and shortness of breath found to have pneumonia and volume overload, now requiring assessment for interval change.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Comparison is made with chest radiograph from [DATE].\n\n FINDINGS:\n\n Two frontal images of the chest demonstrate a decrease in the bilateral reticular interstitial markings of the lungs. There has also been interval increase in bilateral pleural effusions. These findings suggest a resolving pulmonary edema. There has also been interval increase in the density of the previously seen right hilar, right lower zone, and right upper zone opacities. Cardiomediastinal silhouette is unchanged.\n\n IMPRESSION:\n\n Resolving pulmonary edema. Increasing density of right lung opacities suggest progressing pneumonia.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 50,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10388400/s56431821/0b0ab8e3-2577b804-09e437cc-13209b6d-ffa6bfe5.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: PORTABLE AP CHEST RADIOGRAPH\n\n INDICATION: [AGE/GENDER] year old woman with HCAP s/p 8d abx, s/p chest tubes for bilateral pleural effusions, intermittent hypoxemia yesterday with increase in effusions, please evaluate for interval change in effusions.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Chest radiograph dated [DATE].\n\n FINDINGS:\n\n Bilateral small pleural effusions persist and are minimally improved from the prior exam if at all. A focal opacity just above the pleural effusions is probably loculated pleural fluid along the minor fissure. Adjacent compressive atelectasis is minimally improved. Lung volumes remain low. The cardiomediastinal contours are unchanged. Right pulmonary edema is mild. Aortic knob calcifications again noted. The left PICC line is unchanged and ends in the distal SVC. The left internal jugular vein ends at the origin of the left brachiocephalic vein. No pneumothorax.\n\n IMPRESSION:\n\n Persistent small bilateral pleural effusions and atelectasis, minimally improved, with mild right pulmonary edema.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 51,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10632377/s50248804/20e57a28-481df8f7-cc2ad774-31ccdd20-53f51a1c.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10632377/s50248804/2bb86823-45f8d22b-81f8d920-9a1be431-aa5e4be0.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10632377/s50248804/32c23c90-a439fa95-c4ce5e9e-8312a5fa-dc93b423.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Not specified.\n\n INDICATION: [AGE/GENDER] M with ILI // R/O PNA\n\n TECHNIQUE: PA and lateral views of the chest.\n\n COMPARISON: None.\n\n FINDINGS:\n\n The lungs are clear without focal consolidation, effusion, or edema. The cardiomediastinal silhouette is within normal limits.\n\n IMPRESSION:\n\n No acute cardiopulmonary process.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 52,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10839034/s53455871/2bd6a751-4b2cb08b-a2340239-48788dcd-d48e4159.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Portable AP radiograph of the chest\n\n INDICATION: Evaluation of the patient after subtotal colectomy and ileostomy and mucous fistula.\n\n TECHNIQUE: Portable AP radiograph of the chest was reviewed in comparison to [PRIOR_STUDY].\n\n COMPARISON: None.\n\n FINDINGS:\n\n The ET tube tip is 3 cm above the carina. The NG tube tip passes below the diaphragm terminating in the stomach. Heart size and mediastinum are grossly stable. There is interval progression of pulmonary edema, substantial, associated with bilateral pleural effusions. There is no evidence of pneumothorax.\n\n IMPRESSION:\n\n interval progression of pulmonary edema, substantial, associated with bilateral pleural effusions.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 53,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10797327/s59049515/39eb1711-43ab9cb7-3caf7145-77a61506-c9ac3441.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10797327/s59049515/81feb6e7-494b5612-9912ca1e-ce1b7143-a4549315.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PA AND LAT)\n\n INDICATION: [AGE/GENDER] year old man with h/o lung cancer, s/p RUL and partial RLL resection in [DATE]; now with DOE and spirometry showing severe obstruction // ?COPD\n\n TECHNIQUE: Chest PA and lateral\n\n COMPARISON: Multiple chest radiographs the most recent on [DATE].\n\n FINDINGS:\n\n Heart size is normal.  The mediastinal and hilar contours are normal. The pulmonary vasculature is normal.  Surgical chain sutures and surgical clips are seen in the right upper lobe as well as chain sutures in the right middle lobe consistent with resection. Lung volumes are low. Bibasilar opacities are suggestive of atelectasis. There is a new left pleural effusion. There are multiple pleural calcifications identified. There are no acute osseous abnormalities. Posterior fusion hardware of the thoracic spine is grossly intact, but not fully evuated by this study.\n\n IMPRESSION:\n\n New left pleural effusion and bibasilar atelectasis. CT scan could be considered for further evaluation of new pleural effusion etiology",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 54,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10784345/s57001381/9ceec063-42a0fd50-960f3838-dd228717-c1db89b2.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10784345/s57001381/c086318d-83ceaae0-5d370c09-3706fbc0-9121b40a.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PA AND LAT)\n\n INDICATION: [AGE/GENDER] with fever, evaluate for pneumonia.\n\n TECHNIQUE: PA and lateral view radiographs of the chest.\n\n COMPARISON: Prior chest radiographs from [PRIOR_STUDY].\n\n FINDINGS:\n\n There is no focal consolidation, pleural effusion, pneumothorax, or pulmonary edema. The cardiomediastinal silhouette is within normal limits.\n\n IMPRESSION:\n\n No acute cardiopulmonary process.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 55,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10958611/s52056143/9455b3d0-91757d61-559109aa-ce454798-04df08e1.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10958611/s52056143/dbe21a83-511aef96-59a8a884-8a7d6c09-608de458.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest X-ray\n\n INDICATION: Tracheal stenosis and shortness of breath, now requiring assessment for pneumonia\n\n TECHNIQUE: PA and lateral images of the chest\n\n COMPARISON: Comparison is made with chest radiographs from [DATE] and [DATE]\n\n FINDINGS:\n\n The lungs are well expanded. Atelectasis is seen in the right bilateral lung bases. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is enlarged. Known tracheal stenosis is noted.\n\n IMPRESSION:\n\n 1. No acute cardiopulmonary process. 2. Cardiomegaly",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 56,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10766043/s55915379/49ca8a81-9ab24088-7e36bfef-9e0717ef-dd25e003.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10766043/s55915379/a3933e1f-e26de287-45b4a305-dedb9965-24cefc82.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest X-ray\n\n INDICATION: Chest pain.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: CXR [PRIOR_STUDY], CT [PRIOR_STUDY].\n\n FINDINGS:\n\n Frontal and lateral views of the chest were obtained. Low lung volumes result in bronchovascular crowding. There is mild bibasilar atelectasis. No focal consolidation, pleural effusion or pneumothorax. Enlargement of the cardiac and mediastinal silhouettes is likely due to mediastinal lipomatosis seen on the prior CT, accentuated by low lung volumes. Pulmonary vasculature is normal. No displaced rib fracture is seen. There is no free air under the diaphragm.\n\n IMPRESSION:\n\n No pneumonia, edema, or effusion.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 57,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10773423/s55251054/c464e844-3f582d58-ccdd8ada-d749aabc-bf0a0428.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10773423/s55251054/e90182c1-80009886-938f9273-19568ac5-599a19bb.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest: Frontal and lateral views\n\n INDICATION: [AGE/GENDER] with recent colonoscopy now with b/l shoulder pain // eval diaphragms for free air or PNA\n\n TECHNIQUE: Chest Frontal and Lateral\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n The lungs are clear without focal consolidation. No pleural effusion or pneumothorax is seen. The cardiac and mediastinal silhouettes are stable. No evidence of free air is seen beneath the diaphragms.\n\n IMPRESSION:\n\n No acute cardiopulmonary process. No evidence of free air beneath the diaphragm.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 58,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10914124/s53319250/ec3ca5ee-c017f3be-b0cd0d38-80177e9e-d2d0d1f3.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST, SINGLE AP VIEW\n\n INDICATION: Right effusion status post thoracentesis, rule out pneumothorax.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Chest x-rays from [PRIOR_STUDY].\n\n FINDINGS:\n\n Compared with the prior study, the right effusion is somewhat smaller.  The left effusion is probably unchanged.  There is underlying atelectasis on the right and underlying collapse and/or consolidation at the left.  No pneumothorax is detected.  Again seen is the patient's tracheostomy.  The cardiomediastinal silhouette is enlarged, but unchanged.  No CHF.  No focal infiltrate in the upper or mid zone on either side.  Suspect background hyperinflation suggestive of COPD.  Clips are noted in the right abdomen, possibly in the region of the right costovertebral angle and a drain, catheter or other tubing overlies the left upper quadrant of the abdomen.\n\n IMPRESSION:\n\n Slight interval decrease in the right pleural effusion.  Left pleural effusion is grossly unchanged.  No pneumothorax is detected at either lung apex.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 59,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10250672/s52338798/7b4b50c4-1545b5d2-45dac330-b2b4764b-04f5ef82.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n WET READ: WET READ: [DATE] [DATE] [DATE]:[DATE] AM\nNew right-sided port appears to terminate appropriately within the lower SVC. New bilateral chest tubes are seen. There is a small amount of subcutaneous emphysema seen along the left upper chest wall. There is a small left pneumothorax. Possible tiny right apical pneumothorax. The abdominal drain appears to be in appropriate position. Findings were discussed with Dr. ___ at 8:[DATE]pm on the day of the exam by Dr. ___.\nWET READ VERSION #1 [DATE] [DATE] [DATE]:[DATE] PM\nNew right-sided port appears to terminate appropriately within the lower SVC. New bilateral chest tubes are seen. There is a small amount of subcutaneous emphysema seen along the left upper chest wall. There is a small left pneumothorax. Possible tiny right apical pneumothorax. The abdominal drain appears to be in appropriate position. Findings were discussed with Dr. ___ at 8:[DATE]pm on the day of the exam by Dr. ___.\n ______________________________________________________________________________\n EXAMINATION: CHEST PORT LINE/TUBE PLCT 1 EXAM\n\n INDICATION: [AGE/GENDER] year old man with gastric cancer, now s/p total gastrectomy, splenectomy, distal pancreatectomy, partial esophagectomy  // eval for ptx, position of tubes/lines/drains\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Preoperative image from [DATE].\n\n FINDINGS:\n\n There is a small left lateral pneumothorax. Left chest tube, nasogastric tube, right central venous access line and postoperative clips are in correct position. A second drain is inserted an projects over the left upper quadrant. A right-sided chest tube is also noted. A a pneumothorax on the right, if present, is minimal. Air inclusions in the left lateral soft tissues. Normal appearance of the cardiac silhouette.\n\n IMPRESSION:\n\n No evidence of tension.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 60,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10277852/s59222838/9f1d3f58-6aabe5dc-2556c77d-8a92a019-c949cc07.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10277852/s59222838/d3ab2230-c754da0d-88ec5370-4c0a29d8-c5723821.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PA AND LAT)\n\n INDICATION: [AGE/GENDER] year old man with PNEUMONIA // FOLLOW UP ON PNEUMONIA\n\n TECHNIQUE: PA and lateral views of the chest provided.\n\n COMPARISON: Chest radiograph dated [DATE].\n\n FINDINGS:\n\n Comparison with chest radiograph from [DATE], multifocal opacities in the bilateral upper zones and right mid zone have resolved. There is no new focal consolidation. No pleural effusion or pneumothorax. Mediastinal and hilar contours are stable. Heart size is normal.\n\n IMPRESSION:\n\n Resolved bilateral upper lobe and right midlung pneumonia.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 61,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10912490/s54804908/1fc79517-30421ca2-089a99f7-db62eaca-9fce0d16.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10912490/s54804908/a5f112a0-1379dcb3-5479ceb4-71e87dd5-e7d593b3.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10912490/s54804908/bb50a675-7aa610e3-f04aa405-4b86ce29-88bec345.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest X-ray\n\n INDICATION: Foreign body in the esophagus question pneumonia\n\n TECHNIQUE: Frontal and lateral radiographs of the chest\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n Tracheostomy tube is in unchanged expected position. Numerous rounded opacities are noted in both lungs which are increased in size and number compared to the prior study consistent with patient's known metastatic disease no pleural effusion or pneumothorax. Normal heart size. Stable aortic tortuosity. No definite pneumonia\n\n IMPRESSION:\n\n Increasing size and number of numerous pulmonary metastases. No radio-opaque foreign body. If persistent sensation, a barium swallow could be used to evaluate for foreign body",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 62,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10255799/s53287361/7e419db9-d3cebcf0-f6d3c039-418f43dc-d0d4ab87.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10255799/s53287361/ee1d5782-9f112228-50db4888-697bc263-7f88ec9f.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER] year old woman postop from gastropexy and Nissen now with resp distress postextubation.  // ?lung volumes, ?edema     ?lung volumes, ?edema\n\n TECHNIQUE: Not specified.\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n Left PICC line tip is at the level of mid SVC.  Cardiomediastinal silhouette is unchanged including substantial cardiomegaly and bilateral pleural effusions.  There is no pneumothorax.\n\n IMPRESSION:\n\n There is most likely present interval development of pulmonary edema.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 63,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10058033/s55746324/2bcfefba-2cdaf78b-2aaba900-67d672ce-f72c4539.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10058033/s55746324/9449511b-f9bdf6be-32193a81-3cda155a-59700b7a.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10058033/s55746324/b162d61e-ace89529-e3ee629d-1309cd53-ae359eff.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest X-ray\n\n INDICATION: Flu-like illness and sore throat\n\n TECHNIQUE: Frontal AP and lateral views of the chest were obtained\n\n COMPARISON: No relevant comparisons available\n\n FINDINGS:\n\n The lungs are well expanded and clear without focal consolidation, pleural effusion or pneumothorax. There is mild right basilar atelectasis. Heart size is normal. Mediastinal and hilar contours are normal\n\n IMPRESSION:\n\n No pneumonia, edema or effusion",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 64,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10268465/s58330938/d4afca43-2d434125-4843102f-9655c6b3-6a90c515.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER] year old man awaiting CABG, balloon pump in place  // eval for interval changes\n\n TECHNIQUE: Not specified.\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n pre-existing pulmonary edema has clearly decreased in extent and severity but is still visible. Moderate cardiomegaly persists. No interstitial thickening. No pleural effusions. No pneumonia. The intra-aortic balloon pump is within 2 mm of the upper most part of the aortic arch.\n\n IMPRESSION:\n\n As compared to the previous radiograph, the pre-existing pulmonary edema has clearly decreased in extent and severity but is still visible. Moderate cardiomegaly persists.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 65,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10680496/s52516846/13bc33cf-fa89cbab-20c1730e-c86dec46-9e798ec0.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10680496/s52516846/3e2c1825-1349e1ba-988eae5f-3487ba73-7ef56587.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Not specified.\n\n INDICATION: Cough and chest pain, here to evaluate for pneumonia.\n\n TECHNIQUE: PA and lateral radiographs of the chest.\n\n COMPARISON: Chest radiograph dated [DATE].\n\n FINDINGS:\n\n The inspiratory lung volumes are slightly decreased from the most recent prior study. The lungs are clear without focal consolidation concerning for pneumonia, pleural effusion, or pneumothorax. The pulmonary vasculature is not engorged. The cardiac silhouette is normal in size. The mediastinal and hilar contours are within normal limits. The trachea is midline. There is no free air beneath the right hemidiaphragm.\n\n IMPRESSION:\n\n No acute cardiopulmonary process.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 66,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10994222/s53649419/07323eb9-9b4d6fd9-3c5bd5a6-7ea1c803-d66b4bf2.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10994222/s53649419/d02a443a-c236b4f9-77e497ec-0b36ed06-ee713ca1.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Not specified.\n\n INDICATION: TAV, to assess for effusions\n\n TECHNIQUE: Not specified.\n\n COMPARISON: None.\n\n FINDINGS:\n\n In comparison with the study of [PRIOR_STUDY], there are bilateral pleural effusions, more prominent on the left with underlying compressive atelectasis.\n\n IMPRESSION:\n\n No change in the cardiac silhouette and no acute vascular congestion.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 67,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10177927/s56859022/58f3f186-6bf2e755-a8b3e86e-e6b043fc-7a10b8bd.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10177927/s56859022/95e9877a-a739920f-41f97a6e-9a0fbaa0-4e0ffdfb.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PA AND LAT)\n\n INDICATION: [AGE/GENDER] year old woman with rapid af neck swelling // r/o chf pericardial path RAPID AF,NECK SWELLING,LEG SWELLING PER PT BUT FX'D HEEL [DATE] YR AGO,SURGERICAL REPAIR,MILD COUGH R/O CHF,PERICARDIAL PATHOLOGY\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Compared to chest radiographs since [DATE], most recently [DATE].\n\n FINDINGS:\n\n Moderate enlargement of cardiac silhouette is new consistent with cardiomegaly and/or pericardial effusion. New small right pleural effusion is accompanied by either a small region of consolidation or atelectasis at the right base, raising concern for pneumonia. Pulmonary and mediastinal vasculature are mildly engorged but there is no edema.\n\n IMPRESSION:\n\n Moderate enlargement of cardiac silhouette consistent with cardiomegaly and/or pericardial effusion and concern for pneumonia.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 68,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10361930/s55064700/c286afe6-7db8f992-1a9ddc65-32115190-2169f10b.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: PORTABLE CHEST X-RAY, [DATE]\n\n INDICATION: Not specified.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Radiograph of earlier the same date.\n\n FINDINGS:\n\n As compared to the recent radiograph, there has been little overall change except for slight further improvement in asymmetrically distributed bilateral airspace process, which may be due to asymmetrical pulmonary edema with or without co-existing infectious pneumonia.\n\n IMPRESSION:\n\n slight further improvement in asymmetrically distributed bilateral airspace process, which may be due to asymmetrical pulmonary edema with or without co-existing infectious pneumonia.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 69,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10747985/s53532734/7894b59d-bbeb8c75-b9424393-c6becc79-8cb482df.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest AP portable single view.\n\n INDICATION: [AGE/GENDER]-year-old female patient with PICC line placement.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Comparison is made with the next preceding similar study of [DATE].\n\n FINDINGS:\n\n AP single view of the chest was obtained with patient in upright position. Comparison is made with the next preceding similar study of [DATE]. On the previous examination, a right-sided PICC line was identified and seen to terminate overlying the mid portion of the right atrium. Withdrawal of the line by 4 cm was recommended, but no followup examination obtained. The present examination obtained five days later demonstrates the presence of a right-sided PICC line presumably identical with the previous one. Termination point has changed and is now located 3 cm below the level of the carina which indicates the lower portion of the SVC, but safely above the expected entrance into the right atrium.\n\n IMPRESSION:\n\n These findings are unaltered, status post sternotomy and bypass surgery with moderate cardiac enlargement. No pneumothorax identified.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 70,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10295692/s50204328/6eb8c397-3c712e86-9223608c-b0ad4264-243cf933.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER] year old woman s/p chest tube removal.  // ?PTX      ?PTX\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Comparison to [PRIOR_STUDY] at 09:23\n\n FINDINGS:\n\n Portable upright chest radiograph [PRIOR_STUDY] at 15:25 is submitted.\n\n IMPRESSION:\n\n Interval removal of the right basilar chest tube with no obvious pneumothorax, although there may be a tiny amout of loculated air laterally and anteriorly, especially when correlated with the CT of ___.  Residual right lateral pleural thickening and blunting likely representing a combination of residual pleural fluid and/or pleural thickening.  Blunting of the left costophrenic angle is unchanged possibly representing a small effusion or chronic pleural thickening.  Overall cardiac and mediastinal contours are stable.  No pulmonary edema.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 71,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10332254/s58167704/2e75eeae-ba9aa170-c06dc548-a2ce53d8-6c6c07d1.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10332254/s58167704/7765fc5b-e25e79f2-0bcf868f-23bc7cac-173cc4c2.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Not specified.\n\n INDICATION: Congestive heart failure with chest tightness and shortness of breath for several hours.\n\n TECHNIQUE: PA and lateral views of the chest.\n\n COMPARISON: [PRIOR_STUDY] chest CTA chest radiograph.\n\n FINDINGS:\n\n Cardiac silhouette size remains mildly enlarged.  Mediastinal and hilar contours are unchanged, with mild tortuosity of the thoracic aorta noted.  Prominence of the hila bilaterally is similar.  The pulmonary vascularity is not engorged.  Linear opacity in the region of the lingula likely reflects scarring in is unchanged.  Remainder of lungs are clear.  No pleural effusion or pneumothorax is present.  No acute osseous abnormalities are detected.\n\n IMPRESSION:\n\n Linear scarring in the lingula.  No acute cardiopulmonary abnormality.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 72,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10232602/s52869703/6d7c37a5-2bcac5ff-4334802d-e8c6b564-ec949437.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER] year old woman with pleural effusions s/p L ___ and chest tube placement  // interval change, please do exam around 5 AM      interval change, please do exam around 5 AM\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Compared to prior chest radiographs since [DATE], most recently [DATE].\n\n FINDINGS:\n\n Since [DATE] small to moderate left pleural effusion has decreased substantially with insertion of the basal pigtail drainage catheter. No pneumothorax. Moderate right pleural effusion is unchanged. Upper lungs are clear. Cardiac silhouette is partially obscured but not greatly enlarged.\n\n IMPRESSION:\n\n Opacification at the lung bases could be due to atelectasis alone.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 73,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10572099/s51384679/42a3bf94-4cd1fc44-7ac81c7c-304cbde2-a763be35.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10572099/s51384679/cbaed255-f3ae79e4-bda4f256-dbdf952b-9e7a9a21.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: chest radiograph\n\n INDICATION: [AGE/GENDER] year old man with lung cancer receiving concurrent chemoRT // reassess tracheal deviation on prior CXR, ?artifact\n\n TECHNIQUE: Not specified.\n\n COMPARISON: compared to [PRIOR_STUDY] chest CT\n\n FINDINGS:\n\n Recently described rightward tracheal deviation on chest radiograph of earlier the same date appears less prominent and is now similar in extent to that observed on [PRIOR_STUDY] chest CT, which demonstrated no evidence of paratracheal mass. Lung volumes are low, and widespread subpleural interstitial fibrosis is again demonstrated as well as bullous emphysema. Left upper lobe peripheral lung nodule has been more fully characterized on recent CT.\n\n IMPRESSION:\n\n Recently described rightward tracheal deviation on chest radiograph of earlier the same date appears less prominent and is now similar in extent to that observed on [PRIOR_STUDY] chest CT, which demonstrated no evidence of paratracheal mass.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 74,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10240923/s55463562/7e60c91a-01d4ae9d-d1c4f7af-09536f54-640fd091.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER] year old man with renal cell carcinoma with btl chest tubes // ? pleural effusion interval change\n\n TECHNIQUE: Not specified.\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n Low lung volumes. Moderate cardiomegaly. Extensive left and minimal right basilar atelectasis. No pneumothorax is identified on the current image. No pulmonary edema.\n\n IMPRESSION:\n\n As compared to the previous radiograph, the bilateral chest tubes are in unchanged position.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 75,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10630336/s51895887/16d5daed-570a23d4-7a1a5baa-7f502cd5-14c89e79.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER] with PMH significant for CHF (EF [VALUE]%), COPD (FEV1 [VALUE]%), lung ca s/p RUL resection and AFib on coumadin presenting with dyspnea and lower extremity edema now with fever.  // Please evaluate for possible PNA/acute process    Please evaluate for possible PNA/acute process\n\n TECHNIQUE: Not specified.\n\n COMPARISON: In comparison with the study of [PRIOR_STUDY], there is little overall change.\n\n FINDINGS:\n\n Continued enlargement of the cardiac silhouette in a patient with elevated pulmonary venous pressure and right apical thickening as well as substantial chronic pulmonary disease.  Opacification at the left base is consistent with volume loss in the lower lobe and probable small effusion.\n\n IMPRESSION:\n\n Given all of these pulmonary findings, it is very difficult to unequivocally exclude acute focal pneumonia, especially in the absence of a lateral view.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 76,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10295692/s52045351/d239f79e-cbca99d5-aebae33e-8ee9dbf4-2b32b0fe.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest X-ray\n\n INDICATION: [AGE/GENDER] year old woman with R lung empyema. S/p 2 chest tubes placed [DATE] [DATE] and empyema with pus. Assess for pneumothorax or progression of R Lung consolidation.\n\n TECHNIQUE: Upright AP portable chest radiograph.\n\n COMPARISON: Radiographs from [DATE] through [DATE].\n\n FINDINGS:\n\n Compared to the most recent exam, no significant change. Bilateral atelectasis and pleural effusion, right worse than left is seen. There is loculated small amount pleural air at the right base beneath the right lung, likely from pleural restriction. The right lung is not well expanded likely due to thickened pleura. Heart size is difficult to determine due to thickened pleura, though not significantly changed. Bilateral pleural effusion is unchanged. There are 2 chest tubes in the right chest. There is apparent change in the upper chest tube position compared to the prior, with the most proximal port in the intercostal space, previously intrathoracic.\n\n IMPRESSION:\n\n 1. Upper right chest tube port in the right intercostal space, not in the chest. Repositioning is recommended.\n 2. Otherwise no significant change.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 77,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10957591/s58169386/220ba124-bc7ff029-6f7456f0-5c6da268-da6d628d.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10957591/s58169386/4194523d-a7f5832f-140d02e9-1777fee8-955f2bd0.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: DX CHEST PORT LINE/TUBE PLCMT 2 EXAMS\n\n INDICATION: [AGE/GENDER] year old man s/p CEA and stroke, failed swallow eval, dobhoff placement // ? tube placement (___ attempt) ? tube placement (___ attempt)\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Compared to chest radiographs since [DATE], most recently [DATE].\n\n FINDINGS:\n\n 2 sequential views of the chest so successive advancement of the esophageal feeding tube, with the wire stylet in place, from the low esophagus to the mid stomach. Moderate to severe pulmonary edema moderate right and large left pleural effusions and severe left lower lobe atelectasis are unchanged. No pneumothorax. Cardiac silhouette partially obscured, probably unchanged since [DATE], but probably enlarged.\n\n IMPRESSION:\n\n Moderate to severe pulmonary edema, moderate right and large left pleural effusions, and severe left lower lobe atelectasis are unchanged. Cardiac silhouette probably enlarged.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 78,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10130111/s55375426/36800418-bfa7e077-f25a7d8e-c0e9b224-3e4447a2.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10130111/s55375426/4803d28f-7d066cee-a2f5ad2c-f67d0f7a-42579c63.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER] year old man with left brainstem cerebellum stroke  // confirm NG Tube placement.\n\n TECHNIQUE: Single frontal view of the chest\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n NG tube tip isin the stomach. The side port is at the level of the EG junction are should be advanced 10 cm for more standard position. Moderate cardiomegaly, mild pulmonary edema, bilateral effusions are stable. There is no evident pneumothorax. There is residual contrast in the colon\n\n IMPRESSION:\n\n Not specified.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 79,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10003400/s52437868/2f6a5fc9-40af95f8-d8762332-f56005ea-b5f85cc2.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10003400/s52437868/614f2c90-32ad908d-5824fecd-8c8c1dd7-7057d31a.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10003400/s52437868/cd3a2b0e-4ac2df1e-e138d67b-686d753d-9946bf94.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER] year old woman with AMS s/p dobhoff placement  // dobhoff placement, stage 1 of 2\n\n TECHNIQUE: Not specified.\n\n COMPARISON: [DATE].\n\n FINDINGS:\n\n 3 radiographs are provided. On the film 3, the tip of the Dobbhoff catheter projects over the proximal parts of the stomach. The course of the device is unremarkable.\n\n IMPRESSION:\n\n No complications. Unchanged appearance of the lung parenchyma, the pleura and the heart.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 80,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10026263/s56448939/48d248d1-d06d9396-67edc16c-f950fc8d-de812e20.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10026263/s56448939/81d29bb9-c1719d4b-c5d49a9b-a8cfa4b9-59f7b6f5.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10026263/s56448939/baab8c5f-c2833097-80218cb5-b5906587-f33a2e7e.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: chest radiograph\n\n INDICATION: Intermittent exertional dizziness, evaluate for pneumonia or heart failure.\n\n TECHNIQUE: PA AND LATERAL VIEWS OF THE CHEST\n\n COMPARISON: Chest radiograph [PRIOR_STUDY].\n\n FINDINGS:\n\n The cardiomediastinal, pleural and pulmonary structures are unremarkable. There is no pleural effusion or pneumothorax. No focal airspace consolidation is seen to suggest pneumonia. Heart size is normal. There are mild degenerative changes of thoracic spine, with anterior osteophytosis.\n\n IMPRESSION:\n\n No acute cardiopulmonary process.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 81,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10039708/s52212139/61b1a672-e06d231b-356fb58a-393840de-4d4204b2.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10039708/s52212139/d25a5ac4-67bc3196-77245349-6d72eb73-93ad3ca3.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PA AND LAT)\n\n INDICATION: [AGE/GENDER] with hx of EtOH presenting w/ 1 week dizziness s/p fall on [DATE]. Concern for trauma and/or hepetic encephalopathy // r/o subdural and r/o atrophy\n\n TECHNIQUE: Not specified.\n\n COMPARISON: None\n\n FINDINGS:\n\n PA and lateral views of the chest provided. There is no focal consolidation, effusion, or pneumothorax. The cardiomediastinal silhouette is normal. Imaged osseous structures are intact. No free air below the right hemidiaphragm is seen.\n\n IMPRESSION:\n\n No acute intrathoracic process.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 82,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10581271/s59381314/4416e076-1c296f49-6c983836-f432f3df-a8dc5158.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10581271/s59381314/c6fb3a5b-5d4297de-4c239e75-7300701f-a954d248.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest X-ray\n\n INDICATION: [AGE/GENDER] with CP and SOB, recent pericardial effusion, rule out acute process.\n\n TECHNIQUE: Chest PA and lateral\n\n COMPARISON: 1. CT Chest [PRIOR_STUDY].\\n2. Chest x-ray [PRIOR_STUDY].\n\n FINDINGS:\n\n Cardiac leads overlie the right chest and terminate over the right atrium and ventricle in unchanged configuration. The cardiomediastinal silhouette is stable and within normal limits. The hila are unremarkable. The lungs are clear without focal consolidation. There is no pulmonary venous congestion or pulmonary edema. The left pleural effusion has resolved. There is no right pleural effusion. There is no pneumothorax.\n\n IMPRESSION:\n\n No acute cardiopulmonary process. Resolution of left pleural effusion.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 83,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10933538/s51785035/1c17a9cf-5d8f8b86-06213032-734bdc6a-9d726346.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10933538/s51785035/6a08d97c-2e3924ad-56935ea2-ccae8470-27d3856d.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: FINAL REPORT\n\n INDICATION: [AGE/GENDER] year old woman with hx CHF, n/v and R sided crackles\n\n TECHNIQUE: Not specified.\n\n COMPARISON: [DATE]\n\n FINDINGS:\n\n PA and lateral views of the chest were provided.  The heart remains mildly enlarged.  There is stable scarring at the left lung base.  No focal consolidation, effusion, or pneumothorax is seen.  The mediastinal contour is stable.  Bony structures are intact.  Partially imaged hardware is seen in the mid cervical spine.\n\n IMPRESSION:\n\n No acute findings.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 84,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10457876/s59263920/18e31743-1b896dfe-b86fb4fa-ca96bf14-8008c41b.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER] year old woman with bilateral pleural effusions status post left sided pleural catheter placement.  // assess for interval change in effusions\n\n TECHNIQUE: Portable chest\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n Compared to the prior study there is no significant interval change.\n\n IMPRESSION:\n\n No change.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 85,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10714633/s55623083/a840fe68-6a257c7c-a3536488-0c871209-d14e8d7f.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10714633/s55623083/bd5fa179-32be0b59-19610fb9-2f8eda08-d054492c.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PA AND LAT)\n\n INDICATION: [AGE/GENDER] year old woman with cough for one week, now with rhonchi // r/o PNA\n\n TECHNIQUE: PA and lateral views of the chest provided.\n\n COMPARISON: Chest radiographs dated [DATE].\n\n FINDINGS:\n\n Compared to chest radiographs from [PRIOR_STUDY], there is no significant change. Lungs are clear without focal consolidation, effusion, or pneumothorax. There is no central vascular congestion or overt pulmonary edema. Mediastinum, hila and pleural surfaces are unremarkable. Heart size is normal.\n\n IMPRESSION:\n\n No evidence of pneumonia.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 86,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10921049/s54819276/8c228e7b-e7a9147b-b2b04f2d-1c2870ad-cc899933.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10921049/s54819276/a6bc7942-65a9b743-8f2592df-6748f3ac-86b2e73a.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PA AND LAT)\n\n INDICATION: [AGE/GENDER] year old man with hypercalcemia  // please perform PA/lateral please perform PA/lateral\n\n TECHNIQUE: Not specified.\n\n COMPARISON: None.\n\n FINDINGS:\n\n In comparison with the study of [PRIOR_STUDY], and there is further enlargement of the cardiac silhouette with worsening pulmonary vascular congestion and bilateral pleural effusions. The possibility of nodular opacifications is suggested.\n\n IMPRESSION:\n\n Again, CT would be necessary for further evaluation.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 87,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10322775/s50094634/28ac6fbf-7e3a982f-54d836a0-a755f9b1-49de48f0.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10322775/s50094634/6659911d-bb6d630a-d8cdcb42-9b6f55d3-4c91bf7e.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest: Frontal and lateral views\n\n INDICATION: History: [AGE/GENDER] with dyspnea  // evidence of pneumothorax\n\n TECHNIQUE: Chest: Frontal and Lateral\n\n COMPARISON: None.\n\n FINDINGS:\n\n Patient is status post recent right-sided wedge per sec chin.  Peripheral right mid lung opacity likely relates to wedge resection, may be post procedural or small focus of hemorrhage.  .  No focal consolidation is seen elsewhere.  No pleural effusion or pneumothorax is seen. The cardiac and mediastinal silhouettes are unremarkable.\n\n IMPRESSION:\n\n No pneumothorax.  Peripheral opacity at the right mid lung most likely related to recent wedge resection",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 88,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10388400/s58348951/7a968f6e-7db7ade1-32607904-c092c537-63a2136a.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER] year old woman with persistent AMS who is intubated.  // Evaluate for interval change      Evaluate for interval change\n\n TECHNIQUE: Not specified.\n\n COMPARISON: None.\n\n FINDINGS:\n\n In comparison with the study of [PRIOR_STUDY], the monitoring and support devices are unchanged.  Pigtail catheters remain in place bilaterally. Again there are layering pleural effusions, more prominent on the right, with compressive atelectasis at the bases.\n\n IMPRESSION:\n\n Layering pleural effusions, more prominent on the right, with compressive atelectasis at the bases.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 89,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10141364/s56176263/e1a9c6eb-1a7c45f0-fa116b82-88ff1681-083e1140.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10141364/s56176263/f877eb57-4133129b-ca6d0ef4-30cdc370-3ffab310.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PA AND LAT)\n\n INDICATION: [AGE/GENDER] with hypoxia // eval infiltrate\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Chest CT from [DATE] and prior chest radiograph from [DATE].\n\n FINDINGS:\n\n PA and lateral views of the chest provided. Overall, there has been slight interval progression in overall degree of interstitial pulmonary fibrosis as compared with [DATE] radiograph. No large effusion or pneumothorax. Difficult to exclude a superimposed subtle pneumonia. The cardiomediastinal silhouette is stable. Bony structures are intact.\n\n IMPRESSION:\n\n Interval progression of pulmonary fibrosis compared with [DATE].",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 90,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10336855/s57096485/a7aaab8d-8722b39c-692a5ffa-e7eb43d9-8c40d2ff.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: FINAL REPORT\n\n INDICATION: [AGE/GENDER] year old woman with reintubation // assess ETT and OGT\n\n TECHNIQUE: Chest PA and lateral\n\n COMPARISON: Chest radiograph from [DATE] and [DATE]\n\n FINDINGS:\n\n Compared to the prior study the lung volumes are slightly increased. Compared to the study from [DATE], the bilateral opacities have slightly improved. The cardiomediastinal and hilar contours are stable. The pleural surfaces are stable. The ET tube terminates approximately 2 cm above the carina. The OG tube traverses the diaphragm however the tip is not visualized on this image. The right PICC line is stable in terminates in the lower SVC.\n\n IMPRESSION:\n\n The ET tube terminates 2 cm above the carina. The OG tube tip is not a visualized. Slight interval improvement of bibasilar atelectasis.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 91,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10679238/s55407346/59a05c79-98b557c6-8ede0575-1552443a-c9ac4756.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Not specified.\n\n INDICATION: Stroke\n\n TECHNIQUE: Semi supine AP view of the chest\n\n COMPARISON: None available at this time (patient is listed as \"Eu Critical)\n\n FINDINGS:\n\n The heart size is mildly enlarged. The aorta is diffusely calcified. Mild interstitial pulmonary edema is demonstrated. Hilar contours are unremarkable. Right apical pleuroparenchymal scarring is visualized. No large pleural effusion or pneumothorax is demonstrated. Diffuse demineralization of the osseous structures is noted with multiple compression deformities identified as well as changes from prior vertebroplasty within the lower thoracic vertebral body.\n\n IMPRESSION:\n\n Mild interstitial pulmonary edema",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 92,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10653589/s54611483/56ae3ba8-a8be69a7-f436acf1-f0e99f59-db42e97e.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest X-ray\n\n INDICATION: [AGE/GENDER] year old woman with right pleural effusion s/p right thoracentesis. Evaluate for pneumothorax.\n\n TECHNIQUE: Upright portable AP trace radiograph.\n\n COMPARISON: Chest radiographs from [DATE] at 10:30.\n\n FINDINGS:\n\n Compared to radiograph obtained 5 hours prior, there has been decrease in amount of right pleural effusion, likely from paracentesis. There is a small right apical pneumothorax. The left lung is grossly clear. The heart is enlarged, unchanged from prior. Mediastinal contour is mostly unchanged. Pulmonary edema is mild. There is no focal consolidation. Single lead pacemaker appears unchanged in position. There has been interval placement of drainage catheter in the right base.\n\n IMPRESSION:\n\n 1. Small right apical pneumothorax. 2. Interval decrease in right pleural effusion.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 93,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10599327/s54925744/8b56a7a7-49c33cac-7848233f-d74f07ac-b52e5718.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n WET READ: Findings were discussed with Dr. ___ at 11:50AM on [DATE] via telephone by Dr. ___.\n ______________________________________________________________________________\n EXAMINATION: Single frontal chest radiograph.\n\n INDICATION: [AGE/GENDER]-year-old male with hypotension and likely sepsis. Evaluate for pneumonia or pneumothorax.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: [PRIOR_STUDY], [PRIOR_STUDY], and [PRIOR_STUDY]\n\n FINDINGS:\n\n There is worsened right basilar collapse since [DATE], new since [DATE]. There are no large pleural effusions or pneumothorax. There is stable left lower lobe collapse/atelectasis with left-sided volume loss. A tracheostomy tube remains in standard position with tip terminating within the mid trachea. Cardiomediastinal and hilar contours are stable. Heart size is normal. Pulmonary vascularity is not engorged.\n\n IMPRESSION:\n\n Worsening right lower lobe collapse since [DATE].",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 94,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10267773/s52437438/03df64f7-9aa1736a-89b5be2a-6bc4efbd-c868b91d.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10267773/s52437438/26f5e7dd-9b7f6077-e1f6e5a4-9181363e-d1a8ee18.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest X-ray\n\n INDICATION: [AGE/GENDER] with wheezing, feeling unwell. Evaluate for acute cardiopulmonary process.\n\n TECHNIQUE: PA and lateral chest radiographs.\n\n COMPARISON: [PRIOR_STUDY] and [PRIOR_STUDY].\n\n FINDINGS:\n\n The lungs are well expanded and clear. Cardiomediastinal and hilar contours are unremarkable. There is no evidence of pleural effusion or pneumothorax. A Port-A-Cath catheter is noted in the anterior wall of the right hemithorax with the tip of the catheter in the mid-to-low SVC.\n\n IMPRESSION:\n\n No acute cardiopulmonary process.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 95,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10834554/s54134002/5eb98ca5-7beb3605-f5916146-2782faae-8764a498.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n WET READ: WET READ: [AGE/GENDER] [AGE/GENDER] [DATE] 8:14 PM\n  Lines and tubes satisfactory in location.  Low lung volumes with mild edema\n  and retrocardiac likely atx.  Postoperative mediastinal widening.  - [PRIOR_STUDY] x\n  _________________________________________________________________________________\n ______________________________________________________________________________\n EXAMINATION: CHEST RADIOGRAPH\n\n INDICATION: Line placement.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Pre-operative image from [PRIOR_STUDY].\n\n FINDINGS:\n\n The patient is after CABG. The tip of the endotracheal tube projects 5 cm above the carina. The mediastinal and pleural drains are in expected position. Mild fluid overload. Correct course and position of the Swan-Ganz catheter and the nasogastric tube. Minimal post-surgical pulmonary edema. No evidence of pneumothorax. No pleural effusions.\n\n IMPRESSION:\n\n Mild fluid overload and minimal post-surgical pulmonary edema. No pneumothorax or pleural effusions.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 96,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10310938/s56914260/589d868f-df7ace6c-50224df2-b5020631-e87fb08d.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10310938/s56914260/aa2d6e03-25df974e-4b1b4d2f-4dc0c816-841494b7.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PA AND LAT)\n\n INDICATION: [AGE/GENDER] with chest pain.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: None\n\n FINDINGS:\n\n PA and lateral views of the chest provided. There is no focal consolidation, effusion, or pneumothorax. The cardiomediastinal silhouette is normal. Imaged osseous structures are intact. No free air below the right hemidiaphragm is seen.\n\n IMPRESSION:\n\n No acute intrathoracic process.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 97,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10376174/s57870887/022f6d5b-a648c95f-11574009-b1d90d93-8c243421.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10376174/s57870887/8976ff11-5db0305e-65958d1a-6e55603a-28587cd4.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PA AND LAT)\n\n INDICATION: History: [AGE/GENDER] with cough, chills\n\n TECHNIQUE: Chest PA and lateral\n\n COMPARISON: None.\n\n FINDINGS:\n\n Heart size is normal. The mediastinal and hilar contours are normal. The pulmonary vasculature is normal. Lungs are clear. No pleural effusion or pneumothorax is seen. There are no acute osseous abnormalities.\n\n IMPRESSION:\n\n No acute cardiopulmonary abnormality.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 98,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10337761/s52510792/a4ec5788-89410675-2a77f4db-238a8611-26be2a67.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10337761/s52510792/d2fdc2c6-ee41d9cc-08bda18f-03ba04b1-12eb30a2.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest X-ray\n\n INDICATION: [AGE/GENDER]-year-old female with CHF with acutely worsening shortness of breath. Evaluation for pulmonary edema or pleural effusion.\n\n TECHNIQUE: PA and lateral views of the chest were obtained.\n\n COMPARISON: Comparison is made to radiograph of the chest from [DATE].\n\n FINDINGS:\n\n There has been some interval improvement in the pulmonary vascular enlargement since the prior study. The cardiac size is enlarged and is unchanged since the prior study. There is no evidence of pleural effusion or focal consolidation. No pneumothorax is present. The previously seen right PICC is in standard position, unchanged since the prior.\n\n IMPRESSION:\n\n Interval improvement in pulmonary vascular congestion since the prior study. Otherwise, unchanged chest radiograph.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 99,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10168636/s54677952/5db4aa02-d1a0d5de-832bca77-05f1802c-c53401dc.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10168636/s54677952/f54bf24b-6be946e7-ce670a59-ac2d251c-a81be2aa.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST RADIOGRAPH\n\n INDICATION: Open thoracic aortic repair, evaluation.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n As compared to the previous radiograph, the position and alignment of the ___, the position of the right internal jugular vein catheter are unchanged. There is paucity of lung parenchymal structures at the left lung apex, but no definitive pneumothorax is seen. Minimal left basal areas of atelectasis are unchanged as compared to the prior examination. No new focal parenchymal opacities. Known massive post-operative aortic changes.\n\n IMPRESSION:\n\n Known massive post-operative aortic changes.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 100,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10376174/s52602958/2c467dc6-88acb6b6-3ea1324e-df701e62-63b824ab.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10376174/s52602958/722e68d9-9fab717a-3bbd69c2-b617f74d-08fb1c89.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n WET READ: [AGE/GENDER] [AGE/GENDER] 6:12 AM\n ______________________________________________________________________________\n EXAMINATION: Not specified.\n\n INDICATION: [AGE/GENDER]F with cough, evaluate for pneumonia.\n\n TECHNIQUE: Chest PA and lateral\n\n COMPARISON: Prior chest radiographs dated [DATE].\n\n FINDINGS:\n\n There is no focal consolidation, pleural effusion, pulmonary edema, or pneumothorax. The cardiomediastinal contour is normal. Mild dextroscoliosis of the midthoracic spine is unchanged from the prior study. The upper abdomen is unremarkable.\n\n IMPRESSION:\n\n No acute cardiopulmonary process.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 101,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10834554/s59152064/7ffc79d7-e32b6a1f-1ba9a90b-bf84bf8a-7edb96fb.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest X-ray\n\n INDICATION: [AGE/GENDER]-year-old male with hypoxia, status post central venous line placement.\n\n TECHNIQUE: Single frontal chest radiograph was obtained with the patient in an upright position.\n\n COMPARISON: [DATE] at approximately 12:20 p.m.\n\n FINDINGS:\n\n There has been interval placement of a right internal jugular catheter with tip projecting over the mid to low superior vena cava. Severe bilateral pulmonary opacities are again seen. Heart size is again noted to be enlarged.\n\n IMPRESSION:\n\n Central venous catheter tip projecting at the level of the mid to low superior vena cava. No pneumothorax is detected on this view.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 102,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10568322/s59572482/5134e24e-fa7a1939-1f888145-f77a75e0-993d47a4.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10568322/s59572482/8e82fdd4-70d2b081-c700123a-075354b0-95a508cf.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest radiograph\n\n INDICATION: Fevers and cough.\n\n TECHNIQUE: Chest PA and lateral\n\n COMPARISON: None\n\n FINDINGS:\n\n Heart size is normal. Cardiomediastinal silhouette and hilar contours are normal. Lungs are clear. Pleural surfaces are clear without effusion or pneumothorax.\n\n IMPRESSION:\n\n No acute cardiopulmonary abnormality.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 103,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10707631/s56519087/2f18aaa8-1478cc9c-7a26f92a-b7885ca9-b7bc165d.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10707631/s56519087/89aa21b4-d6f945cd-e67e71a1-d5c162e7-3ff2f240.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Not specified.\n\n INDICATION: Chest pain.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: None available.\n\n FINDINGS:\n\n The lungs are clear with no evidence of consolidation, effusion, or pneumothorax. Cardiomediastinal silhouette is normal. Sternal pectus deformity is mild to moderate.\n\n IMPRESSION:\n\n No evidence of acute cardiopulmonary abnormality.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 104,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10417000/s57720134/e6f6629f-454c79c3-289a00a8-51669f28-6d7fa2a5.jpg"
+    ],
+    "ground_truth": "WET READ: ___ ___ ___ 8:22 PM\n  \n  \n  ET tube 4.1 cm from the carina.  Enteric tube with the tip and side-port in\n  the stomach.  Right internal jugular central venous catheter in the mid SVC. \n  Two drains projecting over the mediastinum and one over the left hemi thorax. \n  Multiple epicardial pacing leads projecting over the heart.  Extensive\n  subcutaneous gas along the left chest wall.\n  \n  The lung apices are omitted from view.  No large pneumothorax is seen on this\n  supine view.  There is likely small left pleural effusion.\n  \n  There is a an opacity at the left upper lobe projecting from the aorta to the\n  left apex.  This is new since the study of ___ at 14:29.  It is\n  unclear whether this is expected postoperative change or hemorrhage.  If there\n  is any concern for postoperative bleeding CT of the chest should be obtained.\n  \n   The findings were telephoned to ___ by ___ at 21:30, \n  ___, ___ min after discovery.  The provider explain that the opacity\n  likely reflects expected postoperative hematoma and that there was no evidence\n  of active bleeding\n WET READ VERSION #___ ___ ___ 9:34 PM\n  ET tube 4.1 cm from the carina.  Enteric tube with the tip and side-port in\n  the stomach.  Right internal jugular central venous catheter in the mid SVC. \n  Two drains projecting over the mediastinum and one over the left hemi thorax. \n  Multiple epicardial pacing leads projecting over the heart.  Extensive\n  subcutaneous gas along the left chest wall.\n  \n  The lung apices are omitted from view.  No large pneumothorax is seen on this\n  supine view.  There is likely small left pleural effusion.\n  \n  There is a an opacity at the left upper lobe projecting from the aorta to the\n  left apex.  This is new since the study of ___ at 14:29.  It is\n  unclear whether this is expected postoperative change or hemorrhage.  If there\n  is any concern for postoperative bleeding CT of the chest should be obtained.\n  \n   The findings were telephoned to ___ by ___ at 21:30, \n  ___, ___ min after discovery.  The provider explain that the opacity\n  likely reflects expected postoperative hematoma and that there was no evidence\n  of active bleeding\n ______________________________________________________________________________\n                                 FINAL REPORT\n INDICATION:  ___ year old man s/p takeback for mediastinal washout  // Post-op\n CXR\n \n COMPARISON:  Comparison is made with prior studies including ___ at\n 16:30.\n \n IMPRESSION: \n \n The lung apices are not included on this study limiting observation.  There is\n no definite pneumothorax or pneumomediastinum.  There is subcutaneous\n emphysema on the left as on the earlier study.\n Extensive postoperative changes are present.  There is a left chest tube and\n mediastinal drains are present.  Endotracheal tube tip is 4 cm above the\n carina.  Right central line tip is in the superior vena cava.  Nasogastric\n tube tip is in the stomach.\n There is better aeration of the left lung as compared to the earlier study. \n There is an area of density in the left apex medially which could represent\n atelectasis, but correlation with surgical intervention that region is\n recommended.  This may be accentuated by slight patient rotation to the left.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 105,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10502838/s50911852/382fd86e-76ea138e-df07ff9a-2401776e-4736d988.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST, SINGLE AP PORTABLE VIEW\n\n INDICATION: Assess for effusion, pneumonia.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Chest x-rays from [PRIOR_STUDY] at [DATE]\n\n FINDINGS:\n\n Compared to the prior film, the overall appearance is fairly similar. There is slight increase in a small effusion at the right base, associated with a small amount of collapse and/or consolidation. Patchy opacity at the left base with retrocardiac density and partial obscuration of the left hemidiaphragm is unchanged. Upper zone redistribution, vascular plethora ,and diffuse vascular blurring, consistent with CHF and interstitial edema, is similar to the prior film. The cardiomediastinal silhouette is stable. The left-sided pacemaker with lead tips over right atrium and right ventricle also appears stable.\n\n IMPRESSION:\n\n CHF with interstitial edema. Bibasilar patchy opacities and probable small effusions. Very slight increase in the right effusion compared with [PRIOR_STUDY].",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 106,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10071403/s54086998/25cff847-28786ab6-cd65f997-44e8a552-6c128f6e.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n WET READ: WET READ: [AGE/GENDER] [DATE]\nThe endotracheal tube ends 1.5 cm above the carina and should be retracted2 cm. Compared to the prior chest radiograph performed [DATE] there is improved aeration of the left lobe. Retrocardiac opacity and a probable left effusion persist. ___ discussed with ___ ___ ___.\n ______________________________________________________________________________\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER] year old man with left lung collapse secondary to NSCLC, now s/p endobronchial stenting  // ? interval change in left lung collapse\n\n TECHNIQUE: CHEST (PORTABLE AP)\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n ET tube tip is 1.5 cm above the carina and should be retracted 2 cm. .  Heart size and mediastinum are unchanged in appearance.Compared to the prior chest radiograph performed 1 day ago there is improved aeration of the left lobe. Retrocardiac opacity and a probable left effusion persist.\n\n IMPRESSION:\n\n Not specified.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 107,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10432951/s59788680/353394b9-384e8cc5-fd41ee91-d1fac04d-e78f1798.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10432951/s59788680/6e8f049b-142991ce-9d417ec1-ab62283c-46869cc7.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST RADIOGRAPH\n\n INDICATION: COPD, oxygen requirement.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n As compared to the previous radiograph, there is unchanged moderate cardiomegaly with moderate pulmonary edema. In addition, there is increasing volume loss of the right upper lobe with subsequent opacification of this anatomic region, potentially representing recent or developing pneumonia. The nasogastric tube has been removed. The observation was made at the time of dictation, 11:39 a.m., on [DATE]. At the same time the referring physician, ___. ___, was paged for notification.\n\n IMPRESSION:\n\n Unchanged moderate cardiomegaly with moderate pulmonary edema. Increasing volume loss of the right upper lobe with opacification of this anatomic region, potentially representing recent or developing pneumonia.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 108,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10259372/s58258281/4256ce99-403b3e0d-1871ebf3-27134b0b-5026280a.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST RADIOGRAPH\n\n INDICATION: Fever\n\n TECHNIQUE: Chest, portable AP\n\n COMPARISON: None\n\n FINDINGS:\n\n A Port-A-Cath terminates in the superior vena cava.  The heart is normal in size.  The mediastinal and hilar contours appear within normal limits.  The lungs appear clear.  There are no pleural effusions or pneumothorax.\n\n IMPRESSION:\n\n No evidence of acute cardiopulmonary disease",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 109,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10977605/s58419805/3bf849b7-5b53c002-984bd8c0-6adf459f-3398a929.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10977605/s58419805/8257f1e6-4f5b2d39-6524b144-033a820f-cbfece49.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Not specified.\n\n INDICATION: Chest pain.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n Frontal and lateral views of the chest demonstrate normal lung volumes.  There is no pleural effusion, focal consolidation or pneumothorax.  Hilar and mediastinal silhouettes are unremarkable.  Heart size is normal.  There is no pulmonary edema.  Partially imaged upper abdomen is unremarkable.\n\n IMPRESSION:\n\n No evidence of acute cardiopulmonary process.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 110,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10078480/s56955708/e9980145-b3ce0f98-7e100f5e-479ce881-36fbc1e7.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest X-ray\n\n INDICATION: [AGE/GENDER] with confusion  // infiltrate?\n\n TECHNIQUE: Single portable view of the chest.\n\n COMPARISON: [AGE/GENDER].\n\n FINDINGS:\n\n Given differences in positioning and technique, there has been no significant interval change. Bibasilar opacities are most likely due to superimposed soft tissue structures and overlying material. Superiorly the lungs are clear. The cardiomediastinal silhouette is stable. Leftward deviation of the trachea at the thoracic inlet is suggestive of underlying right-sided thyroid enlargement. Calcification suggesting intra-articular bodies project over the glenohumeral joints.\n\n IMPRESSION:\n\n No acute cardiopulmonary process. Leftward deviation of the trachea at the thoracic inlet as on prior suggestive right thyroid enlargement which can be further assessed by dedicated thyroid ultrasound.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 111,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10765488/s56331030/4e298ed7-33c1f05d-c4d3030f-432992cc-5fe30158.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10765488/s56331030/888108a9-a7f83072-fc064f7d-f56cea0a-5b043a74.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Not specified.\n\n INDICATION: [AGE/GENDER] year old man with lymphoma and CAD // ? pneumonia\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Radiographs from [PRIOR_STUDY]\n\n FINDINGS:\n\n There is a left-sided Port-A-Cath. Heart size is prominent but stable. There has been improvement of the basilar opacities, particularly at the right base.\n\n IMPRESSION:\n\n There remains a hazy infiltrate in the right upper lobe.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 112,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10593359/s55725074/f074ba73-2cbe46fd-fe779900-4479569f-762fbfa9.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: History: [AGE/GENDER] with IPH intubated transfer  // Confirm ETT\n\n TECHNIQUE: Single frontal view of the chest\n\n COMPARISON: Earlier today, [PRIOR_STUDY] at outside institution\n\n FINDINGS:\n\n Endotracheal tube terminates approximately 3 cm above the carina.  Enteric tube courses below the diaphragm.  There are low lung volumes and bibasilar atelectasis.  Blunting of the costophrenic angles could relate to low lung volumes or small pleural effusions.  Cardiac and mediastinal silhouettes are grossly stable.  No overt pulmonary edema is seen.\n\n IMPRESSION:\n\n Cardiac and mediastinal silhouettes are grossly stable.  No overt pulmonary edema is seen.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 113,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10635731/s59362842/38603a99-d9e37a43-cb619ae0-a52c271d-ff7c0980.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10635731/s59362842/5cc859a9-b191e532-c19e3bc8-51e2eb93-be15892e.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest: Frontal and lateral views\n\n INDICATION: History: [AGE/GENDER] with cough  // r/o infection\n\n TECHNIQUE: Chest: Frontal and Lateral\n\n COMPARISON: None.\n\n FINDINGS:\n\n Chronic rib deformities at the left upper hemi thorax are re- demonstrated. Lungs remain hyperinflated. No new focal consolidation is seen. There is no pleural effusion or pneumothorax. The aorta remains somewhat tortuous. The cardiac silhouette is top-normal.\n\n IMPRESSION:\n\n No definite focal consolidation to suggest pneumonia.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 114,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10121003/s55725630/7cb19f52-5013f4cc-6395bb08-9c2ba03e-9c28ea0b.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10121003/s55725630/900646a9-c6f998f0-da879e09-6efd4e0d-40f34774.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (AP AND LAT)\n\n INDICATION: [AGE/GENDER]M with cough, elevated lactate  // evidence of pneumonia\n\n TECHNIQUE: Not specified.\n\n COMPARISON: [DATE].\n\n FINDINGS:\n\n AP upright and lateral views of the chest provided.   A calcified granuloma is again seen projecting over the right mid lung. There is no focal consolidation, effusion, or pneumothorax. The cardiomediastinal silhouette is normal.  Chronic left ribcage deformities are unchanged. Severe right glenohumeral joint disease is noted.  No free air below the right hemidiaphragm is seen.\n\n IMPRESSION:\n\n No acute intrathoracic process.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 115,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10957844/s55027669/836b094d-be6e4938-5386de27-a6f5c162-54c2407a.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: SINGLE FRONTAL VIEW OF THE CHEST\n\n INDICATION: Assess IV tip\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Comparison is made with prior study performed an hour earlier.\n\n FINDINGS:\n\n NG tube tip reaches the stomach but the side hole is at the EG junction\n\n IMPRESSION:\n\n should be advanced for more standard position.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 116,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10860432/s57935384/08bb0d41-d5bc83cb-0aed650c-ccceb0ba-92d6be4e.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10860432/s57935384/a90c9be6-e2f48085-b6e3db4b-5b38e2f9-c4f96769.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest, PA and lateral.\n\n INDICATION: [AGE/GENDER]-year-old male patient with increased shortness of breath, evaluate for CHF or infection.\n\n TECHNIQUE: PA and lateral chest views were obtained with patient upright position.\n\n COMPARISON: Analysis is performed in direct comparison with the next preceding PA and lateral chest examination [PRIOR_STUDY] [PRIOR_STUDY].\n\n FINDINGS:\n\n The heart is enlarged. The configuration suggests a prominence of the left ventricular contour, but an additional enlargement of the left atrium is noted in the form of a typical double contour in the right heart shadow. Thoracic aorta is moderately widened and elongated but does not show any local contour abnormalities. The pulmonary vasculature demonstrates an upper zone redistribution pattern and there exists small amounts of bilateral pleural effusions in the posterior pleural sinuses as well as mostly on the right pleural sinus. Comparison is made with the next preceding examination. The, at that time observed pulmonary abnormalities believed to be chronic and possibly representing scar formations are again noted. There is however a new area of diffuse parenchymal density on the left lung base partially in retrocardiac location that appears to be new and represents possibly a pulmonary infiltrate. It is observed that on the preceding chest examination cardiac enlargement existed already as well as the upper zone redistribution pattern in the pulmonary circulation. The present examination shows however diffuse increased perivascular haze.\n\n IMPRESSION:\n\n CHF as well as new pulmonary parenchymal infiltrates on the left base suspicious for pneumonic infection. Followup examination is recommended.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 117,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10001401/s50225296/0009a9fb-eb905e90-824cad7c-16d40468-007f0038.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: DX CHEST PORT LINE/TUBE PLCMT 1 EXAM\n\n INDICATION: [AGE/GENDER] year old woman with likely ileus after cystectomy  // NGT placement confirmation      NGT placement confirmation\n\n TECHNIQUE: Not specified.\n\n COMPARISON: None.\n\n FINDINGS:\n\n No previous images.  Nasogastric tube extends to the mid body of the stomach, be for coiling on itself so that the tip lies close to the esophagogastric junction. Cardiac silhouette is within normal limits and there is no vascular congestion, pleural effusion, or acute focal pneumonia.\n\n IMPRESSION:\n\n For more optimal positioning, the to would have to be pulled back almost 10 cm and then hopefully redirected toward the lower stomach.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 118,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10768040/s51330164/81112142-30933c09-07d9d096-8af91aab-f9b91c85.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n WET READ: These findings were discussed with Dr. ___ by Dr. ___ at 11:01 on [DATE] by telephone at the time of discovery.\n ______________________________________________________________________________\n EXAMINATION: Chest X-ray\n\n INDICATION: Hiccups\n\n TECHNIQUE: Frontal view of the chest\n\n COMPARISON: Chest radiographs [PRIOR_STUDY], [PRIOR_STUDY] and [PRIOR_STUDY].\n\n FINDINGS:\n\n There is a new opacity in the right mid lung with suggestion of air inclusion pockets and pleural thickening.  There is no pleural effusion or pneumothorax. The cardiac silhouette is top-normal in size but unchanged.  The mediastinum and hilar structures are unremarkable.  No acute osseous abnormalities.  Partially imaged orthopedic hardware in the lumbar spine is noted.\n\n IMPRESSION:\n\n New consolidation in the right mid lung with possible pockets of air.  At a minimum, a lateral view is recommended, although cross-sectional imaging would be ideal.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 119,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10322266/s56198992/26e3b2cc-cb8c4d2f-8b8585bf-69bf0f78-379c3a73.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10322266/s56198992/e490aee2-68c06013-4bc53949-546d9408-5bd3a9d6.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n WET READ: The findings were discussed by Dr. ___ with Dr. ___ on the telephone on [DATE] at 4:09 PM, approximately 90 minutes after discovery of the findings.\n ______________________________________________________________________________\n EXAMINATION: PA and lateral chest radiographs\n\n INDICATION: [AGE/GENDER] year old woman with cough, myasthenia, on cellcept. pls page me w/ wet [PRIOR_STUDY] [PRIOR_STUDY] // r/o pneumonia\n\n TECHNIQUE: Chest PA and lateral\n\n COMPARISON: PA and lateral chest radiographs dated [DATE]\n\n FINDINGS:\n\n Since the chest radiographs obtained [DATE], no significant changes are appreciated. Unchanged, hazy opacification in the lower left lung is probably due to a large pericardial fat pad. A crescentic area of scarring and atelectasis in the left upper lung is unchanged or minimally improved. The right lung is fully expanded and clear. Cardiomediastinal hilar silhouettes are unremarkable.\n\n IMPRESSION:\n\n No radiographic evidence of pneumonia or other significant cardiopulmonary abnormalities.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 120,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10569231/s53678530/d68f20ae-43c390c2-b66bf131-3528cedc-57f7e90f.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10569231/s53678530/f81a519e-734afad4-3d6c87f8-6434f949-a7676b82.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest: Frontal and lateral views\n\n INDICATION: History: [AGE/GENDER] with altered mental status  // r/o ICH, pna\n\n TECHNIQUE: Chest: Frontal and Lateral\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n Underpenetration of the lower chest, particularly on the left, is felt to be due to overlying soft tissue. No focal consolidation is seen on the lateral view. There is no pleural effusion or pneumothorax. The cardiac and mediastinal silhouettes are stable with persistent enlargement of the cardiac silhouette.\n\n IMPRESSION:\n\n No acute cardiopulmonary process.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 121,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10209488/s57244440/a256a26b-fcf8a92b-62d6f8e4-31a2bb02-dee01a50.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10209488/s57244440/df52fd93-de627e69-b3743f2f-8c0e3841-e9bb4e47.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10209488/s57244440/ed58bcf6-bb21acff-37d360d5-4f6dd87a-16beb2a1.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Not specified.\n\n INDICATION: [AGE/GENDER]-year-old male with chest pain and shortness of breath.\n\n TECHNIQUE: AP and lateral chest radiographs were obtained.\n\n COMPARISON: Chest radiograph from [DATE], [DATE], [DATE] and [DATE].\n\n FINDINGS:\n\n The patient is status post median sternotomy. There are low lung volumes, which accentuate the central bronchovascular structures. The heart is moderately enlarged, increased in size from prior exam. No pneumothorax, focal consolidation or pleural effusion is seen.\n\n IMPRESSION:\n\n Moderate cardiomegaly.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 122,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10908594/s57170407/838fcb9d-3ca86b11-c1c42a69-33419e76-21b94a4f.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n WET READ: WET READ: [AGE/GENDER] [DATE] 10:14 PM NG is in the stomach. No acute intrathoracic abnormality. WET READ VERSION #1\n ______________________________________________________________________________\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER] year old man with high grade SBO  // NGT has been low ouptut / scant.  Please eval for proper location in stomach and for coiling in esophagus, etc.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: None.\n\n FINDINGS:\n\n The lung volumes are normal. Normal size of the cardiac silhouette. Normal hilar and mediastinal structures. The patient has a nasogastric tube. The course of the tube is unremarkable, there is no 2 coiling. The tip of the tube projects over the middle parts of the stomach.\n\n IMPRESSION:\n\n No pneumothorax, no pulmonary edema. No pneumonia.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 123,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10038999/s53658987/8dca6dcd-62e2e546-91d295ce-a945348e-2f58eb48.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER] year old man with pericarditis and bacteremia, ventilated  // Confirm ET tube remains in correct place      Confirm ET tube remains in correct place\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Comparison to [PRIOR_STUDY].\n\n FINDINGS:\n\n The tip of the endotracheal tube projects 4 cm above the carina. The pericardial drain was removed. Low lung volumes are further decreased. Small bilateral pleural effusions are apparent.\n\n IMPRESSION:\n\n Mild fluid overload but no overt pulmonary edema.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 124,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10310992/s56472385/81351388-8c33493c-ac9778da-531cfd9b-4281db8c.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10310992/s56472385/e52b5cc9-f80979fc-fb5553de-407ccb6a-41af8324.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n WET READ: [AGE/GENDER] [AGE/GENDER] 5:21 PM tiny opacity at right lung base needs non-urgent oblique views for better characterization.\n ______________________________________________________________________________\n EXAMINATION: Chest X-ray\n\n INDICATION: Bibasilar crackles, evaluate for pulmonary edema.\n\n TECHNIQUE: Frontal and lateral views of the chest\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n The cardiomediastinum is unremarkable. The heart size is normal. There is bibasilar atelectasis. There are no pleural effusions or findings to suggest pulmonary edema. There is no large consolidation concerning for pneumonia. Within the right lower lung, more visible on the frontal view, is a 7-mm rounded opacity.\n\n IMPRESSION:\n\n 1. 7-mm nodular opacity at the right lung base may represent superimposition of structures; however, non-emergent oblique views are recommended to ascertain if this finding is a true pulmonary nodule. 2. No pulmonary edema.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 125,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10268877/s51623828/9dcbd7ac-9d6ca173-f7e669fd-bb419597-97f58083.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest X-ray\n\n INDICATION: [AGE/GENDER]-year-old gentleman status post cardiac arrest with return of spontaneous circulation. Assess for interval change.\n\n TECHNIQUE: AP upright radiograph\n\n COMPARISON: Radiograph from one day prior.\n\n FINDINGS:\n\n re-demonstrates satisfactorily positioned endotracheal tube, left subclavian catheter and nasogastric tube with slightly decreased lung volumes and possibly slight interval increase in degree of mild interstitial edema. Left basal atelectasis is increased with slight right basal atelectasis and effusions not well seen on this study possibly due to positioning. Enlarged pulmonary arteries suggest pulmonary arterial hypertension.\n\n IMPRESSION:\n\n Increased mild pulmonary edema and left basal atelectasis.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 126,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10001884/s53268982/9f5446a9-46ea84a3-6806d8b7-2c0f6d4d-38799159.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10001884/s53268982/bd7ebb15-8c5ad4a7-1b13ce66-7d02a4bf-f8f38c98.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: chest X-ray\n\n INDICATION: Cough and shortness of breath with recent cold. Evaluate for pneumonia and pulmonary edema.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n Frontal and lateral radiographs of the chest show hyperinflated lungs with flattened diaphragm, consistent with emphysema. Asymmetric opacity in the right middle lobe is concerning for pneumonia. No pleural effusion or pneumothorax is seen. The cardiomediastinal contours are within normal limits aside from a tortuous aorta.\n\n IMPRESSION:\n\n Right middle lobe opacity concerning for pneumonia",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 127,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10582595/s54077689/8b55d582-635bdd50-5ca91099-6c80ea8c-857ad233.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n WET READ: Dr. ___ was paged to report these findings at the time of dictation.\n ______________________________________________________________________________\n EXAMINATION: AP CHEST 9:19 AM, [DATE]\n\n INDICATION: Desaturation\n\n TECHNIQUE: Not specified.\n\n COMPARISON: AP chest compared to [PRIOR_STUDY]\n\n FINDINGS:\n\n The inferior two-thirds of the left hemithorax is opacified, probably by a combination of pleural effusion, moderate-to-large, and large scale consolidation in the left lung. Small right pleural effusion is new. Heart is moderately-to-severely enlarged, but heart size cannot be assessed because heart borders are obscured by pleural and parenchymal abnormalities. Thoracic aorta is heavily calcified and tortuous, but not focally aneurysmal. No pneumothorax.\n\n IMPRESSION:\n\n Whether this is pneumonia or only atelectasis is radiographically indeterminate.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 128,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10350119/s54662399/83ccc4b7-0f68ed55-c88ecb7a-c7093d70-55c66cad.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER] with flu, severe tachypnea, hypoxia\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Prior exam from [DATE].\n\n FINDINGS:\n\n AP portable upright view of the chest. Clips in the right axilla noted. Overlying EKG leads are present. There is underlying emphysema with superimposed pulmonary congestion and edema which appears moderate to severe. She underlying pneumonia difficult to exclude. No large effusion is seen. No large pneumothorax. Overall cardiomediastinal silhouette is stable. No acute bony abnormalities. Gas-filled stomach noted.\n\n IMPRESSION:\n\n Moderate to severe pulmonary edema superimposed on a background of emphysema. Difficult to exclude a underlying pneumonia.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 129,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10325086/s57709479/c860de61-67e4f51d-a538d366-1fa54550-5e3081a0.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10325086/s57709479/e1e305e9-4ca63098-90bca0fb-3d6bfc06-608760e3.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PA AND LAT)\n\n INDICATION: [AGE/GENDER]F with generalized weakness and intermittent SOB  // r/o PNA\n\n TECHNIQUE: Not specified.\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n PA and lateral views of the chest provided. There is no focal consolidation, effusion, or pneumothorax. The cardiomediastinal silhouette is normal. Imaged osseous structures are intact. No free air below the right hemidiaphragm is seen.\n\n IMPRESSION:\n\n No acute intrathoracic process.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 130,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10207476/s55568332/73f401b1-732d932b-22d14e0b-0d8f61d4-25d37185.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10207476/s55568332/85b9cda6-e94337ed-d30f6011-019621bf-8c1e3eb4.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PA AND LAT)\n\n INDICATION: History: [AGE/GENDER] F with tachycardia. Evaluate for pneumonia.\n\n TECHNIQUE: Chest PA and lateral\n\n COMPARISON: None.\n\n FINDINGS:\n\n Streaky bibasilar opacities are in keeping with atelectasis. Heart size is top normal but stable.  Mediastinal surgical clips are unchanged in location.  Irregular contour of the aortic knob is likely secondary to the previously imaged aortic arch aneurysm.  No pleural effusion or pneumothorax.\n\n IMPRESSION:\n\n 1. Mild bibasilar atelectasis. 2.  Irregular appearance of the aortic knob in keeping with known saccular aortic arch aneurysm. 3. Otherwise no acute cardiopulmonary process.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 131,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10481162/s54428190/26652f85-e495edd9-afa1bd31-b34176a9-f8ef99df.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest Radiograph\n\n INDICATION: Left Pleurx catheter, evaluation for pneumothorax.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n As compared to the previous radiograph, patient has received a left-sided Pleurx catheter. The catheter appears to be coiled in the pleural space, with the tip directed towards the left costophrenic sinus. In the interval, the lung volumes have decreased. The large known left AP and perihilar mass is unchanged. The current image shows no convincing evidence for pneumothorax.\n\n IMPRESSION:\n\n The current image shows no convincing evidence for pneumothorax.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 132,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10906447/s53345696/353a5777-f0f8990b-79f3f68b-01071504-28d0b551.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10906447/s53345696/5dde5a79-0855dd4a-4c8760b2-787135fd-ffd3661f.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER] year old man with ETT and OGT tube.  // location of OGT location of OGT\n\n TECHNIQUE: Not specified.\n\n COMPARISON: None.\n\n FINDINGS:\n\n A right internal jugular line tip is at the level of cavoatrial junction. Cardiomediastinal silhouette is unchanged including cardiomegaly. Widespread parenchymal opacities are similar to previous study obtained the same day earlier.\n\n IMPRESSION:\n\n The findings when not present in [PRIOR_STUDY] chest radiograph. Lung abnormalities started to develop and [DATE] with gradual progression since than including between [DATE] early ammonium P and mid day. As compared to [DATE] mid day no substantial progression has currently being documented.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 133,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10150767/s50769357/143da859-264dc68e-d18159f9-7ad01271-ff0914bc.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10150767/s50769357/5c14b2ba-4b00a65c-ce3a2e2d-76f11c1b-37bf7372.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST RADIOGRAPH, [DATE]\n\n INDICATION: Shortness of breath, question CHF\n\n TECHNIQUE: Not specified.\n\n COMPARISON: CTA chest from [DATE] and chest radiograph from [DATE]\n\n FINDINGS:\n\n PA and lateral views of the chest provided demonstrate no focal consolidation, effusion or pneumothorax. The cardiomediastinal silhouette is normal. Bony structures are intact. No free air below the right hemidiaphragm\n\n IMPRESSION:\n\n No acute intrathoracic process",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 134,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10696042/s51908719/742e592a-7fe14d2c-bcd06b18-d74bd6f5-27532017.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10696042/s51908719/f79578ab-37b2c6e5-2a924cb7-dbd56644-eb9a1b18.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest radiographs\n\n INDICATION: Evaluation of the patient with pleural effusion.\n\n TECHNIQUE: PA and lateral upright chest radiographs\n\n COMPARISON: Comparison to [PRIOR_STUDY]\n\n FINDINGS:\n\n Since the prior study, there has been interval decrease up to almost complete resolution of left pleural effusion and left basal consolidation. Bibasilar linear areas of scarring are present. On the other hand, there is minimal amount of right pleural effusion that cannot be excluded on the current examination. Upper lungs are clear, although lungs are hyperinflated.\n\n IMPRESSION:\n\n Resolution of left pleural effusion and consolidation. Minimal right pleural effusion cannot be excluded. Hyperinflated lungs with bibasilar scarring.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 135,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10080928/s59397987/66b120ca-6583dbae-487431e3-80790639-4ec622c9.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest X-ray\n\n INDICATION: [AGE/GENDER] with hypotension.\n\n TECHNIQUE: Single frontal chest radiograph was obtained portably with the patient in an upright position.\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n Linear opacity at the right base likely represents atelectasis. No consolidation, pleural effusion, pneumothorax, or pulmonary edema is detected on this single view. Heart and mediastinal contours are stable. Patulous esophagus is again noted.\n\n IMPRESSION:\n\n No radiographic evidence for acute cardiopulmonary process on this single frontal view",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 136,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10906447/s55526729/30a33405-3db15daa-5955589b-c818d4b7-2dc72010.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER] year old man with IPH, tracheostomy, fever  // Eval for acute/evolving pulmonary process      Eval for acute/evolving pulmonary process\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Compared to chest radiographs [DATE] through [DATE].\n\n FINDINGS:\n\n Severe cardiomegaly has worsened suggested that some of the bilateral pulmonary consolidation could be edema, than heart failure could be responsible for some of increasing moderate left pleural effusion, however the asymmetry in consolidation and the left-sided predominance of pleural effusion are strong indications that pneumonia is present, and it has worsened since [DATE]. No pneumothorax. Tracheostomy tube in midline. Right jugular line ends close to the superior cavoatrial junction.\n\n IMPRESSION:\n\n pneumonia is present, and it has worsened since [DATE].",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 137,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10233307/s58457533/dbc87d4e-7ef16e33-df914d3b-74d26594-628b7668.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER] year old man with IPH, intubated // interval change interval change\n\n TECHNIQUE: Not specified.\n\n COMPARISON: None.\n\n FINDINGS:\n\n Comparison to [PRIOR_STUDY]. The pre-existing opacity in the right upper lobe has almost completely resolved but the new platelike atelectasis has markedly increased in the left lung. The lung volumes remain low. Moderate cardiomegaly. No pleural effusions but mild to moderate pulmonary edema is present.\n\n IMPRESSION:\n\n The monitoring and support devices are stable.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 138,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10136921/s57091328/34fdb3d7-ea57eda4-1c318b7d-ee90164a-3c1e8fec.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10136921/s57091328/45dddb73-cfa1090f-9c754131-0a9c6a29-82a4c1df.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: FINAL REPORT\n\n INDICATION: [AGE/GENDER] with cough, sputum.  // ? PNA\n\n TECHNIQUE: Frontal and lateral views the chest.\n\n COMPARISON: [PRIOR_STUDY].\n\n FINDINGS:\n\n The lungs are clear without focal consolidation.  Cardiomediastinal silhouette is stable. No acute osseous abnormalities.\n\n IMPRESSION:\n\n No acute cardiopulmonary process.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 139,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10449408/s58975673/5ae6ad70-0483093a-9fb98a5d-0ed0fb01-503f8c3f.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: PORTABLE AP CHEST FILM [PRIOR_STUDY] AT 546. A portable AP semi-upright chest film [PRIOR_STUDY] at 548 is submitted.\n\n INDICATION: [AGE/GENDER]-year-old with Dobbhoff tube, check position.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Comparison is made to the patient's prior study dated [DATE] at [PRIOR_STUDY].\n\n FINDINGS:\n\n Right internal jugular central line has its tip in the distal SVC. The Dobbhoff feeding tube remains below the diaphragm with the tip coiled within the stomach. A round calcification in the right upper quadrant likely represents a calcified gallstone. There continues to be a diffuse bilateral airspace and interstitial abnormality with more focal changes in the right mid to upper lung where there is a suggestion of honeycombing more peripherally.\n\n IMPRESSION:\n\n These findings most likely are consistent with underlying interstitial lung disease with superimposed pulmonary edema given that the findings are fluctuating over serial radiographs. A superimposed infection would be less likely. Overall, cardiac and mediastinal contours are likely stable given differences in patient positioning between studies. No pneumothorax.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 140,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10750448/s51356870/26abc814-64007664-3b1076e3-4db204ae-598f492c.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10750448/s51356870/c494ae18-450f6e6f-3ce4c570-d02ab61d-5221fbcb.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Not specified.\n\n INDICATION: Evaluation of patient with weakness.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Chest radiograph from [DATE].\n\n FINDINGS:\n\n There is mild increased bibasilar atelectasis; otherwise, the remainder of lungs appear clear. The cardiomediastinal silhouette is normal. No fractures are identified.\n\n IMPRESSION:\n\n No acute cardiopulmonary process are noted.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 141,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10482167/s56100184/1ef99c6c-4b3e1712-7eb128be-2fef5e4d-26489798.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST, SINGLE AP PORTABLE VIEW\n\n INDICATION: Cough, progression of pneumonia.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Compared with the film from [DATE], there has been possible minimal clearing at the right lung base and left mid zone. Otherwise, no gross change.\n\n FINDINGS:\n\n Perihilar opacities remain visible. Right-sided central line tip over uppermost right atrium, near the SVC/RA junction. No gross effusions.\n\n IMPRESSION:\n\n Perihilar opacities remain visible. No gross effusions.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 142,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10880579/s54539132/7382d60e-3fd9d6a9-46d535ed-5475fe29-93fcd238.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10880579/s54539132/8918fcde-8ffecb20-e80eaab3-ad5d6b7d-74295954.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n WET READ: The above findings were communicated to Dr. [NAME] by Dr. [NAME] [PAGE_NUMBER] page at [DATE], 10 minutes after the finding was discovered and the findings were subsequently discussed over the telephone.\n ______________________________________________________________________________\n EXAMINATION: chest x-ray\n\n INDICATION: [AGE/GENDER]-year-old female with liver cancer. Now with hypoxia on room air. Previous portable chest x-ray done because of the patient's pain, now much improved. Please assess for effusion or pneumonia.\n\n TECHNIQUE: PA and lateral views of the chest were obtained.\n\n COMPARISON: Comparison is made to portable radiograph of the chest from [DATE].\n\n FINDINGS:\n\n As compared to the prior study, there is continued elevation of the right hemidiaphragm most likely due to hepatomegaly, with associated atelectasis of the right lung base. There is also a focal consolidation in the right lower lobe, best seen on the lateral view which is concerning for an infectious process in the appropriate clinical setting. There is no evidence of large pleural effusion. Previously seen biliary stents and ERCP stent are unchanged in position since the prior study.\n\n IMPRESSION:\n\n Posterior right lower lobe consolidation best seen on the lateral view would be consistent with pneumonia in the appropriate clinical setting. Bibasilar atelectasis is unchanged.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 143,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10217360/s58340913/201ee660-59bb49e7-4ff5e982-1da3d2a8-8530e3f5.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: SINGLE FRONTAL VIEW OF THE CHEST\n\n INDICATION: Hep C cirrhosis.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Comparison is made with prior study [PRIOR_STUDY].\n\n FINDINGS:\n\n Line and tubes are in standard position. Mild cardiomegaly is partially obscured by pleural effusions. Bibasilar opacities likely on the left side are combination of atelectasis and pleural effusions. There is mild vascular congestion.\n\n IMPRESSION:\n\n Not specified.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 144,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10940270/s51036206/7570eb3e-35b1341e-543f511e-8125e6e5-2fff9960.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10940270/s51036206/e4ab6355-161b6d09-249d2291-6b7c0586-258196b8.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10940270/s51036206/fa8c99a3-dacc6b5d-d4b71d56-fa93288f-7773094d.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PA AND LAT)\n\n INDICATION: History: [AGE/GENDER] with chest pain\n\n TECHNIQUE: Chest PA and lateral\n\n COMPARISON: None.\n\n FINDINGS:\n\n Heart size is normal.  The mediastinal and hilar contours are normal. The pulmonary vasculature is normal. Lungs are clear.  No pleural effusion or pneumothorax is seen. There are no acute osseous abnormalities.\n\n IMPRESSION:\n\n No acute cardiopulmonary abnormality.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 145,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10670364/s58624609/3ac51b4a-6b814838-c10008fe-36822f99-f619b6e7.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10670364/s58624609/b7887b10-af246617-02a846be-b39d2d1c-3a05e23d.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: PA AND LATERAL CHEST [DATE] WITH COMPARISON CHEST X-RAY [PRIOR_STUDY]\n\n INDICATION: Not specified.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: None.\n\n FINDINGS:\n\n Heart size, mediastinal and hilar contours are normal.  Lungs and pleural surfaces are clear.  Vascular catheter remains in place, unchanged in position.\n\n IMPRESSION:\n\n No radiographic evidence of pneumonia.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 146,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10916234/s50727104/7ee00e1e-cef291f1-21a792f7-44e5a670-5eed7742.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER] year old woman with new Dobhoff  // Dobhoff placement\n\n TECHNIQUE: CHEST (PORTABLE AP)\n\n COMPARISON: [DATE]\n\n FINDINGS:\n\n NG tube tip is in the stomach. Cardiomediastinal silhouette is unchanged.\n\n IMPRESSION:\n\n Mild vascular congestion is present but no overt pulmonary edema",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 147,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10119001/s50844254/082c4976-7370ac85-d9dba887-81c931e8-fb428abf.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST RADIOGRAPH\n\n INDICATION: Status post colectomy, evaluation for interval change.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n As compared to the previous radiograph, there is a decrease in extent of the pre-existing parenchymal opacity. Other monitoring and support devices are in constant position.\n\n IMPRESSION:\n\n Otherwise, the radiograph is unchanged.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 148,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10069423/s56707646/f5901c06-a81f1df9-d43719b5-e76fea29-3a429202.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Not specified.\n\n INDICATION: [AGE/GENDER] year old man with aspiration pneumonia, intubated, septic shock // interval change\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Compared to prior radiographs from [PRIOR_STUDY]\n\n FINDINGS:\n\n Feeding tube and endotracheal tube are unchanged in position. There is persistent dense consolidation within the right lung, stable. Consolidation at the left base is also seen and stable. There are no pneumothoraces. Heart size is within normal limits\n\n IMPRESSION:\n\n Not specified.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 149,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10105456/s58449297/1c5a0879-95709eeb-fa3207d5-7c94d8e1-9909c69d.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10105456/s58449297/353747aa-ecdbc1f4-94ffa4af-670a9456-f7c5efe4.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Not specified.\n\n INDICATION: Foreign body sensation\n\n TECHNIQUE: PA and lateral chest radiographs were obtained\n\n COMPARISON: None\n\n FINDINGS:\n\n The lungs are well expanded and clear. Probable suture material projects over the right lung apex. A density at the left lateral lung base is likely a nipple shadow. There is no consolidation, effusion, pneumothorax. Cardiac and mediastinal contours are normal. There is no radiopaque projecting over the esophagus.\n\n IMPRESSION:\n\n No radiopaque foreign body. No acute cardiopulmonary process.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 150,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10293407/s51780397/30e97bec-20666081-2724238c-eb18a0c6-d5e64172.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10293407/s51780397/89e9b8e7-2bf0aa70-405f5114-8b168653-17019842.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: PA and Lateral Chest, [PRIOR_STUDY]\n\n INDICATION: Cough for a month\n\n TECHNIQUE: Not specified.\n\n COMPARISON: None.\n\n FINDINGS:\n\n Despite a very large right pleural effusion obliterating most of the right lung, mediastinum is not shifted, suggesting that it is fixed in position, presumably by extensive tumor, only the upper portion of which is seen along the trachea and displacing the right bronchial tree inferiorly. Left lung is clear.\n\n IMPRESSION:\n\n Mediastinum is fixed in position, presumably by extensive tumor. Nurse ___, [DATE], was notified of these findings by telephone at the time of dictation.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 151,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10248230/s52012572/104a32b8-d46399f8-9542abd2-076c8d33-67bea1bd.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10248230/s52012572/1bd07944-2429bf25-5e0165d0-35e58871-674d6d88.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10248230/s52012572/bb667c5a-93754bd1-bdbe7944-318a5302-891dd440.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: FINAL REPORT\n\n INDICATION: [AGE/GENDER] with shortness of breath  // eval for acute process\n\n TECHNIQUE: Upright PA and lateral chest\n\n COMPARISON: None available\n\n FINDINGS:\n\n The lungs are normally expanded and clear.  The cardiomediastinal silhouette, hilar contours, and pleural surfaces are normal.  There is no pleural effusion or pneumothorax.\n\n IMPRESSION:\n\n No acute cardiopulmonary abnormality.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 152,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10099869/s54065620/740c9b91-49d4a3df-ddf97056-04e7d382-ba383670.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PORTABLE AP)\n\n INDICATION: [AGE/GENDER]M s/p motorcycle crash w/ R open proximal tib/fib fracture, multiple rib fx with PTX s/p pigtail catheter placement now s/p R leg I D and knee spanning ex-fix on [DATE], extubated, also with ___ and ___ with improving renal function.  // Please do at 12PMassess interval change s/p pigtail placed to waterseal   Please do at 12PMassess interval change s/p pigtail placed to waterseal\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Comparison to ___.\n\n FINDINGS:\n\n The right pigtail catheter is in stable position. The volume of the right lung is low. No evidence of pneumothorax. Borderline size of the cardiac silhouette. Minimal retrocardiac atelectasis. Mild elongation of the descending aorta.\n\n IMPRESSION:\n\n Not specified.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 153,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10296197/s52742759/6e6791e9-e2d747cb-dc7f6ac5-2e6c472b-135eb332.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: FINAL REPORT\n\n INDICATION: [AGE/GENDER] year old man s/p BIV ICD upgrade  // ptx, leads\n\n TECHNIQUE: Portable\n\n COMPARISON: No prior\n\n FINDINGS:\n\n Insertion of defibrillator with the tip in the RA and RV. No pneumothorax. No pulmonary edema. No substantial effusions. Mild to moderate cardiomegaly.\n\n IMPRESSION:\n\n No pneumothorax post defibrillator insertion.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 154,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10488677/s50998727/60a8c82a-0dd0d58a-4692383f-617e1624-fe660299.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10488677/s50998727/f178ba76-726777be-70a97ea0-29071737-c20fab31.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10488677/s50998727/f270ae77-fa112692-601bdbe2-7207d5a0-aef92dfb.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PA AND LAT)\n\n INDICATION: [AGE/GENDER] year old man with ESRD for pre kidney transplant eval  // r/o cardiopulmonary abnormalities      r/o cardiopulmonary abnormalities\n\n TECHNIQUE: Not specified.\n\n COMPARISON: None.\n\n FINDINGS:\n\n The cardiac silhouette is mildly enlarged but there is no evidence of vascular congestion, pleural effusion, or acute focal pneumonia.\n\n IMPRESSION:\n\n No previous images.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 155,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10157506/s56637894/1180dcfa-71d39e65-6fc8f77f-b55f4ac5-559af6a3.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10157506/s56637894/16b98bca-97523d09-532caab9-10b1e64a-5b5a7eff.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10157506/s56637894/f631ed1d-c047c292-459853f2-6aaab768-cfaa30b3.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest radiographs.\n\n INDICATION: [AGE/GENDER]M with confusion x 6 months  // eval for pna\n\n TECHNIQUE: Chest PA and lateral\n\n COMPARISON: None available.\n\n FINDINGS:\n\n Bibasilar atelectasis is noted.  No convincing signs of pneumonia edema effusion or pneumothorax.  The cardiomediastinal silhouette is within normal limits.  Bony structures are intact.\n\n IMPRESSION:\n\n Basilar atelectasis, without convincing signs of pneumonia.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 156,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10904848/s55144816/25901aac-04af33cc-19acdae6-7448d09c-f71e802e.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10904848/s55144816/6f013210-f748eb3c-aa261ed7-cacf8da1-954ec73b.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10904848/s55144816/89ad51ec-bbcb95af-65511f2d-8f8cebdd-62dd5e1f.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: Chest X-ray\n\n INDICATION: [AGE/GENDER] with copd with cough. Please evaluate for pneumonia.\n\n TECHNIQUE: Chest PA and lateral\n\n COMPARISON: Chest radiographs from [DATE] and [DATE]\n\n FINDINGS:\n\n The patient is status post left upper lobectomy with clips noted in the left hilar region and evidence of volume loss in the left lung with tenting of the left hemidiaphragm. Mild scarring with an adjacent opacity is seen within the left lung base, overall unchanged compared to the prior exam from [DATE]. No focal airspace consolidation is seen to suggest pneumonia. There is no pulmonary edema. There is no pleural effusion or pneumothorax. The visualized osseous structures are unremarkable.\n\n IMPRESSION:\n\n Stable postsurgical changes status post left upper lobectomy with volume loss in the left lung. No new focal consolidation is seen to suggest pneumonia.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 157,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10151713/s56375818/61ca7b3a-363b7917-b9487d67-62c0c3d7-5df97f50.jpg",
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10151713/s56375818/eb334367-5ffef294-f676c6ab-c341bc52-2dfe0aaa.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST (PA AND LAT)\n\n INDICATION: [AGE/GENDER] year old woman with cough x 2 months  // Infiltrate     Infiltrate\n\n TECHNIQUE: Not specified.\n\n COMPARISON: Prior chest radiographs are not currently available.\n\n FINDINGS:\n\n Lungs are fully expanded and clear. Pleural surfaces are unremarkable.\n\n IMPRESSION:\n\n Cardiomediastinal and hilar silhouettes are normal aside from possible small hiatus hernia.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 158,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10871465/s50026251/bcd3c0ca-80e1a9f7-779fceff-e93d6b60-d3d8ca22.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n EXAMINATION: CHEST ON [DATE]\n\n INDICATION: [AGE/GENDER]'s, status post hip fracture, increased secretions, and delirium.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: REFERENCE EXAM: [PRIOR_STUDY].\n\n FINDINGS:\n\n There is new bilateral lower lobe infiltrates, markedly increased compared to the prior study. There is mild pulmonary vascular redistribution. There is retrocardiac opacity with obscuration of the left hemidiaphragm. The heart is mildly enlarged.\n\n IMPRESSION:\n\n This most likely represents an infectious infiltrate, but CHF cannot be excluded.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  },
+  {
+    "sample_id": 161,
+    "images": [
+      "/mnt/shared-storage-user/ai4good1-share/xieyuejin/gdown/gdrive/p10/p10860467/s56658696/450bfbcf-7b5576cb-24c18e52-5934bd32-058be971.jpg"
+    ],
+    "ground_truth": "FINAL REPORT\n WET READ: WET READ: [AGE/GENDER] [AGE/GENDER] [AGE/GENDER] [DATE] 8:24 PM known central lymphadenopathy. left lung nodules better seen on prior CT exams. low lung volumes. perihilar vascular congestion. [AGE/GENDER] [AGE/GENDER] WET READ VERSION #1 ______________________________________________________________________________\n ______________________________________________________________________________\n EXAMINATION: CHEST RADIOGRAPH\n\n INDICATION: Status post lymphoma, status post mediastinoscopy.\n\n TECHNIQUE: Not specified.\n\n COMPARISON: [PRIOR_STUDY]\n\n FINDINGS:\n\n As compared to the previous radiograph, there is mild pulmonary edema, but no evidence of pneumomediastinum or pneumothorax. The central lymphadenopathy that is extensive has been previously described and is better seen on prior CT examination. No pleural effusions. Unchanged appearance of the cardiac silhouette.\n\n IMPRESSION:\n\n Mild pulmonary edema without pneumomediastinum or pneumothorax. Extensive central lymphadenopathy as previously described, better seen on prior CT. No pleural effusions. Unchanged cardiac silhouette.",
+    "reasoning": null,
+    "success": false,
+    "error": "API error (status 502): ",
+    "model": "Qwen3-VL-32B-Thinking"
+  }
+]

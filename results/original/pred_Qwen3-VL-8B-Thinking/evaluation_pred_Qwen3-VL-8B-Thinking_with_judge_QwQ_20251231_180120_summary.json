@@ -1,0 +1,17 @@
+{
+  "timestamp": "20251231_180120",
+  "prediction_model": "Qwen3-VL-8B-Thinking",
+  "judge_model": "QwQ",
+  "concurrency": 50,
+  "total_samples": 200,
+  "prediction_success": 200,
+  "prediction_failed": 0,
+  "prediction_success_rate": 100.0,
+  "judge_success": 200,
+  "judge_failed": 0,
+  "judge_success_rate": 100.0,
+  "successfully_scored": 200,
+  "average_score": 4.4725,
+  "min_score": 1.0,
+  "max_score": 10.0
+}

@@ -1,0 +1,17 @@
+{
+  "timestamp": "20251230_174207",
+  "prediction_model": "Qwen3-8B-VL-Mimic-v251230-norm-report",
+  "judge_model": "QwQ",
+  "concurrency": 100,
+  "total_samples": 2219,
+  "prediction_success": 2219,
+  "prediction_failed": 0,
+  "prediction_success_rate": 100.0,
+  "judge_success": 2219,
+  "judge_failed": 0,
+  "judge_success_rate": 100.0,
+  "successfully_scored": 2219,
+  "average_score": 4.556782334384858,
+  "min_score": 1.0,
+  "max_score": 10.0
+}
