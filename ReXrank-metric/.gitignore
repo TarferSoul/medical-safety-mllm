@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Model checkpoints (large files — download separately)
+scripts/CXR-Report-Metric/CheXbert/models/chexbert.pth
+scripts/CXR-Report-Metric/radgraph/physionet.org/
+
+# Cache and embeddings
+scripts/CXR-Report-Metric/cache/
+*.pt
+
+# Large data files in CXR-Report-Metric
+scripts/CXR-Report-Metric/CXRMetric/CheXbert/src/all_sentences.csv
+scripts/CXR-Report-Metric/CXRMetric/CheXbert/src/sentences.csv
+scripts/CXR-Report-Metric/CXRMetric/CheXbert/src/sentences_embed.csv
+scripts/CXR-Report-Metric/figures/
+
+# Logs
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data directories (user-specific data)
+data/findings/
+data/reports/
+data/*.json
+
+# Results directories
+results/
+
+# RadGraph copy (too large, use original installation)
+radgraph_fixed/
+
+# Temporary test files
+check_radgraph.py
+test_radgraph.py
+find_radgraph.py
+
+# Large files (>100MB)
+*.tar.gz
+*.pth
+*.bin
+*.safetensors
