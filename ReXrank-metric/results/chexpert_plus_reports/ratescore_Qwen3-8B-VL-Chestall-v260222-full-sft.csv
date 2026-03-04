@@ -1,0 +1,1201 @@
+study_id,case_id,report,ratescore
+0,patient64580_study1,"<think>
+
+</think>
+
+Findings: There is cardiomegaly. There are bilateral diffuse airspace opacities. There is also evidence of pulmonary edema. There are bilateral pleural effusions.
+Impression: Cardiomegaly with pulmonary edema. Bilateral pleural effusions. These findings are suggestive of chf.",0.6518764343202229
+1,patient64590_study1,"<think>
+
+</think>
+
+Findings: The lungs are clear without infiltrate or effusion. The cardiac silhouette is enlarged. A pacer and pacer wires are in place. There are no old films for comparison. There is a tortuous aorta. The pulmonary vasculature is within normal limits.
+Impression: No acute cardiopulmonary process.",0.44541190277775344
+2,patient64594_study1,"<think>
+
+</think>
+
+Findings: Cardiomediastinal silhouette is normal. The lungs are hyperinflated. No pleural effusions or pneumothoraces. No focal consolidations. No evidence of edema. Visualized osseous structures are normal.
+Impression: Hyperinflated lungs without acute process.",0.773606666930196
+3,patient64698_study1,"<think>
+
+</think>
+
+Findings: The mediastinum is widened and the heart is enlarged. There is pulmonary vascular redistribution with hazy alveolar opacities bilaterally. There are no effusions. Bony structures are intact.
+Impression: Findings are most compatible with pulmonary edema.",0.6627401918090203
+4,patient64604_study1,"<think>
+
+</think>
+
+Findings: Portable semi-upright ap chest radiograph was obtained. A small right apical pneumothorax is present. The right hemidiaphragm is elevated. The mediastinum is widened. The heart is normal in size. No pleural effusions are seen.
+Impression: Small right apical pneumothorax.",0.5745023591717512
+5,patient64702_study1,"<think>
+
+</think>
+
+Findings: The patient is markedly rotated. The patient is on the trauma board. Heart size is moderately enlarged. The aorta is tortuous and calcified. There are diffuse increased interstitial markings. There is no focal infiltrate or effusion.
+Impression: 1.Diffuse increased interstitial markings. This may represent chronic lung disease or mild pulmonary edema.",0.4213243302777448
+6,patient64678_study1,"<think>
+
+</think>
+
+Findings: A single portable view of the chest demonstrates left greater than right pleural effusions. There is pulmonary vascular congestion with bilateral perihilar opacities consistent with pulmonary edema. The heart size is enlarged. No focal consolidations are seen. No pneumothorax.
+Impression: 1. Left greater than right pleural effusions. 2. Cardiomegaly and pulmonary edema.",0.47320501529608544
+7,patient64545_study1,"<think>
+
+</think>
+
+Findings: The study is somewhat limited due to patient's positioning. There are low lung volumes and there is a prominent mediastinum. There is mild cardiomegaly. There is mild pulmonary vascular redistribution. There are patchy alveolar opacities in the left lower lobe and right upper lobe. There are no definite pleural effusions. There are no fractures identified.
+Impression: 1. Limited study. Recommend pa and lateral. 2. Prominent mediastinum, recommend pa and lateral to assess for underlying mass. 3. Patchy alveolar opacities in the right upper and left lower lobes. This could represent an infectious process, or aspiration. 4. Mild pulmonary vascular redistribution. 5. Mild cardiomegaly.",0.4978202909835744
+8,patient64681_study1,"<think>
+
+</think>
+
+Findings: The et tube is 5 cm from the carina. The enteric tube is in the stomach. The right subclavian line is in the distal svc. There is no pneumothorax. The heart size is normal. There is a large right perihilar mass. There is a left lower lobe opacity. The bones are normal.
+Impression: Large right perihilar mass.",0.4027075986963194
+9,patient64610_study1,"<think>
+
+</think>
+
+Findings: Right internal jugular line tip is in the proximal svc. No pneumothorax is seen. A pacer pad is overlying the left chest. Sternotomy wires are intact. There is cardiomegaly. There are bibasilar infiltrates, left greater than right.
+Impression: None",0.3867887959227475
+10,patient64561_study1,"<think>
+
+</think>
+
+Findings: The patient is rotated. The trachea is midline. Cardiac and mediastinal contours are within normal limits. There is no focal consolidation or pleural effusion. The visualized osseous structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.44939109276263495
+11,patient64616_study1,"<think>
+
+</think>
+
+Findings: There is severe kyphosis. The cardiac silhouette is within normal limits. There is no evidence for pulmonary edema, consolidation, pneumothorax, nodule or pleural fluid. Aorta is tortuous and calcified. The bony structures demonstrate degenerative changes.
+Impression: No evidence for active disease.",0.5685743088781368
+12,patient64638_study1,"<think>
+
+</think>
+
+Findings: There is no evidence of pneumothorax or pneumomediastinum. Diffuse pulmonary opacities are seen, most pronounced in the left lower lung and right upper lung. There is no pleural effusion. Heart size is normal. The mediastinum is not widened.
+Impression: No evidence of pneumothorax or pneumomediastinum status post procedure.",0.5707941898337973
+13,patient64595_study1,"<think>
+
+</think>
+
+Findings: The heart size is normal. The mediastinal and hilar contours are unremarkable. The pulmonary vascularity is normal. The lungs are clear. No pleural effusion or pneumothorax is present. There are no acute osseous abnormalities.
+Impression: No acute cardiopulmonary abnormality.",0.4692023901584193
+14,patient64644_study1,"<think>
+
+</think>
+
+Findings: Single portable upright view of the chest demonstrates diffuse bilateral interstitial lung markings. The cardiac silhouette is enlarged. The aorta is unfolded. There is no pneumothorax. The bones are osteopenic. There is a rightward scoliosis.
+Impression: Diffuse bilateral interstitial lung markings with cardiomegaly, findings which may represent interstitial pulmonary edema. Atelectasis is not excluded.",0.36210152927384276
+15,patient64740_study1,"<think>
+
+</think>
+
+Findings: The patient is severely rotated to the right, limiting evaluation. The cardiomediastinal silhouette is enlarged, and there are aortic calcifications. A left-sided picc is in place with the tip in the mid svc. There is no large pleural effusion. There is no pneumothorax. There is no focal consolidation concerning for pneumonia.
+Impression: Severely limited exam secondary to patient positioning.",0.5259061803885159
+16,patient64624_study1,"<think>
+
+</think>
+
+Findings: There is mild cardiomegaly. There is no pneumothorax or large pleural effusion. No consolidation. There are no acute osseous abnormalities.
+Impression: Mild cardiomegaly.",0.6325880334906033
+17,patient64556_study1,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate low lung volumes. There is no focal consolidation, pneumothorax, or pleural effusion. The cardiac silhouette is within normal limits. There is no evidence of pulmonary edema. Multiple healed rib fractures are seen.
+Impression: No pneumothorax.",0.6629531891340338
+18,patient64724_study1,"<think>
+
+</think>
+
+Findings: A left picc line terminates at the cavoatrial junction. The cardiomediastinal silhouette is normal. There is mild pulmonary edema. No focal lung consolidation is seen. There is no pneumothorax or pleural effusion. Visualized osseous structures are unremarkable.
+Impression: 1. Left picc line terminates at the cavoatrial junction. 2. Mild pulmonary edema.",0.4908740892783723
+19,patient64543_study1,"<think>
+
+</think>
+
+Findings: There is marked s-shaped scoliosis of the thoracic and lumbar spine. The cardiac silhouette is within normal limits. The lungs are hyperexpanded. There is a right-sided pleural effusion and right base opacity.
+Impression: 1. Right-sided pleural effusion. 2. Right base opacity. 3. Scoliosis.",0.4578550541079891
+20,patient64708_study1,"<think>
+
+</think>
+
+Findings: There is cardiomegaly. The aorta is tortuous. There is prominence of the pulmonary vasculature and interstitial markings. No focal infiltrates or effusions are identified. No pneumothorax is seen.
+Impression: 1. Cardiomegaly with prominence of the pulmonary vasculature and interstitial markings. This could be related to pulmonary vascular congestion. An atypical infectious process is not excluded. 2. Tortuous aorta.",0.20923676570746408
+21,patient64592_study1,"<think>
+
+</think>
+
+Findings: A right-sided subclavian line is present, distal tip at the distal svc. Multiple sternotomy wires are present. The patient is status post sternotomy. The lung volumes are low. There is cardiomegaly. There is some increased density in the right lower lung, which may represent an area of early infiltrate. There are no pneumothoraces. The bony structures are grossly normal.
+Impression: Cardiomegaly. Low lung volumes. Possible right lower lung infiltrate.",0.37993154101128584
+22,patient64566_study1,"<think>
+
+</think>
+
+Findings: The lungs are clear. There is no focal consolidation, pleural effusion or pneumothorax. Cardiomediastinal silhouette is normal. Osseous structures are normal. There is a tunneled central line with the distal lead tip in the proximal right atrium.
+Impression: No acute cardiopulmonary process.",0.4809497460690477
+23,patient64667_study1,"<think>
+
+</think>
+
+Findings: Ap view of the chest and upper abdomen. An endotracheal tube is 2 cm above the carina. A right-sided chest tube, right ij central venous catheter and nasogastric tube in the gastric pull-through. Mild right-sided subcutaneous emphysema. No pneumothorax. Mild bibasilar atelectasis.
+Impression: Endotracheal tube is 2 cm above the carina. Mild bibasilar atelectasis.",0.4008650518345775
+24,patient64730_study1,"<think>
+
+</think>
+
+Findings: A pacemaker is in place. Right-sided picc line terminates in the mid svc. Heart size is within normal limits. There is mild pulmonary vascular congestion and bibasilar atelectasis. The aorta is calcified and slightly tortuous. There is no pneumothorax or effusion. Visualized bony structures are otherwise unremarkable.
+Impression: No acute disease.",0.4602280219116391
+25,patient64567_study1,"<think>
+
+</think>
+
+Findings: A right-sided tunneled dialysis catheter is noted with the tip in the right atrium. The lungs are hyperinflated, consistent with chronic obstructive pulmonary disease. There is no focal lung consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is within normal limits.
+Impression: 1. No acute cardiopulmonary process. 2. Copd.",0.5784654016038159
+26,patient64691_study1,"<think>
+
+</think>
+
+Findings: The lungs are well expanded. There is mild pulmonary vascular redistribution and mild cardiomegaly. There is a pigtail catheter in the left lower chest wall with no definite pneumothorax. There is a small left effusion. There is a severe scoliosis.
+Impression: 1. Mild chf. 2. No definite pneumothorax.",0.3573439382634688
+27,patient64728_study1,"<think>
+
+</think>
+
+Findings: An endotracheal tube is present with the tip 4.5 cm from the carina. An ng tube is present. A left-sided central line is present with the tip in the svc. No pneumothorax is seen. There is mild cardiomegaly. There are bilateral diffuse infiltrates that could be due to edema or an infectious etiology.
+Impression: Bilateral diffuse infiltrates.",0.3897056763727534
+28,patient64574_study1,"<think>
+
+</think>
+
+Findings: There is a right-sided ij line with the distal tip in the right atrium. There is mild cardiomegaly and mild pulmonary vascular redistribution. There are mild patchy areas of alveolar infiltrate bilaterally.
+Impression: Mild pulmonary edema.",0.422560135534971
+29,patient64673_study1,"<think>
+
+</think>
+
+Findings: Portable chest. Cardiomegaly and pulmonary vascular redistribution with diffuse increased interstitial markings are consistent with pulmonary edema. Atelectasis is present at the left base. The right lung is relatively clear. There is no focal consolidation or effusion. Degenerative changes are present in the spine and both shoulders.
+Impression: Cardiomegaly and pulmonary edema.",0.5135116509673867
+30,patient64582_study1,"<think>
+
+</think>
+
+Findings: There is moderate pulmonary vascular redistribution and mild pulmonary edema. An et tube is present 3.6 cm above the carina. A right ij line has its tip at the top of the right atrium. There is cardiomegaly.
+Impression: Cardiomegaly with chf.",0.3404197974453557
+31,patient64703_study1,"<think>
+
+</think>
+
+Findings: Ap portable view of the chest demonstrates extensive subcutaneous emphysema in the supraclavicular region and extending into the neck and chest wall. The trachea is not well visualized. The cardiomediastinal silhouette is prominent. There is no large pleural effusion or pneumothorax. There is no focal consolidation.
+Impression: 1. Extensive subcutaneous emphysema. Trachea is not well visualized. 2. Prominent cardiomediastinal silhouette. 3. No focal consolidation or large pleural effusion.",0.4018273006699154
+32,patient64620_study1,"<think>
+
+</think>
+
+Findings: The patient is rotated. The patient is status post median sternotomy and cabg. The mediastinum appears widened. There are bilateral chest tubes. The right-sided chest tube appears to be kinked. There is no definite pneumothorax. There is mild pulmonary edema and bibasilar atelectasis. The bones are osteopenic.
+Impression: 1.Status post cabg with widening of the mediastinum. 2.Mild pulmonary edema. 3.Bilateral chest tubes.",0.40853556281550885
+33,patient64701_study1,"<think>
+
+</think>
+
+Findings: An ng tube is in place with the tip in the fundus of the stomach. There is a diffuse interstitial pattern throughout both lungs which is nonspecific. There is no evidence of effusion or pneumothorax. There is no focal consolidation.
+Impression: 1.Ng tube with tip in fundus of stomach. 2.Diffuse interstitial pattern throughout both lungs which is nonspecific.",0.5228761777940412
+34,patient64576_study1,"<think>
+
+</think>
+
+Findings: There is a moderate right apical and medial pneumothorax. The left lung is clear. The cardiac silhouette is not well evaluated. The mediastinal silhouette is normal. The visualized bony structures are unremarkable.
+Impression: Right apical and medial pneumothorax.",0.4513568429749084
+35,patient64605_study1,"<think>
+
+</think>
+
+Findings: Single portable ap view of the chest is provided. The patient is rotated towards the right. The patient is status post cabg with median sternotomy wires. The cardiomediastinal silhouette is within normal limits for technique and positioning. The left-sided pacemaker and leads are in place. The lungs are hyperinflated with increased ap diameter. No focal consolidation, pneumothorax, or pleural effusion is identified. The imaged osseous structures are grossly unremarkable. There is a marked scoliosis of the thoracic spine.
+Impression: No acute cardiopulmonary process.",0.30631452799176956
+36,patient64571_study1,"<think>
+
+</think>
+
+Findings: Portable upright view of the chest demonstrates no large left-sided pneumothorax. The cardiac silhouette is within normal limits for size. The mediastinal contour is widened, which may be secondary to patient positioning and technique. A right subclavian line is seen, terminating at the cavoatrial junction. No acute osseous abnormality is identified.
+Impression: No large left-sided pneumothorax identified.",0.3836349752360467
+37,patient64630_study1,"<think>
+
+</think>
+
+Findings: Ap chest radiograph demonstrates low lung volumes. There is mild cardiomegaly. There is pulmonary vascular engorgement and mild pulmonary edema. Atelectasis is present in the left lower lobe. No focal consolidation is seen. There is no pleural effusion or pneumothorax. There is evidence of prior cervical fusion. Multiple surgical clips are noted in the left upper quadrant. The bones are diffusely osteopenic.
+Impression: 1. Mild cardiomegaly, pulmonary vascular engorgement, and mild pulmonary edema. 2. Left lower lobe atelectasis.",0.36472135599664735
+38,patient64719_study1,"<think>
+
+</think>
+
+Findings: Endotracheal tube terminates 6.8 cm above the carina. Right-sided picc terminates in the upper svc. An ng tube is seen passing below the diaphragm. A right ij hemodialysis catheter terminates in the right atrium. Heart size is moderately enlarged. There is no evidence of pleural effusion or pneumothorax. There is a diffuse bilateral ground-glass opacities with some areas of consolidation.
+Impression: 1. Moderate cardiomegaly. 2. Diffuse ground-glass opacities with areas of consolidation. Differential diagnosis includes pulmonary edema, hemorrhage and atypical infection.",0.4365970053081211
+39,patient64597_study1,"<think>
+
+</think>
+
+Findings: There is a dual-lumen left-sided central venous catheter with the distal tip in the mid to lower svc. The heart is normal in size. The lungs are clear. There is no pneumothorax or pleural effusion. There is evidence of diffuse idiopathic skeletal hyperostosis.
+Impression: No acute cardiopulmonary process.",0.42624913008867266
+40,patient64551_study1,"<think>
+
+</think>
+
+Findings: Lungs: the lungs are hyperinflated. There is no consolidation. Pleura: no pleural effusion is seen. Heart: the heart is not enlarged. Calcified aortic knob is seen. Mediastinum and hila: there is no mediastinal mass. Osseous structures: hypertrophic changes are seen in the dorsal spine. Other findings: none
+Impression: 1. Hyperinflated lungs suggesting chronic obstructive pulmonary disease. 2. No pneumonia.",0.5570807823765341
+41,patient64656_study1,"<think>
+
+</think>
+
+Findings: The patient is markedly rotated. An endotracheal tube is present with the tip at the level of the clavicles. An ng tube is present. There are diffuse bilateral pulmonary opacities that are likely a combination of pulmonary edema and/or infection. There is no effusion. There is no pneumothorax.
+Impression: Bilateral pulmonary opacities, likely a combination of pulmonary edema and/or infection.",0.44008976482533557
+42,patient64680_study1,"<think>
+
+</think>
+
+Findings: Endotracheal tube is in place with tip approximately 2.7 cm above the level of the carina. Right internal jugular central venous catheter is in place with tip in the region of the right atrium. There is no evidence of pneumothorax. Cardiomediastinal silhouette is normal. The lungs are clear.
+Impression: Endotracheal tube and right internal jugular central venous catheter in place. No pneumothorax. Normal cardiomediastinal silhouette. Clear lungs.",0.5065745674829539
+43,patient64612_study1,"<think>
+
+</think>
+
+Findings: The patient is status post right upper lobectomy with a right-sided chest tube in place. A small right apical pneumothorax is identified. There is no evidence of tension. Mild atelectasis is seen in the right lower lung. There is no evidence of focal consolidation, pulmonary edema or pleural effusion. The cardiomediastinal silhouette is within normal limits. Multiple ekg leads overlie the patient. Surgical clips are seen in the upper abdomen.
+Impression: Status post right upper lobectomy with small right apical pneumothorax.",0.44607443085582715
+44,patient64666_study1,"<think>
+
+</think>
+
+Findings: Portable semi-upright chest radiograph demonstrates stable lines and tubes. Cardiomegaly is unchanged. Bilateral hazy opacities in the lungs are unchanged.
+Impression: Stable bilateral hazy opacities.",0.38561014709018204
+45,patient64548_study1,"<think>
+
+</think>
+
+Findings: The patient is rotated to the left. Heart size is enlarged. The mediastinum is not widened. Lung volumes are low, with bibasilar opacities. The upper lungs are relatively clear. There is no large pleural effusion. There is no pneumothorax. There is a prominent gas-filled loop of bowel in the left upper quadrant. Bony structures are grossly unremarkable.
+Impression: 1. Cardiomegaly and bibasilar opacities. 2. Gas-filled loop of bowel in the left upper quadrant. 3. Correlate with prior studies for the bibasilar opacities.",0.4473790493296549
+46,patient64584_study1,"<think>
+
+</think>
+
+Findings: Heart size is top normal. The mediastinal and hilar contours are unremarkable. The pulmonary vascularity is normal. There is minimal linear opacity at the left base, likely representing subsegmental atelectasis. No focal consolidation, pleural effusion or pneumothorax is identified. There are no acute osseous abnormalities.
+Impression: No acute cardiopulmonary process.",0.4842541948446465
+47,patient64655_study1,"<think>
+
+</think>
+
+Findings: The patient is rotated to the right. Endotracheal tube is 7.5 cm above the carina. Enteric tube is in the stomach. There is left basilar consolidation, which could represent atelectasis, aspiration, or infection. The right lung is clear. The cardiac silhouette is obscured by the left base opacity. No acute fractures are identified.
+Impression: 1. Endotracheal tube is 7.5 cm above the carina. Enteric tube in the stomach. 2. Left basilar opacity, which could represent atelectasis, aspiration, or infection.",0.3176579458900447
+48,patient64542_study1,"<think>
+
+</think>
+
+Findings: The lungs are clear. The cardiomediastinal silhouette is within normal limits. A left-sided picc line is seen with tip in the distal svc. A linear density is seen overlying the left upper chest, likely external to the patient. This may represent a picc line, however, the line is not well visualized. No pneumothorax is identified. There is scoliosis of the thoracic spine.
+Impression: 1. No acute cardiopulmonary process. 2. Linear density seen overlying the left upper chest. This is not well visualized and may represent an external device.",0.537900235624135
+49,patient64672_study1,"<think>
+
+</think>
+
+Findings: The lungs are moderately well expanded. There is moderate pulmonary edema. The cardiac silhouette is enlarged. There is prominence of the right hilar region. The aorta is tortuous. There is no pneumothorax. There is no large pleural effusion. There is osteopenia.
+Impression: Moderate pulmonary edema. Enlarged cardiac silhouette. Prominence of the right hilar region may be related to pulmonary edema versus underlying consolidation.",0.3559219456504595
+50,patient64643_study1,"<think>
+
+</think>
+
+Findings: Tracheostomy tube, endotracheal tube, and enteric tube are in place. The tip of the enteric tube is not visualized. Bilateral chest tubes are present. Diffuse bilateral pulmonary opacities are present, most confluent in the right upper lobe and left lower lobe.
+Impression: Diffuse bilateral pulmonary opacities, consistent with severe pulmonary edema, multifocal infection, or ards.",0.5002320421367153
+51,patient64553_study1,"<think>
+
+</think>
+
+Findings: Ap upright view of the chest was obtained. There is no focal consolidation or pleural effusion. There is no pneumothorax. The heart is mildly enlarged. There is no overt pulmonary edema. The mediastinal silhouette is within normal limits. The bony structures are unremarkable.
+Impression: Mild cardiomegaly. No acute pulmonary process.",0.436995973220993
+52,patient64547_study1,"<think>
+
+</think>
+
+Findings: The lungs are clear bilaterally. Cardiomediastinal silhouette is within normal limits. Surgical clips are seen overlying the left lung apex. A large amount of soft tissue is seen overlying the left neck and lung apex, likely representing the patient's hair.
+Impression: No acute pulmonary process. No change from remote exam.",0.4523200074617703
+53,patient64589_study1,"<think>
+
+</think>
+
+Findings: Upright ap and lateral chest radiographs demonstrate mild pulmonary edema and cardiomegaly. The aorta is tortuous. There is no focal opacity, pleural effusion, or pneumothorax. Osseous structures are grossly unremarkable.
+Impression: Cardiomegaly and pulmonary edema.",0.40526104002975477
+54,patient64621_study1,"<think>
+
+</think>
+
+Findings: Right-sided chest tube is in place. Right subclavian central line tip is in the right atrium. Cardiac silhouette is mildly enlarged. The pulmonary vasculature is mildly engorged. No pneumothorax is seen. There is right chest wall subcutaneous emphysema. There is also mild pneumomediastinum.
+Impression: Mild cardiomegaly and mild pulmonary edema.",0.47621452312225615
+55,patient64682_study1,"<think>
+
+</think>
+
+Findings: The patient is rotated to the right. The trachea is midline. The right hilum is slightly prominent. There is diffuse increased density in the left lung field with obscuration of the left hemidiaphragm. The cardiac silhouette is enlarged. There is no right-sided pleural effusion. No pneumothorax is identified. Spinal fusion hardware is seen in the upper thoracic and lower cervical spine. The visualized osseous structures are otherwise unremarkable.
+Impression: 1. Increased density in the left lung field. Findings could represent infection, aspiration or atelectasis. 2. Enlarged cardiac silhouette.",0.46015171816178685
+56,patient64623_study1,"<think>
+
+</think>
+
+Findings: Single portable semiupright view of the chest demonstrates multiple tubes and lines that are unchanged. There is mild cardiomegaly. There is pulmonary edema. There is no pneumothorax. There are bibasilar opacities. There is subcutaneous edema and subcutaneous emphysema in the neck.
+Impression: There is mild cardiomegaly, pulmonary edema, bibasilar opacities, subcutaneous edema, and subcutaneous emphysema in the neck.",0.42629643779669546
+57,patient64705_study1,"<think>
+
+</think>
+
+Findings: Ap and lateral chest radiographs were provided. Overlying artifact limits evaluation. There is no focal consolidation, pleural effusion or pneumothorax. The heart size is enlarged. The bones are intact.
+Impression: Cardiomegaly without acute process.",0.28218525973029357
+58,patient64727_study1,"<think>
+
+</think>
+
+Findings: The cardiomediastinal silhouette is enlarged. There is a large right-sided pneumothorax. There is no mediastinal shift or diaphragmatic flattening to suggest tension. The left lung is clear. There are no pleural effusions.
+Impression: 1. Large right-sided pneumothorax. 2. Cardiomegaly. 3. Findings were discussed with ___ in the emergency department at 9:00 a.M. On 4-2-2006.",0.34774049552388925
+59,patient64602_study1,"<think>
+
+</think>
+
+Findings: This study is limited by the patient's body habitus. There is moderate cardiomegaly and aortic calcifications. The pulmonary vasculature is somewhat prominent, and this may represent pulmonary edema. There are bibasilar opacities, likely atelectasis. There are no definite pleural effusions. There is no pneumothorax. There are no definite acute bony findings.
+Impression: 1. Limited study secondary to the patient's body habitus. 2. Moderate cardiomegaly. 3. Bibasilar opacities, likely atelectasis. 4. Mild pulmonary edema.",0.3681510133817869
+60,patient64689_study1,"<think>
+
+</think>
+
+Findings: The study is limited by patient body habitus. Lung volumes are low. The heart is not enlarged. The aorta is atherosclerotic. There is increased opacification in the left lung, which could be related to the patient's body habitus or a left-sided infiltrate. There is no definite pneumothorax. There is no pleural effusion.
+Impression: Limited study with increased opacification of the left lung, which could be related to the patient's body habitus or a left-sided infiltrate.",0.47381498923887994
+61,patient64668_study1,"<think>
+
+</think>
+
+Findings: The patient is status post cervical spine fixation hardware. There is cardiomegaly with diffuse reticular interstitial pattern which may represent pulmonary edema. There is no focal lung consolidation. There are no pleural effusions.
+Impression: Cardiomegaly with diffuse reticular interstitial pattern which may represent pulmonary edema.",0.44752418658637944
+62,patient64636_study1,"<think>
+
+</think>
+
+Findings: Endotracheal tube 4 cm above the carina. Enteric tube tip not visualized. Multiple sternotomy wires and surgical clips. There is a large hiatal hernia. Heart size is mildly enlarged. There are prominent interstitial markings which may represent chronic interstitial lung disease versus edema. There are bibasilar opacities which may represent atelectasis or aspiration. There are no pleural effusions.
+Impression: 1.Mildly enlarged heart with prominent interstitial markings which may represent chronic interstitial lung disease versus edema. 2.Bibasilar opacities which may represent atelectasis or aspiration. 3.Large hiatal hernia.",0.41992969138865316
+63,patient64585_study1,"<think>
+
+</think>
+
+Findings: The patient is significantly rotated towards the right. The cardiac silhouette is enlarged. There is atherosclerotic calcification of the aortic arch. The lung volumes are low. There are mild bibasilar atelectatic changes. There is no definite consolidation. There are degenerative changes of the thoracic spine and bilateral shoulders. There is mild pulmonary edema.
+Impression: 1. Mild pulmonary edema. 2. Mild bibasilar atelectatic changes. 3. Atherosclerotic calcification of the aortic arch.",0.43633222363421886
+64,patient64565_study1,"<think>
+
+</think>
+
+Findings: There is moderate cardiomegaly. There is calcification of the aorta. The lungs are hyperinflated with hyperlucency in the upper lung fields and flattened hemidiaphragms consistent with emphysema. There is increased opacity at the right lung base. There is no pleural effusion. There is no pneumothorax.
+Impression: 1. Cardiomegaly. 2. Emphysema. 3. Increased opacity at the right lung base may be secondary to pneumonia.",0.5255836445162341
+65,patient64713_study1,"<think>
+
+</think>
+
+Findings: Single portable view of the chest. The lungs are hyperinflated but clear of confluent consolidation. Cardiac silhouette is enlarged but not significantly changed. Osseous structures demonstrate no acute abnormality. Right picc is seen with tip in the mid svc.
+Impression: No acute cardiopulmonary process. Right picc tip in the mid svc.",0.3819133009198905
+66,patient64652_study1,"<think>
+
+</think>
+
+Findings: The lungs are hyperinflated. There is a dense consolidation of the right lung with a loculated pleural effusion. There is also a small left pleural effusion. The heart size is enlarged. There is a left chest tube with a small left apical pneumothorax. Subcutaneous emphysema is noted in the right chest wall.
+Impression: 1. Dense consolidation of the right lung with loculated right pleural effusion. 2. Left apical pneumothorax with left chest tube in place.",0.5852513529073117
+67,patient64573_study1,"<think>
+
+</think>
+
+Findings: Portable chest radiograph. The patient is markedly rotated. An endotracheal tube is present, approximately 1.5 cm from the carina. A left subclavian central venous catheter terminates in the distal svc. An ng tube terminates in the stomach. The patient has a known left upper lobe mass. There is mild bibasilar atelectasis. There is no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is within normal limits.
+Impression: 1. Endotracheal tube approximately 1.5 cm from the carina. Recommend retraction by approximately 1 cm. 2. Left subclavian central venous catheter in appropriate position. 3. No evidence of pneumonia.",0.5467089068146623
+68,patient64697_study1,"<think>
+
+</think>
+
+Findings: The et tube is slightly low, at the level of the carina. The ng tube and feeding tube are in satisfactory position. There is a right ij line with the tip in the svc. There is a small right-sided pleural effusion. There is increased density in the left upper lobe that could represent an infiltrate. There is mild cardiomegaly.
+Impression: 1.The et tube is low at the level of the carina. 2.There is a left upper lobe opacity that could represent an infiltrate. 3.There is a small right-sided pleural effusion.",0.5798454100837717
+69,patient64564_study1,"<think>
+
+</think>
+
+Findings: Upright ap view of the chest demonstrates a prominent cardiac silhouette. The aorta is mildly tortuous and calcified. There is a 2.8 cm ovoid opacity projecting over the left lower lung zone. The lungs are otherwise clear. No pulmonary edema, pleural effusion or pneumothorax.
+Impression: 1. No evidence of acute cardiopulmonary process. 2. Ovoid opacity projecting over the left lower lung zone. A dedicated pa view of the chest may be performed to evaluate for underlying mass.",0.6349870149408993
+70,patient64559_study1,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest demonstrate hyperinflated lungs with increased ap diameter and flattened diaphragms, consistent with chronic obstructive pulmonary disease. The lungs are otherwise clear. There is no pneumothorax, pleural effusion, pulmonary edema, or consolidation. The cardiac and mediastinal contours are normal. There is mild tortuosity of the descending aorta. The hilar structures are unremarkable. The bones are diffusely demineralized. There are degenerative changes of the spine.
+Impression: Hyperinflated lungs consistent with copd. Otherwise, no acute cardiopulmonary process.",0.5828188213025428
+71,patient64637_study1,"<think>
+
+</think>
+
+Findings: The cardiac silhouette is enlarged. There is no focal lung consolidation. There is mild interstitial edema. There is no pleural effusion. There is no pneumothorax. The osseous structures are unremarkable. A left chest tube is seen.
+Impression: 1.Mild interstitial edema. 2.Left chest tube in position.",0.5652247487251166
+72,patient64639_study1,"<think>
+
+</think>
+
+Findings: There is an et tube, a right ij line, and a left subclavian line. The left subclavian line appears to be in the svc. The et tube is 2 cm from the carina. The right ij line tip is in the svc. There is an ng tube in the stomach. The cardiac silhouette is moderately enlarged. There is a small left effusion. There is a diffuse reticular pattern in both lungs. The upper lung zones are clear. The left lung base is obscured by the cardiac silhouette.
+Impression: 1. Lines and tubes as described. 2. Small left effusion. 3. Mild edema.",0.5196138098245413
+73,patient64603_study1,"<think>
+
+</think>
+
+Findings: A right subclavian line terminates in the svc. An et tube terminates 6.3 cm from the carina. A left ij line terminates in the svc. Sternotomy wires are intact. A pericardial drain is noted. A mediastinal drain is noted. The cardiomediastinal silhouette is prominent. There is pulmonary vascular redistribution and bilateral alveolar infiltrates. There are small bilateral effusions. There is no pneumothorax.
+Impression: 1. Prominent cardiomediastinal silhouette with pulmonary vascular redistribution and bilateral alveolar infiltrates consistent with chf. 2. Bilateral small pleural effusions.",0.42892481859740794
+74,patient64683_study1,"<think>
+
+</think>
+
+Findings: The lungs are moderately well inflated. There is a diffuse reticular pattern throughout both lungs. There is a dense retrocardiac opacity. There is a left pleural effusion. The cardiac silhouette is enlarged. There is marked thoracic dextroscoliosis. There is marked kyphosis. There are no definite acute osseous abnormalities.
+Impression: 1. Diffuse reticular pattern throughout both lungs suggestive of pulmonary edema. 2. Left retrocardiac opacity, likely atelectasis versus infection or aspiration. 3. Left pleural effusion. 4. Cardiomegaly. 5. Marked dextroscoliosis and kyphosis.",0.5573880922189958
+75,patient64615_study1,"<think>
+
+</think>
+
+Findings: The lungs are hyperexpanded and there is diffuse interstitial coarsening. A right-sided picc line terminates in the right atrium. Surgical clips project over the right axilla.
+Impression: Hyperexpanded lungs with diffuse interstitial coarsening. Right-sided picc line terminating in right atrium. Surgical clips over right axilla.",0.4177135564101294
+76,patient64653_study1,"<think>
+
+</think>
+
+Findings: Semi-upright portable view of the chest demonstrates an endotracheal tube in place, 3.4 cm from the carina. A left-sided subclavian line terminates in the mid svc. Enteric tube traverses the diaphragm into the left upper quadrant and its tip is not seen. An additional right-sided subclavian line terminates in the mid svc. The cardiac silhouette is mildly enlarged. Aorta is tortuous. The mediastinum is widened, and the patient has an s-shaped scoliosis. There is prominence of the pulmonary vasculature, compatible with mild-to-moderate pulmonary edema. No focal consolidation, pleural effusion or pneumothorax is present.
+Impression: 1. Endotracheal tube, 3.4 cm from the carina. 2. Mild-to-moderate pulmonary edema.",0.5
+77,patient64608_study1,"<think>
+
+</think>
+
+Findings: A right-sided picc line is in place with the tip located in the lower svc. There is a small left-sided pleural effusion. There is bibasilar atelectasis. There is no evidence of focal consolidations, pneumothoraces or pulmonary edema. The cardiac silhouette is within normal limits. The mediastinal contours are within normal limits. Calcification of the aortic knob is noted. Moderate osteopenia is present. Degenerative changes are seen throughout the thoracic spine.
+Impression: No acute pulmonary process.",0.4351122549372506
+78,patient64570_study1,"<think>
+
+</think>
+
+Findings: The patient is status post median sternotomy and cabg. The heart is mildly enlarged. There is a right pneumothorax with extensive subcutaneous emphysema along the right lateral chest wall and in the right neck. The lung fields demonstrate extensive interstitial markings, more confluent in the right upper lung. The findings are consistent with the patient's known diagnosis of copd with superimposed infection in the right upper lung. A right chest tube is present.
+Impression: 1. Right pneumothorax with extensive subcutaneous emphysema. 2. Copd with right upper lung pneumonia.",0.49833167820298596
+79,patient64670_study1,"<think>
+
+</think>
+
+Findings: The patient is rotated. The endotracheal tube is 6.5 cm above the carina. A swan-ganz catheter tip is in the right main pulmonary artery. Two mediastinal drains are present. The nasogastric tube tip is difficult to visualize. Sternotomy wires are present. There is no pneumothorax. The lungs are grossly clear. The costophrenic angles are not completely included on this study. There is no gross effusion.
+Impression: The costophrenic angles are not completely included on this study. The endotracheal tube is slightly high. Otherwise, the patient is status post cabg with support devices in place.",0.4684346203207298
+80,patient64669_study1,"<think>
+
+</think>
+
+Findings: The et tube is approximately 6 cm from the carina. There is a left-sided central venous line with the tip in the mid svc. There is a left-sided picc line with the tip at the cavoatrial junction. There is a feeding tube and a nasogastric tube both of which appear to be in the distal esophagus. The stomach is distended. There is bilateral patchy consolidation in the mid and lower lung fields. There is cardiomegaly.
+Impression: 1. Tubes and lines including feeding tube and nasogastric tube in the distal esophagus. 2. Cardiomegaly and pulmonary edema with patchy bibasilar opacities which may represent pneumonia.",0.3098996553341162
+81,patient64600_study1,"<think>
+
+</think>
+
+Findings: The heart is enlarged. There is mild interstitial edema. The lungs are hyperinflated. No focal consolidations are seen. No pleural effusions are identified. There is no pneumothorax.
+Impression: Cardiomegaly with mild interstitial edema and hyperinflated lungs.",0.4133406497448609
+82,patient64554_study1,"<think>
+
+</think>
+
+Findings: Single portable chest radiograph is obtained. The lungs are well inflated. The lungs are clear. No pneumothorax. The cardiomediastinal silhouette, hilar contours, and pleural surfaces are normal. No pleural effusion.
+Impression: No acute intrathoracic process.",0.4847623335720275
+83,patient64635_study1,"<think>
+
+</think>
+
+Findings: Single portable view of the chest demonstrates an endotracheal tube terminating approximately 5.3 cm above the carina. A nasogastric tube is present, tip not visualized, but appears to terminate at least at the level of the mid chest. The lung volumes are low. The heart size is enlarged. The pulmonary vasculature is indistinct. There is bilateral lower lung atelectasis. There is a right lower lobe opacity that could represent atelectasis, aspiration or infection. There is no pneumothorax. There is no large pleural effusion.
+Impression: 1.Right lower lobe opacity could represent atelectasis, aspiration or infection. 2.Cardiomegaly and pulmonary vascular congestion.",0.34226644226469594
+84,patient64657_study1,"<think>
+
+</think>
+
+Findings: Portable chest supine view. Endotracheal tube tip is approximately 3.4 cm above the carina. Nasogastric tube is seen with tip below the diaphragm and not included in the field of view. Right internal jugular central venous catheter tip is in the lower svc. Low lung volumes with diffuse interstitial opacity and indistinct pulmonary vasculature. No large pleural effusion or pneumothorax.
+Impression: 1. Low lung volumes with diffuse interstitial opacities and indistinct pulmonary vasculature suggestive of mild pulmonary edema. 2. Supportive devices in appropriate position.",0.43560470455839
+85,patient64575_study1,"<think>
+
+</think>
+
+Findings: The heart is enlarged. The aorta is mildly tortuous. The lungs are clear with no evidence of a consolidation, effusion, or pneumothorax. There is diffuse osteopenia. No acute fractures are identified.
+Impression: No acute cardiopulmonary process.",0.4785795186857276
+86,patient64700_study1,"<think>
+
+</think>
+
+Findings: Single portable supine chest radiograph was obtained. Patient is rotated to the left. Cardiomegaly is mild. Aortic valve replacement is noted. There is a left anterior chest wall cardiac pacemaker with leads terminating in the right atrium and right ventricle. There is no focal consolidation, pleural effusion or pneumothorax.
+Impression: 1. No acute cardiopulmonary disease. 2. Status post pacemaker lead placement without evidence for pneumothorax.",0.588463517340761
+87,patient64688_study1,"<think>
+
+</think>
+
+Findings: An endotracheal tube is present with tip projecting 4 cm above the carina. A right internal jugular central venous catheter tip projects over the superior cavoatrial junction. A nasogastric tube is present. An additional tube overlies the trachea, and is not clearly visualized. Bilateral diffuse airspace opacities are present with a basilar predominance. This may represent diffuse infection or pulmonary edema. A small right pleural effusion is present.
+Impression: 1. Multiple tubes and lines as described. 2. Bilateral diffuse airspace opacities with basilar predominance. This may represent diffuse infection or pulmonary edema.",0.5014122971109745
+88,patient64549_study1,"<think>
+
+</think>
+
+Findings: The lungs are clear. There is no pleural effusion. The cardiac silhouette is moderately enlarged. There is a left subclavian catheter in the mid svc. No acute fractures are identified.
+Impression: 1. Cardiomegaly without edema. 2. Left subclavian catheter in the mid svc.",0.4697966625889642
+89,patient64676_study1,"<think>
+
+</think>
+
+Findings: The cardiac silhouette is moderately enlarged. The mediastinal contour is normal. There are bilateral reticular opacities which are nonspecific but may represent mild pulmonary edema. No focal consolidation is identified. No pneumothorax. Small bilateral pleural effusions are present.
+Impression: Bilateral reticular opacities, which may represent mild pulmonary edema.",0.49858944472444044
+90,patient64658_study1,"<think>
+
+</think>
+
+Findings: There is a tortuous and possibly dilated aorta. There is also some calcification in the aortic knob. Heart size is within normal limits. The lungs are clear.
+Impression: 1. Tortuous and possibly dilated aorta. 2. Lungs are clear.",0.49848724018464863
+91,patient64568_study1,"<think>
+
+</think>
+
+Findings: The lungs are clear. The cardiomediastinal silhouette is normal. There are no pleural effusions. There is mild pectus deformity.
+Impression: No acute cardiopulmonary disease.",0.6833043171429087
+92,patient64664_study1,"<think>
+
+</think>
+
+Findings: The patient is intubated with endotracheal tube overlying the trachea. The tip is approximately 5 cm above the carina. Nasogastric tube is in place with tip not visualized. There are sternotomy wires and multiple overlying tubes and lines. An aicd is in place with leads overlying the right atrium and right ventricle. The heart size is enlarged. There are patchy alveolar opacities bilaterally which are extensive and which are likely related to edema or possibly ards. There is a small left-sided pleural effusion.
+Impression: Extensive patchy alveolar opacities throughout both lungs, likely related to edema or possibly ards. Small left pleural effusion. Enlarged heart.",0.5729864668378697
+93,patient64694_study1,"<think>
+
+</think>
+
+Findings: The patient is significantly rotated to the left. The patient is status post esophagectomy with gastric pull-through. Right-sided chest tube is seen. There is a right-sided subclavian line with tip overlying the mid svc. There is a large amount of soft tissue density in the right paratracheal region. There is no evidence of pneumothorax. There is no focal infiltrate or pleural effusion.
+Impression: No pneumothorax.",0.5321850376013824
+94,patient64675_study1,"<think>
+
+</think>
+
+Findings: The patient is markedly rotated to the right, which limits the evaluation of the thorax. The patient is also quite obese. Allowing for these limitations, the heart size appears to be within normal limits. There is a moderate hiatal hernia. The lungs are well expanded and clear. There is no pneumothorax. There is a small left pleural effusion. The visualized osseous structures are unremarkable. There is severe osteoarthritis of both shoulders, right greater than left. There is a small calcified granuloma in the right upper lobe. There is severe subcutaneous edema.
+Impression: 1. Severe subcutaneous edema. 2. Moderate hiatal hernia. 3. Small left pleural effusion.",0.4328126554499417
+95,patient64546_study1,"<think>
+
+</think>
+
+Findings: Single portable semiupright chest radiograph demonstrates a right ij central venous catheter with tip in the region of the cavoatrial junction. Sternotomy wires are midline and intact. Low lung volumes are noted with increased opacity in the right mid lung, and to a lesser extent, the left lung base, which may represent atelectasis versus consolidation. There is no pleural effusion. There is no pneumothorax. The cardiac silhouette is obscured by overlying soft tissue. The mediastinum is widened.
+Impression: 1. Increased opacity in the right mid lung and to a lesser extent left lung base, which may represent atelectasis or consolidation. 2. Widened mediastinum, which may be secondary to technique. Attention on followup is recommended.",0.5382259502196628
+96,patient64601_study1,"<think>
+
+</think>
+
+Findings: The lungs are clear. There is no pneumothorax. The cardiac silhouette is enlarged. The mediastinum is widened, likely due to the ap technique. There is no effusion.
+Impression: Cardiomegaly without failure. No focal infiltrate.",0.34032973590862237
+97,patient64555_study1,"<think>
+
+</think>
+
+Findings: The cardiomediastinal silhouette is within normal limits. There is mild to moderate pulmonary edema. No pneumothorax. There is no pleural effusion. Extensive subcutaneous emphysema is seen throughout the chest. Multiple left-sided rib fractures are identified.
+Impression: 1.Mild to moderate pulmonary edema. 2.Multiple left-sided rib fractures. 3.Subcutaneous emphysema.",0.47722565982973475
+98,patient64572_study1,"<think>
+
+</think>
+
+Findings: Limited exam due to technique. The mediastinum is prominent. No definite fractures are identified. No definite pneumothorax or pleural effusion is identified.
+Impression: Limited exam with prominent mediastinum. No definite fractures are identified. No pneumothorax or pleural effusion is identified.",0.4258979845867857
+99,patient64586_study1,"<think>
+
+</think>
+
+Findings: The patient is rotated. The cardiomediastinal silhouette is unremarkable. There are low lung volumes bilaterally. There is no pneumothorax or large pleural effusion. There is no focal consolidation concerning for pneumonia.
+Impression: Limited, negative for acute cardiopulmonary process.",0.6366806998584896
+100,patient64563_study1,"<think>
+
+</think>
+
+Findings: There is a right-sided picc line with distal tip in the mid svc. There is no pneumothorax. Cardiac silhouette is enlarged. The mediastinum is normal. There are atherosclerotic calcifications in the thoracic aorta. There are patchy opacities in the lung bases, which could represent atelectasis, aspiration or early pneumonia. No large pleural effusion is seen. There is no pneumothorax. There are no acute osseous abnormalities.
+Impression: 1.Right-sided picc line with distal tip in the mid svc. 2.Patchy opacities in the lung bases, which could represent atelectasis, aspiration or early pneumonia.",0.4667137039771025
+101,patient64634_study1,"<think>
+
+</think>
+
+Findings: Ap portable view of the chest. Patient is rotated towards the right. There is an ng tube with its tip in the stomach. There is a left subclavian central venous catheter with its tip in the right atrium. Lung volumes are low with no focal consolidation, pleural effusion, or pneumothorax. No radiopaque foreign body is seen. The cardiomediastinal silhouette cannot be assessed.
+Impression: No focal consolidation.",0.5236571814808156
+102,patient64640_study1,"<think>
+
+</think>
+
+Findings: Two portable upright chest radiographs are submitted. The lateral view is suboptimal. There is a severe thoracic scoliosis. There is marked widening of the mediastinum with a convex right margin which is likely related to the patient's scoliosis. However, underlying pathology cannot be excluded. There is mild cardiomegaly with prominence of the pulmonary vessels suggestive of vascular congestion. No definite pleural effusion. No pneumothorax.
+Impression: 1. Severe thoracic scoliosis with marked widening of the mediastinum, likely related to the scoliosis but underlying pathology cannot be excluded. Recommend ct of the chest with contrast for further evaluation. 2. Mild cardiomegaly with vascular congestion.",0.4008524684970156
+103,patient64692_study1,"<think>
+
+</think>
+
+Findings: Portable supine chest radiograph demonstrates a large right pleural effusion with aeration of the right lung apex and right middle lobe. The left lung is clear. A feeding tube is seen in the upper abdomen. An ivc filter is in place. No acute bony abnormalities.
+Impression: Large right pleural effusion.",0.4889065022509321
+104,patient64674_study1,"<think>
+
+</think>
+
+Findings: The et tube is 4 cm above the carina. The left subclavian central line tip is in the distal svc. Ng tube tip is in the stomach. There are multiple rib fractures on the left. The patient has a small left pneumothorax. There are low lung volumes. There is a right subclavian catheter with tip in the proximal svc. The heart size is upper limits of normal. There is mild pulmonary vascular redistribution.
+Impression: None",0.4765395760599133
+105,patient64646_study1,"<think>
+
+</think>
+
+Findings: The patient's head and neck are obscuring the apices. The lungs are grossly clear. The cardiomediastinal silhouette is within normal limits.
+Impression: The patient's head and neck are obscuring the apices. The lungs are grossly clear. The cardiomediastinal silhouette is within normal limits.",0.35824669348051497
+106,patient64560_study1,"<think>
+
+</think>
+
+Findings: The heart size is mildly enlarged. A tunneled central venous line is seen with the tip in the right atrium. There are diffuse increased interstitial markings seen throughout the lungs, which may represent mild pulmonary edema. There are no focal infiltrates. There is no pneumothorax.
+Impression: Mild cardiomegaly. Mild pulmonary edema.",0.6148068060788477
+107,patient64631_study1,"<think>
+
+</think>
+
+Findings: Portable ap view of the chest demonstrates no focal consolidation. The heart size is moderately enlarged. There is no pleural effusion or pneumothorax.
+Impression: 1. No focal consolidation. 2. Moderate cardiomegaly.",0.5443713267196468
+108,patient64591_study1,"<think>
+
+</think>
+
+Findings: Single supine view of the chest demonstrates clear lungs and normal cardiomediastinal silhouette. No pneumothorax or effusion. No displaced fracture is identified.
+Impression: No acute intrathoracic process.",0.5016963199249791
+109,patient64647_study1,"<think>
+
+</think>
+
+Findings: Portable upright chest radiograph demonstrates a subtle rounded opacity in the right upper lung zone. The lungs are otherwise clear. No pleural effusion or pneumothorax. The cardiomediastinal silhouette is unremarkable. The skeletal structures are grossly unremarkable.
+Impression: Subtle rounded opacity in the right upper lung zone. Recommend pa and lateral chest radiograph for further evaluation.",0.39907576509253506
+110,patient64739_study1,"<think>
+
+</think>
+
+Findings: Single portable upright view of the chest demonstrates bilateral low lung volumes. The cardiomediastinal silhouette is prominent. The lungs are clear without focal consolidation. No pleural effusion or pneumothorax is seen.
+Impression: No acute cardiopulmonary process.",0.45968558971516355
+111,patient64641_study1,"<think>
+
+</think>
+
+Findings: Single semi-upright portable view of the chest is limited by the patient's body habitus. There is a tracheostomy tube in place. There is an enteric tube in place, the tip is not clearly visualized, but appears to be at least at the level of the distal esophagus. There is marked cardiomegaly. The pulmonary vasculature appears indistinct. No large pleural effusion is seen. There is no pneumothorax.
+Impression: 1.Limited study, due to the patient's body habitus. 2.Tracheostomy tube is in place. Enteric tube is seen at least to the level of the distal esophagus. 3.Cardiomegaly with pulmonary edema.",0.3659753906070338
+112,patient64660_study1,"<think>
+
+</think>
+
+Findings: An endotracheal tube is in place, with the tip approximately 2.3 cm above the carina. There are bilateral chest tubes. There is a right subclavian line with the tip overlying the distal svc. There are surgical clips overlying the right chest wall. There is an old fracture of the right proximal humerus. There is a retrocardiac opacity, which could be due to atelectasis, pneumonia, or aspiration. There is no pneumothorax.
+Impression: 1. There is an endotracheal tube in place, with the tip approximately 2.3 cm above the carina. There are bilateral chest tubes. There is a right subclavian line with the tip overlying the distal svc. There are surgical clips overlying the right chest wall. There is an old fracture of the right proximal humerus. 2. There is a retrocardiac opacity, which could be due to atelectasis, pneumonia, or aspiration.",0.44970329786052327
+113,patient64613_study1,"<think>
+
+</think>
+
+Findings: Two views of the chest demonstrate a right apical pneumothorax, with an air-fluid level indicating a hydropneumothorax component. A right subclavian picc line is in place with the tip in the distal svc. Multiple sternal wires and mediastinal clips are seen, along with surgical clips in the right mediastinum and along the right lateral chest wall. The lungs are hyperexpanded with flattened diaphragms, compatible with emphysema. No focal parenchymal opacity is seen. The heart is normal in size. There is atherosclerotic calcification of the aortic arch. The pleural surfaces are normal. No acute osseous abnormality is seen. Partially imaged are orthopedic screws in the right humeral head.
+Impression: Right hydropneumothorax with an air-fluid level. The right lung appears hyperexpanded. These findings were discussed with dr. ___ by dr. ___ at 9:35 p.M. On ___, by telephone.",0.5054548554305635
+114,patient64734_study1,"<think>
+
+</think>
+
+Findings: The patient is rotated and there is significant respiratory motion artifact. Lung volumes are low. There is no definite focal consolidation. There is no pleural effusion or pneumothorax. The cardiac silhouette is likely enlarged. The aorta is tortuous.
+Impression: 1. Limited exam with no definite focal consolidation. 2. Likely cardiomegaly.",0.37589520091350526
+115,patient64714_study1,"<think>
+
+</think>
+
+Findings: The patient is severely rotated, which somewhat limits the examination. Endotracheal tube tip is approximately 2.5 cm from the carina. An ng tube tip is within the stomach. There is bilateral perihilar and lower lung zone opacities. The cardiac silhouette is enlarged.
+Impression: Bilateral lower lung zone and perihilar opacities, which could represent edema, aspiration, or hemorrhage.",0.308966678320596
+116,patient64663_study1,"<think>
+
+</think>
+
+Findings: Portable ap chest radiograph demonstrates a diffuse bilateral ground-glass opacities and a left lower lobe consolidation. The heart size is difficult to assess. No pleural effusions. The osseous structures are unremarkable.
+Impression: 1. Diffuse bilateral ground-glass opacities and a left lower lobe consolidation. The diffuse pattern of opacities are most consistent with diffuse pneumonia. However, atypical pulmonary edema and pulmonary hemorrhage could also be considered in the differential.",0.46146334506848624
+117,patient64732_study1,"<think>
+
+</think>
+
+Findings: Single portable view of the chest demonstrates a prominent cardiac silhouette and atherosclerotic calcifications of the aortic arch. The lungs are clear without evidence of pulmonary edema or pleural effusion. No focal consolidation. No pneumothorax.
+Impression: Cardiomegaly, no acute cardiopulmonary process.",0.48417391056491327
+118,patient64709_study1,"<think>
+
+</think>
+
+Findings: Single portable view of the chest. There is a right ij central venous catheter seen with tip in the right atrium. There is no visualized pneumothorax on this semi-upright film. The lungs are grossly clear noting mild pulmonary vascular congestion. Cardiomediastinal silhouette is enlarged. Atherosclerotic calcifications noted at the aortic arch.
+Impression: Right ij line with tip in the right atrium. No pneumothorax. Cardiomegaly and pulmonary vascular congestion.",0.5352266651674431
+119,patient64587_study1,"<think>
+
+</think>
+
+Findings: Portable upright chest radiograph demonstrates severe subcutaneous emphysema over the chest wall and soft tissues of the neck, limiting evaluation of the underlying lung parenchyma. The mediastinum appears widened and is likely related to the subcutaneous emphysema and patient positioning. A left-sided picc line is seen with the tip in the right atrium. There is no evidence of pneumothorax. No focal consolidation or large pleural effusion is seen. There are fractures of the left posterior third through seventh ribs.
+Impression: 1. Limited chest radiograph secondary to subcutaneous emphysema. 2. Fractures of the left posterior third through seventh ribs. 3. Left picc line tip in the right atrium. Recommend pulling back 3-4 cm.",0.5466975411685955
+120,patient64544_study1,"<think>
+
+</think>
+
+Findings: There is a right subclavian central venous catheter with the tip in the distal svc. There is no pneumothorax. The lungs are clear. The heart size is normal. The mediastinum is unremarkable. There are no acute fractures. There are no pleural effusions.
+Impression: No acute cardiopulmonary process.",0.4632635802809861
+121,patient64718_study1,"<think>
+
+</think>
+
+Findings: Semi-upright chest radiograph demonstrates multiple rib fractures, which appear to be acute. There is no evidence of pneumothorax. The mediastinum appears wide, but this is likely due to technique. There is mild pulmonary vascular congestion. The lungs are clear. No focal opacity is seen. There is no pleural effusion.
+Impression: 1.Multiple acute left rib fractures with no evidence of pneumothorax. 2.Mild pulmonary vascular congestion.",0.4606319365358781
+122,patient64723_study1,"<think>
+
+</think>
+
+Findings: There is cardiomegaly. A dual-lead pacemaker is present. The aorta is tortuous. There is no focal infiltrate. There is no pneumothorax. There is no pleural effusion. Pulmonary vascularity is normal. There are degenerative changes of the thoracic spine.
+Impression: Cardiomegaly. No focal infiltrate.",0.391125597257907
+123,patient64642_study1,"<think>
+
+</think>
+
+Findings: Single upright portable view of the chest demonstrates severe cardiomegaly. There is a large right-sided aortic arch. There is mild interstitial pulmonary edema. There is no evidence of pneumothorax.
+Impression: Severe cardiomegaly with large right-sided aortic arch and mild interstitial pulmonary edema. No evidence of pneumothorax.",0.5332163574526534
+124,patient64557_study1,"<think>
+
+</think>
+
+Findings: The patient is somewhat rotated. Et tube is 3 cm from the carina. Ng tube tip is in the fundus of the stomach. The heart is enlarged. There is mild pulmonary edema and a right lower lobe infiltrate. There is no pneumothorax.
+Impression: Right lower lobe infiltrate. Mild pulmonary edema.",0.45704164682460285
+125,patient64654_study1,"<think>
+
+</think>
+
+Findings: A right-sided chest tube is in place. There is a large right apical pneumothorax with collapse of the right upper lobe and right middle lobe. The mediastinum is midline. No left-sided pneumothorax is identified. The left lung is clear.
+Impression: Large right pneumothorax with collapse of the right upper and middle lobes.",0.523420630154325
+126,patient64696_study1,"<think>
+
+</think>
+
+Findings: Portable upright chest radiograph demonstrates low lung volumes. The lungs are clear. There is no effusion or pneumothorax. The cardiomediastinal silhouette is within normal limits. An ng tube is seen coursing below the level of the diaphragm.
+Impression: No acute cardiopulmonary abnormality.",0.5111406767674144
+127,patient64579_study1,"<think>
+
+</think>
+
+Findings: Single portable view of the chest demonstrates a right-sided internal jugular central venous catheter with tip in the proximal svc. Patient is status post spinal fixation. There is a right-sided picc line with tip in the mid svc. There is mild cardiomegaly. There is no evidence of focal consolidation. No pneumothorax is seen. No pleural effusion is seen.
+Impression: No evidence of pneumonia.",0.4109247027085292
+128,patient64686_study1,"<think>
+
+</think>
+
+Findings: Single frontal view of the chest is limited due to patient positioning. There is no focal consolidation. No pneumothorax. There may be a small left pleural effusion. The cardiac silhouette is enlarged.
+Impression: No focal consolidation. No pneumothorax. There may be a small left pleural effusion. The cardiac silhouette is enlarged.",0.5153009256839194
+129,patient64690_study1,"<think>
+
+</think>
+
+Findings: The patient is slightly rotated. There is moderate pulmonary vascular congestion and cardiomegaly. There is a left retrocardiac opacity. There is no pneumothorax. The aorta is tortuous.
+Impression: There is moderate pulmonary vascular congestion and cardiomegaly. There is a left retrocardiac opacity.",0.4643285799677475
+130,patient64625_study1,"<think>
+
+</think>
+
+Findings: The lungs are clear. There is no pneumothorax or pleural effusion. Heart size is normal. The aorta is tortuous. There is an old fracture of the left eighth rib posteriorly.
+Impression: No acute cardiopulmonary process.",0.6682380512053198
+131,patient64628_study1,"<think>
+
+</think>
+
+Findings: The patient is status post median sternotomy and cabg. There is moderate cardiomegaly. There is mild pulmonary vascular congestion. The aorta is tortuous. There is no pneumothorax or focal consolidation.
+Impression: Cardiomegaly and pulmonary vascular congestion.",0.3591996619336691
+132,patient64606_study1,"<think>
+
+</think>
+
+Findings: The lungs are clear without focal consolidation, pleural effusion, or pneumothorax. There is cardiomegaly and a left chest wall pacemaker device with a single lead terminating in the right ventricle. The aorta is tortuous and calcified. There is diffuse demineralization of the osseous structures.
+Impression: No acute cardiopulmonary process.",0.30797328532540863
+133,patient64722_study1,"<think>
+
+</think>
+
+Findings: A right-sided ij line is present with tip in the mid svc. There is a small left pleural effusion. There is moderate cardiomegaly. The patient is status post cabg with intact median sternotomy wires. There is no focal consolidation or pulmonary edema. There is no pneumothorax. There is mild atherosclerotic calcification of the aortic knob.
+Impression: Small left pleural effusion.",0.40360451634373484
+134,patient64622_study1,"<think>
+
+</think>
+
+Findings: Semiupright portable chest radiograph was provided. Tracheostomy tube is in place. Midline sternotomy wires and mediastinal clips are noted. A linear radiopaque density projecting over the right hemithorax likely represents an external structure. Cardiomediastinal silhouette is stable. Lungs are clear without focal consolidation, pleural effusion, or pneumothorax. The imaged osseous structures are intact.
+Impression: No acute cardiopulmonary process.",0.5395165507142682
+135,patient64721_study1,"<think>
+
+</think>
+
+Findings: There is a midline sternotomy with mediastinal clips. There are aortic calcifications. There is a 2.5 cm rounded opacity projecting over the right upper lobe which is of unclear etiology and clinical significance. The lungs are otherwise clear. There is no pleural effusion. The cardiomediastinal silhouette is within normal limits.
+Impression: 2.5 cm nodular opacity in the right upper lobe of unclear etiology and clinical significance. A dedicated pa and lateral chest radiograph may be helpful for further evaluation.",0.46580286559175
+136,patient64569_study1,"<think>
+
+</think>
+
+Findings: Portable upright chest radiograph demonstrates midline subcutaneous emphysema. A right chest tube is in place with tip at the right lung apex. No definite pneumothorax is seen. There is marked widening of the mediastinum. The lungs are without focal consolidation. Cardiac silhouette is not well evaluated. No acute bony abnormalities.
+Impression: 1. Postoperative changes status post esophagectomy with right chest tube in place. 2. Marked mediastinal widening may be related to postoperative changes. Recommend correlation with operative history and followup chest radiograph. 3. No focal consolidation.",0.47467758291828105
+137,patient64648_study1,"<think>
+
+</think>
+
+Findings: Semi-erect portable chest radiograph demonstrates multiple overlying lines and tubes which limits evaluation. A dual lead pacemaker is identified with tips terminating in the expected region of the right atrium and right ventricle. The tip of the endotracheal tube is at the level of the clavicles. The tip of the nasogastric tube is not visualized. A left ij central venous catheter is noted with the tip likely terminating in the distal left brachiocephalic vein. There is a curvilinear density which projects over the region of the heart and likely represents the swan-ganz catheter. There is a curvilinear density which projects over the left heart which may represent a catheter. There is mild pulmonary edema with mild cardiomegaly. No focal consolidation is seen.
+Impression: Limited study due to overlying lines and tubes. Mild pulmonary edema with mild cardiomegaly.",0.5562463932501601
+138,patient64593_study1,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. No pneumothorax. There is a right upper lobe mass. No focal infiltrate. The heart size is normal. Mediastinal widening is likely due to lymphadenopathy. No pleural effusion.
+Impression: 1. No pneumothorax. 2. Mediastinal widening likely due to lymphadenopathy. 3. Right upper lobe mass.",0.5076998062041291
+139,patient64712_study1,"<think>
+
+</think>
+
+Findings: Single portable upright view of the chest was obtained. The endotracheal tube is approximately 7.4 cm from the carina. The nasogastric tube is in the stomach. A right internal jugular central venous catheter is present with tip in the upper svc. The cardiac silhouette is mildly enlarged. There is no pulmonary edema. There is a small amount of pleural fluid seen in the left lung base. There is a 1.3 cm nodular opacity seen in the left mid lung. No focal consolidation is seen. No pneumothorax is present.
+Impression: 1. Support lines and tubes as described above. 2. No evidence of pneumothorax.",0.45894492283080013
+140,patient64733_study1,"<think>
+
+</think>
+
+Findings: Semiupright portable view of the chest demonstrates moderate cardiomegaly with pulmonary vascular congestion. No focal consolidation is identified. No pleural effusion. No pneumothorax. Osseous structures are unremarkable.
+Impression: Cardiomegaly with pulmonary vascular congestion.",0.30956651668636176
+141,patient64611_study1,"<think>
+
+</think>
+
+Findings: Single portable supine view of the chest. There is a right-sided central venous catheter with tip in the upper svc. There is no visualized pneumothorax based on this supine film. There is moderate to severe pulmonary edema. Cardiomegaly is noted. There is no large pleural effusion. There is no evidence of focal osseous abnormality.
+Impression: Moderate to severe pulmonary edema. Right-sided central venous catheter with tip in the upper svc. No pneumothorax.",0.4649191320941901
+142,patient64706_study1,"<think>
+
+</think>
+
+Findings: There is a pacemaker device projecting over the right axilla with leads in the right atrium and right ventricle. There are spinal fixation rods in place in the lower thoracic spine. There is a left-sided central venous catheter with the tip at the distal svc. The heart size is at the upper limits of normal. The pulmonary vascular is within normal limits. There is no focal infiltrate or effusion. There is no pneumothorax. Degenerative changes are seen in the spine.
+Impression: No acute pulmonary process identified.",0.4260780561203011
+143,patient64684_study1,"<think>
+
+</think>
+
+Findings: The cardiac silhouette is enlarged. The aorta is mildly tortuous. There is increased opacity in the left retrocardiac region and a left pleural effusion. There is no pneumothorax.
+Impression: 1. Enlarged cardiac silhouette. 2. Left retrocardiac opacity and left pleural effusion.",0.5702344480635532
+144,patient64679_study1,"<think>
+
+</think>
+
+Findings: Portable semi-upright radiograph of the chest demonstrates an extensive pneumomediastinum and subcutaneous emphysema of the left lateral chest wall and left neck. No pneumothorax is visualized. There is widening of the mediastinum. A left chest tube is in place. The lung volumes are low. The cardiac size cannot be assessed.
+Impression: 1. Extensive pneumomediastinum and subcutaneous emphysema. 2. Widening of the mediastinum. Findings were discussed with dr. ___ at 9:18 a.M. On ___ by telephone.",0.4362127418855821
+145,patient64558_study1,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. The lungs are clear. There is no pleural effusion. The cardiac and mediastinal silhouettes are unremarkable. The bones are intact.
+Impression: No acute cardiopulmonary process.",0.48451389694522445
+146,patient64685_study1,"<think>
+
+</think>
+
+Findings: The lungs are clear. The cardiac and mediastinal silhouettes are normal. The pulmonary vasculature is normal. There are no pleural effusions. No pneumothorax is seen.
+Impression: No acute cardiopulmonary process.",0.5638185447310634
+147,patient64729_study1,"<think>
+
+</think>
+
+Findings: There is a large thoracic spinal fixation device. The et tube and ng tube are seen. The ng tube appears to be coiled within the esophagus. There are diffuse bilateral alveolar opacities that are increased from the prior exam. There is a diffuse bilateral diffuse bilateral pulmonary edema. There is mild cardiomegaly. There is a small left effusion. There is an area of increased opacity in the right apex that may represent a loculated pleural effusion or a loculated pneumothorax. This area is better delineated on the ct scan obtained today. There are multiple old healed rib fractures seen on the left. There is an acute fracture of the left posterior seventh rib.
+Impression: 1. Bilateral pulmonary edema. 2. Small left effusion. 3. Area of loculated pneumothorax or loculated pleural effusion in the right apex, better delineated on ct obtained today. 4. Multiple old rib fractures on the left. Acute fracture of the left posterior seventh rib.",0.4626424875157935
+148,patient64562_study1,"<think>
+
+</think>
+
+Findings: The lungs are clear without focal infiltrate, effusion or pneumothorax. The cardiomediastinal silhouette is within normal limits. No acute fracture is identified.
+Impression: No acute cardiopulmonary process.",0.6930307989346832
+149,patient64552_study1,"<think>
+
+</think>
+
+Findings: A single portable upright view of the chest demonstrates bilateral pleural effusions, left greater than right. There is moderate pulmonary edema. There is no pneumothorax. The cardiac silhouette is enlarged. The mediastinal and hilar contours are unremarkable.
+Impression: 1. Bilateral pleural effusions, left greater than right. 2. Moderate pulmonary edema.",0.5553479502198083
+150,patient64541_study1,"<think>
+
+</think>
+
+Findings: The lung volumes are low. There is no pneumothorax. There is no focal consolidation or pleural effusion. There is mild cardiomegaly and mild pulmonary edema. There is a calcified aortic arch.
+Impression: Mild cardiomegaly and mild pulmonary edema.",0.4962794884196612
+151,patient64687_study1,"<think>
+
+</think>
+
+Findings: There are midline sternotomy wires, an endotracheal tube which is 3.5 cm above the carina, a nasogastric tube, and mediastinal drains. There is a right internal jugular cordis through which a vascular line is passed. The cardiac silhouette is enlarged. There is pulmonary vascular redistribution with ill-defined vascularity and perihilar haze. There is dense retrocardiac opacity.
+Impression: 1. Pulmonary edema. 2. Retrocardiac opacity could be due to volume loss or infiltrate.",0.5928315969581756
+152,patient64550_study1,"<think>
+
+</think>
+
+Findings: Portable upright chest radiograph demonstrates bilateral diffuse ground-glass opacities. No pleural effusion. No pneumothorax. The cardiomediastinal silhouette is unremarkable. Postsurgical changes are noted with a right-sided internal jugular central line with tip in the proximal right atrium, right mediastinal clips, and right mediastinal metallic stents. There is a right-sided port with tip in the right atrium. The visualized osseous structures are unremarkable.
+Impression: Bilateral diffuse ground-glass opacities which are nonspecific, but could represent pulmonary edema, atypical infection, or drug reaction.",0.4457437407832781
+153,patient64632_study1,"<think>
+
+</think>
+
+Findings: The patient is rotated to the right. The heart size is within normal limits. There is mild pulmonary vascular congestion. No focal areas of consolidation. There is a linear density in the right upper lung field which may represent a pleural line and could represent a small pneumothorax. The et tube is approximately 5 cm above the carina. The patient is status post thoracolumbar spine fusion.
+Impression: 1. Possible small right pneumothorax. 2. Mild pulmonary vascular congestion. 3. Et tube 5 cm above the carina.",0.3896486075055473
+154,patient64693_study1,"<think>
+
+</think>
+
+Findings: Portable chest radiograph demonstrates et tube tip just below the level of the clavicles. There is a right subclavian catheter, with the tip likely in the distal svc. The right internal jugular catheter is not well visualized on the current exam, though the tip may be projecting over the svc. The ng tube tip is not well visualized. There is no pneumothorax. There is no focal consolidation. There is a diffuse bilateral reticular pattern. There is a right-sided pleural effusion. The heart is enlarged. The mediastinal silhouette is otherwise unremarkable.
+Impression: 1.Et tube, right subclavian catheter, and ng tube as described above. 2.Cardiac enlargement. 3.Diffuse bilateral reticular pattern.",0.528427431353647
+155,patient64627_study1,"<think>
+
+</think>
+
+Findings: The cardiomediastinal silhouette is within normal limits. The lungs are clear bilaterally. There is no pneumothorax or pleural effusion. There is no acute bony abnormality.
+Impression: No acute cardiopulmonary process.",0.8668266332035091
+156,patient64661_study1,"<think>
+
+</think>
+
+Findings: Ap portable view of the chest on 10/2/2016 at 2356 hours demonstrates an endotracheal tube in the trachea. A swan-ganz catheter tip is in the proximal main pulmonary artery. There is a nasogastric tube and a feeding tube in place, the tip of the feeding tube is not seen but is coursing inferiorly below the level of the diaphragm. A left subclavian venous catheter tip is in the left brachiocephalic vein. There is a left-sided chest tube in place. The heart is enlarged. There are low lung volumes. There is pulmonary edema. There are bibasilar opacities. No large pleural effusions. Ap portable view of the chest on 10-2-16 at 0518 hours demonstrates no change in the position of the lines and tubes. There is no change in the cardiopulmonary status.
+Impression: 1.Lines and tubes as above. 2.Cardiomegaly with pulmonary edema and bibasilar opacities.",0.5589806621357137
+157,patient64645_study1,"<think>
+
+</think>
+
+Findings: Single portable view of the chest. The patient is status post esophagectomy. A right-sided chest tube is seen. An ng tube passes into the neoesophagus with the tip in the right lower hemithorax. The right hemithorax is clear. Left basilar opacity is seen, likely due to a combination of atelectasis and pleural effusion. Surgical clips project over the mediastinum. Cardiomediastinal silhouette is grossly unremarkable.
+Impression: Post-operative changes. Left basilar opacity is likely due to a combination of atelectasis and effusion.",0.5665897713365641
+158,patient64662_study1,"<think>
+
+</think>
+
+Findings: The trachea is midline. The cardiac silhouette is mildly enlarged. Pulmonary vasculature is prominent, however, there is no evidence of pulmonary edema. The lungs are clear. No pleural effusions. No pneumothorax. The visualized osseous structures are unremarkable.
+Impression: 1. Mild cardiomegaly. 2. No acute cardiopulmonary process. No evidence of pulmonary edema.",0.40689013509798144
+159,patient64738_study1,"<think>
+
+</think>
+
+Findings: Single portable upright radiograph demonstrates severe rotation. Cardiomediastinal silhouette is obscured. There is diffuse reticular pattern of opacification in the lungs. No pleural effusion. No acute bony abnormalities identified.
+Impression: 1. Diffuse reticular pattern of opacification in the lungs. Although this may be due to patient's age, in the correct clinical setting, this may also represent pulmonary edema. Recommend clinical correlation.",0.1629505863755832
+160,patient64699_study1,"<think>
+
+</think>
+
+Findings: Portable ap upright view of the chest is limited by overlying artifacts and severe dextroscoliosis. The patient is rotated to the right. Allowing for these limitations, the cardiomediastinal silhouette appears to be enlarged and there is no overt pulmonary edema. No definite pleural effusion. No pneumothorax.
+Impression: 1. Limited exam due to patient positioning and overlying artifacts. 2. No acute findings.",0.47509893331887704
+161,patient64651_study1,"<think>
+
+</think>
+
+Findings: A portable upright radiograph of the chest was obtained. There are low lung volumes. The lungs are clear without focal consolidation. No pleural effusion or pneumothorax is seen. The cardiac silhouette is enlarged. The mediastinum is unremarkable. The pulmonary vasculature is within normal limits. A rounded density projects over the left mid lung, possibly representing a granuloma. No acute osseous abnormalities are seen.
+Impression: 1.No acute cardiopulmonary process. 2.Cardiomegaly.",0.30977870641179556
+162,patient64599_study1,"<think>
+
+</think>
+
+Findings: The heart is normal in size. The mediastinum is unremarkable. The patient has severe emphysematous changes. There is a right apical opacity with adjacent pleural thickening, likely representing scarring. There is no effusion. There is no pneumothorax. The bony thorax is unremarkable.
+Impression: 1. No evidence of pneumonia. 2. Emphysematous changes. 3. Right apical scarring with adjacent pleural thickening.",0.42244542619655245
+163,patient64618_study1,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate no focal consolidation, pleural effusion, or pneumothorax. The heart size is top normal. The cardiac, hilar, mediastinal contours are within normal limits. A calcified granuloma is seen in the right upper lobe. The aorta is tortuous and calcified. The thoracic spine demonstrates osteopenia, degenerative changes, and scoliosis.
+Impression: No acute cardiopulmonary process.",0.31772587018834286
+164,patient64737_study1,"<think>
+
+</think>
+
+Findings: A portable ap semi-erect view of the chest was obtained. There are low lung volumes. There is no focal consolidation, pleural effusion, or evidence of pneumothorax. The cardiac silhouette is mildly enlarged, likely accentuated by low lung volumes and portable technique. The aortic knob is well defined. There is no pulmonary edema. There are no acute osseous abnormalities. The patient is kyphotic.
+Impression: Low lung volumes with mild cardiomegaly, but no evidence of pneumonia or pulmonary edema.",0.5499805789115061
+165,patient64607_study1,"<think>
+
+</think>
+
+Findings: Single portable semiupright chest radiograph demonstrates an epidural catheter and left chest tube in place. No definite pneumothorax is identified. The lung bases are not completely included on the exam. The heart size is enlarged. There is widening of the superior mediastinum. There is no evidence of pulmonary edema. No large pleural effusion. The left lateral chest wall and subcutaneous soft tissues are excluded on the image. There is marked subcutaneous soft tissue edema.
+Impression: 1.Enlarged cardiac silhouette with widening of the superior mediastinum, suggestive of mediastinal vascular engorgement. 2.Left chest tube in place with no definite pneumothorax. 3.Subcutaneous edema.",0.48509114902793493
+166,patient64629_study1,"<think>
+
+</think>
+
+Findings: A right-sided ij line has its tip in the distal svc. No pneumothorax is identified. The heart size is within normal limits. There is mild pulmonary vascular redistribution. No focal infiltrate is seen. There is no effusion.
+Impression: 1. Mild pulmonary vascular redistribution. 2. No focal infiltrate.",0.36212977009296154
+167,patient64577_study1,"<think>
+
+</think>
+
+Findings: The lungs are hyperinflated with flattening of the diaphragms and increased ap diameter of the chest. There is a moderate right pleural effusion. The cardiomediastinal silhouette is enlarged. There is no focal consolidation or pneumothorax. There are bilateral degenerative changes of the shoulders. No acute fractures are identified.
+Impression: 1. Moderate right pleural effusion. 2. Hyperinflated lungs, consistent with copd. 3. Enlarged cardiomediastinal silhouette.",0.5386876798236666
+168,patient64617_study1,"<think>
+
+</think>
+
+Findings: The patient is rotated to the left. Heart size is enlarged. The aorta is tortuous. The right paratracheal stripe is thickened and could be due to tortuous vessels. There is no chf. There is no consolidation, effusion or pneumothorax. The left hemidiaphragm is slightly elevated. Incidental note is made of osteophytes in the thoracic spine. No free air is seen beneath the diaphragm.
+Impression: 1. Cardiomegaly and tortuous aorta. 2. No acute pulmonary process identified.",0.5343753696437689
+169,patient64736_study1,"<think>
+
+</think>
+
+Findings: Ap portable view of the chest is provided. Evaluation of the lungs is limited due to marked kyphoscoliosis and marked dextroscoliosis of the thoracic spine. Within this limitation, there is no large effusion, pneumothorax or consolidation. No overt signs of edema. The heart and mediastinal contours are difficult to assess.
+Impression: No large effusion, pneumothorax or consolidation. No overt signs of edema. The heart and mediastinal contours are difficult to assess due to marked scoliosis.",0.4099451614446776
+170,patient64588_study1,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs were obtained. The lungs are well expanded and clear. No focal consolidation, effusion, or pneumothorax is present. The cardiac silhouette is mildly enlarged. The mediastinum is unremarkable.
+Impression: No acute cardiopulmonary process.",0.3631840618452797
+171,patient64578_study1,"<think>
+
+</think>
+
+Findings: A pacemaker is seen overlying the right upper hemithorax. Multiple pacer leads are seen. The cardiomediastinal silhouette is enlarged. No focal infiltrate, pleural effusion or pneumothorax is identified.
+Impression: Pacemaker overlying the right upper hemithorax. No pneumothorax identified.",0.6299954023253781
+172,patient64581_study1,"<think>
+
+</think>
+
+Findings: There is moderate hyperexpansion of the lungs, consistent with chronic obstructive pulmonary disease. There are scattered areas of increased interstitial markings, which could represent chronic scarring. There is no focal consolidation, pleural effusion, or pneumothorax. There is mild tortuosity of the aorta. The cardiomediastinal silhouette is otherwise normal. There are moderate degenerative changes of the thoracic spine.
+Impression: No acute cardiopulmonary process. Chronic obstructive pulmonary disease.",0.45423204291924113
+173,patient64583_study1,"<think>
+
+</think>
+
+Findings: Ap view of the chest demonstrates severe right upper lobe volume loss and mediastinal shift to the right. No pneumothorax. Diffuse, severe, bilateral emphysematous changes with severe bullous changes. Severe bullous changes are also noted in the right upper lobe. The cardiomediastinal silhouette is unremarkable. Diffuse osteopenia.
+Impression: 1. No pneumothorax. 2. Severe right upper lobe volume loss. 3. Severe, diffuse, emphysematous changes with severe bullous changes.",0.4780240629975729
+174,patient64731_study1,"<think>
+
+</think>
+
+Findings: Left-sided picc line is in place with tip in the proximal svc. There is no pneumothorax. The lungs are clear. Cardiac silhouette is upper limits of normal. No effusions.
+Impression: Left-sided picc line in place with tip in proximal svc. No pneumothorax. Lungs clear. Cardiac silhouette upper limits of normal. No effusions.",0.5335433214464269
+175,patient64707_study1,"<think>
+
+</think>
+
+Findings: The endotracheal tube terminates 5 cm above the carina. An enteric tube is seen coursing towards the stomach, the tip is not seen. The lungs are clear. There is no pneumothorax or pleural effusion. The cardiac and mediastinal contours are within normal limits. No acute fractures are identified.
+Impression: Clear lungs. No evidence of pneumonia.",0.6831387391881542
+176,patient64735_study1,"<think>
+
+</think>
+
+Findings: There is cardiomegaly with a calcified aorta. The mediastinum is within normal limits. There is increased opacity in the right lower lobe and right middle lobe. There is a small right effusion. There is mild prominence of the pulmonary interstitial markings. Degenerative changes of both shoulders are seen. The bony thorax is grossly intact.
+Impression: Right lower lobe and right middle lobe opacities that may represent atelectasis or infiltrate.",0.43627724311388494
+177,patient64659_study1,"<think>
+
+</think>
+
+Findings: Et tube is present 2 cm above the carina. A feeding tube is in the stomach. An aortic balloon pump is present with tip in the proximal descending aorta. There is a right ij line with tip in the svc. There is moderate cardiomegaly. There is pulmonary vascular redistribution. There is a right effusion.
+Impression: 1. Et tube 2 cm above the carina. 2. Aortic balloon pump with tip in the proximal descending aorta. 3. Moderate cardiomegaly. 4. Right pleural effusion. 5. Pulmonary vascular redistribution.",0.4184801183564859
+178,patient64626_study1,"<think>
+
+</think>
+
+Findings: A left-sided pacemaker generator overlies the left chest wall with leads terminating in the right atrium and right ventricle. The cardiomediastinal silhouette is enlarged. The lungs are clear, without evidence of pneumothorax. There are no pleural effusions.
+Impression: 1. No evidence of pneumothorax. 2. Cardiomegaly.",0.6069801378631043
+179,patient64704_study1,"<think>
+
+</think>
+
+Findings: There is an endotracheal tube with the tip at the thoracic inlet. There is a right-sided internal jugular catheter with the tip in the mid svc. There is a nasogastric tube and feeding tube with the tips below the ge junction. There are two overlying wires which obscure the right lower lung field. The heart is moderately enlarged. There are prominent hila bilaterally. There are patchy areas of alveolar opacity throughout both lungs, right greater than left. There is a small left-sided pleural effusion. There is no pneumothorax.
+Impression: 1. Cardiomegaly and mild pulmonary edema. 2. Patchy areas of alveolar opacity in both lungs which may represent infection.",0.515313058960511
+180,patient64725_study1,"<think>
+
+</think>
+
+Findings: The endotracheal tube is in satisfactory position. The left subclavian line is in the upper svc. A nasogastric tube is in the stomach. There is mild cardiomegaly. There is a small left effusion. There is no pneumothorax. There is a small right pleural effusion. There is an opacity in the right lung base which may represent atelectasis, however pneumonia cannot be excluded.
+Impression: None",0.622748669332512
+181,patient64650_study1,"<think>
+
+</think>
+
+Findings: Single upright ap view of the chest demonstrates cardiomegaly. The mediastinal silhouette is within normal limits. There is diffuse interstitial prominence of the lungs bilaterally which may reflect a combination of pulmonary edema and chronic lung disease. No definite pleural effusions. No evidence of pneumothorax. No focal opacities within the lungs. Severe degenerative changes of the right glenohumeral joint with possible joint space loss.
+Impression: 1.Diffuse interstitial prominence which may reflect pulmonary edema and/or chronic lung disease. No focal opacities. 2.Cardiomegaly. 3.Severe degenerative changes of the right glenohumeral joint.",0.5499095158974057
+182,patient64695_study1,"<think>
+
+</think>
+
+Findings: Ap portable view of the chest taken on a trauma board. There is a et tube with its tip 6 cm above the carina. The cardiac silhouette is enlarged and there is widening of the superior mediastinum. Lung volumes are low. There is mild pulmonary edema. No pneumothorax is seen. No fracture appreciated.
+Impression: 1. Widened superior mediastinum could represent vascular injury. Recommend dedicated pa and lateral view or ct angiogram to the chest. 2. Mild pulmonary edema.",0.6043613855247311
+183,patient64715_study1,"<think>
+
+</think>
+
+Findings: There are extensive bilateral alveolar infiltrates. These are worse in the bases. There is cardiomegaly. There is no pneumothorax. There are no definite pleural effusions. There is subcutaneous emphysema along the left chest wall. The right ij line tip is in the mid svc. The right subclavian line tip is at the cavoatrial junction. There are surgical clips in the upper abdomen. There is scoliosis.
+Impression: Extensive bilateral alveolar infiltrates worse in the bases. Cardiomegaly. No pneumothorax. No definite pleural effusions. Subcutaneous emphysema along left chest wall. Right ij line tip in mid svc. Right subclavian line tip at cavoatrial junction. Surgical clips in upper abdomen. Scoliosis.",0.36326575526311605
+184,patient64716_study1,"<think>
+
+</think>
+
+Findings: Ap view of the chest. Exam is limited secondary to the patient's body habitus and overlying pacer pads. A left-sided central venous catheter is seen with the tip projecting over the midline. There is no visualized pneumothorax. The lungs are grossly clear. The cardiomediastinal silhouette is within normal limits given positioning and technique. No acute osseous abnormalities.
+Impression: Limited exam. Left-sided central venous catheter tip projects over the midline and could be intra-arterial or intra-venous. Recommend repeat film with better positioning.",0.5503680756345727
+185,patient64677_study1,"<think>
+
+</think>
+
+Findings: Ap portable view of the chest taken on 8/9/2014 at 2038 hours demonstrates an overlying trauma board. There is a left subclavian sheath and a left subclavian venous catheter that ends in the upper svc. The cardiomediastinal silhouette is enlarged, and the mediastinal is widened. The lungs are clear with no evidence for pneumothorax. There is a right clavicle fracture and the ac joint appears separated. No bony abnormality of the ribs is appreciated.
+Impression: 1. Cardiomegaly with widened mediastinum. 2. Left subclavian venous catheter with sheath. 3. Right clavicle fracture.",0.4622731199490491
+186,patient64609_study1,"<think>
+
+</think>
+
+Findings: Chest x-ray 9/18/2001: et tube tip is 3 cm above the carina. Swan-ganz catheter tip is in the pulmonary outflow tract. Ng tube is in the stomach. There is diffuse bilateral pulmonary opacities. No effusions are identified. Chest x-ray 9-18-2001: et tube tip is 5 cm above the carina. Ng tube tip remains in the stomach. Swan-ganz catheter tip is in the pulmonary outflow tract. There is diffuse bilateral pulmonary opacities, unchanged. Chest x-ray 9/18/2001: et tube tip is 4 cm above the carina. Ng tube tip remains in the stomach. Swan-ganz catheter tip is in the pulmonary outflow tract. There is slight interval improvement in bilateral pulmonary opacities. Chest x-ray 9/18/01: et tube tip is 5 cm above the carina. Swan-ganz catheter tip is in the pulmonary outflow tract. Ng tube tip is not identified. Diffuse bilateral pulmonary opacities are again seen. No effusions are identified.
+Impression: 1. Interval placement of et tube, ng tube, and swan-ganz catheter. 2. Diffuse bilateral pulmonary opacities, most consistent with pulmonary edema.",0.41692382629878544
+187,patient64717_study1,"<think>
+
+</think>
+
+Findings: The patient is rotated. There is an endotracheal tube approximately 3.8 cm above the carina. An ng tube is seen with tip not well-visualized but likely within the stomach. A right ij line has tip in the distal svc. The heart is enlarged. There is pulmonary vascular redistribution and bilateral alveolar infiltrates, right greater than left. There is a moderate left pleural effusion. No pneumothorax is identified. Sternotomy wires and mediastinal clips are noted.
+Impression: 1. Bilateral pulmonary edema, right greater than left. 2. Cardiomegaly. 3. Lines and tubes as described above.",0.5529586359843738
+188,patient64671_study1,"<think>
+
+</think>
+
+Findings: The patient is rotated to the right. A left subclavian line is seen with tip overlying the mid svc. There is no pneumothorax. There is a right-sided picc line with tip overlying the upper right atrium. Heart size is mildly enlarged. The lung fields demonstrate increased pulmonary vascular markings consistent with mild to moderate pulmonary edema. No definite effusion or focal infiltrate is seen.
+Impression: 1.Mild to moderate pulmonary edema. 2.Left subclavian line with tip overlying the mid svc. 3.Right picc line with tip overlying the right atrium. 4.No pneumothorax.",0.5408178121505202
+189,patient64711_study1,"<think>
+
+</think>
+
+Findings: There is a left-sided pigtail catheter and a left-sided picc line. The picc line is coiled over the right atrium and may be within the azygos vein. There is a left-sided pleural effusion with volume loss in the left lower lobe. The cardiac silhouette is moderately enlarged. There is a left basilar consolidation. There are no acute bony abnormalities.
+Impression: 1. Picc line appears to be coiled in the right atrium or within the azygos vein. 2. Left-sided pleural effusion. 3. Left basilar consolidation.",0.4723779963305948
+190,patient64710_study1,"<think>
+
+</think>
+
+Findings: There is a left subclavian central venous catheter with its tip in the superior vena cava. The endotracheal tube is not well seen. It may be at the level of the thoracic inlet. There is a nasogastric tube with its tip not well seen. It may be in the stomach. There are bilateral patchy opacities which may represent aspiration. There is no evidence of pneumothorax or effusion.
+Impression: Bilateral patchy opacities which may represent aspiration. No pneumothorax or effusion.",0.35251594962566885
+191,patient64665_study1,"<think>
+
+</think>
+
+Findings: An endotracheal tube is in place with the tip 3.8 cm from the carina. An ng tube is in place with the tip below the diaphragm. There is a left subclavian line with the tip at the cavoatrial junction. There is a left-sided central line with the tip in the distal svc. There is mild pulmonary edema. There are bilateral pleural effusions. There is no pneumothorax. There are no acute bony abnormalities.
+Impression: Lines and tubes as described above. Mild pulmonary edema.",0.4259194599332929
+192,patient64598_study1,"<think>
+
+</think>
+
+Findings: The lungs are hyperinflated. Cardiomegaly is identified. The right hemidiaphragm is mildly elevated. There is prominence of the interstitial markings, which may be due to mild pulmonary edema. However, this finding is difficult to evaluate because of the patient's severe osteopenia. There is a mild prominence of the left perihilar region which may represent an area of atelectasis versus airspace disease. No pleural abnormalities identified. The patient is moderately rotated to the left. This makes evaluation of the cardiomediastinal silhouette difficult. Degenerative changes are identified involving the spine.
+Impression: 1. Cardiomegaly with prominent interstitial markings which may be due to pulmonary edema. 2. Mild prominence of the left perihilar region which may represent an area of atelectasis versus airspace disease. 3. Severe osteopenia.",0.4600577132115534
+193,patient64649_study1,"<think>
+
+</think>
+
+Findings: Portable upright chest radiograph demonstrates postoperative changes from right lung transplant with surgical clips noted in the mediastinum. There is a right chest tube in place with no pneumothorax. There is a small right pleural effusion. The right transplanted lung demonstrates mild patchy opacities, likely representing atelectasis. The left lung is hyperinflated. Cardiac silhouette is difficult to evaluate given patient rotation. The right hilum appears prominent and there is widening of the mediastinum. There is an old fracture of the left clavicle.
+Impression: 1. Postoperative changes of right lung transplant with mild atelectasis in the transplanted lung and a small right pleural effusion. 2. Right hilum appears prominent and there is widening of the mediastinum. Recommend attention on followup.",0.39730870314691447
+194,patient64619_study1,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest are provided. The patient is status post thoracentesis with interval decrease in the size of the left pleural effusion, now small in size. No pneumothorax is seen. A large retrocardiac opacity with an air-fluid level is compatible with a large hiatal hernia. Multiple calcified pleural plaques are present bilaterally. Heart is mildly enlarged. The aorta is tortuous. The imaged upper abdomen is unremarkable.
+Impression: Status post thoracentesis with decrease in size of left pleural effusion, now small. No pneumothorax. Large hiatal hernia.",0.4632582796292847
+195,patient64614_study1,"<think>
+
+</think>
+
+Findings: There is a right-sided picc with tip terminating at the cavoatrial junction. The lungs are clear without focal consolidation, effusion, or pneumothorax. There is moderate cardiomegaly. Atherosclerotic calcifications of the thoracic aorta are present. The aorta is tortuous and the contour of the ascending aorta is abnormal, which may be secondary to tortuosity or dilatation. Degenerative changes are present in the spine. There are no acute fractures identified.
+Impression: 1. Right-sided picc terminating at the cavoatrial junction. 2. Cardiomegaly without acute cardiopulmonary process. 3. Abnormal contour of the ascending aorta, which may be secondary to tortuosity or dilatation.",0.465880713347181
+196,patient64726_study1,"<think>
+
+</think>
+
+Findings: An et tube is present approximately 4.5 cm from the carina. An ng tube is present in the distal esophagus. There is a stent graft overlying the thoracic aorta. The patient is status post sternotomy. There is an aortic valve replacement. There is cardiomegaly. There are prominent interstitial markings throughout both lungs. There is some increased density in the right lower lobe. There is a left-sided chest tube present.
+Impression: 1.The et tube is in good position. The ng tube is in the distal esophagus. The left-sided chest tube is present. 2.Stent graft overlying the thoracic aorta. 3.Cardiomegaly and prominent interstitial markings which could be consistent with interstitial edema. 4.Increased density in the right lower lobe, possibly related to aspiration.",0.4259417252716118
+197,patient64596_study1,"<think>
+
+</think>
+
+Findings: This is a limited portable study. The mediastinum appears widened and the cardiac silhouette appears enlarged. This may be due to patient positioning. There is a right upper lobe opacity that may be related to patient positioning. The visualized lung fields are clear. There is no evidence of a pneumothorax. There is a left-sided picc line with the tip in the left brachiocephalic vein. This may be advanced several cm. There is a fracture of the left humeral head with associated degenerative changes.
+Impression: 1. There is a fracture of the left humeral head with associated degenerative changes. 2. The mediastinum appears widened and the cardiac silhouette appears enlarged. This may be due to patient positioning. 3. There is a right upper lobe opacity that may be related to patient positioning.",0.3855985831765117
+198,patient64720_study1,"<think>
+
+</think>
+
+Findings: Single portable semiupright view of the chest demonstrates a left-sided subclavian central venous catheter with tip projecting over the region of the mid svc. The tip of the endotracheal tube is approximately 1 cm above the carina. Nasogastric tube is seen with tip projecting over the gastric fundus. The lung volumes are low and there is bibasilar opacification. The costophrenic angles are not well evaluated. The cardiomediastinal silhouette is unremarkable. There is no pneumothorax. Atherosclerotic calcifications noted within the aortic arch. Degenerative changes are seen within the left glenohumeral joint. No definite fractures are identified.
+Impression: 1. Left-sided subclavian central venous catheter tip projects over the mid svc. 2. Low lung volumes with bibasilar opacification.",0.4834315497941499
+199,patient64633_study1,"<think>
+
+</think>
+
+Findings: Chest, portable, upright, 9/11/2010 at 2306 hours. A right subclavian central venous catheter terminates in the region of the distal superior vena cava. An endotracheal tube terminates in the trachea. An esophageal tube terminates in the left upper quadrant. An additional esophageal tube terminates in the region of the mid esophagus. Lung volumes are low. There is a diffuse interstitial prominence, possibly related to low lung volumes. However, there is some confluent opacity at the right lung base and retrocardiac region. The cardiac silhouette is enlarged. The mediastinum is prominent. The bony thorax is grossly intact. Chest, portable, upright, 9-11-2010 at 0612 hours. The right subclavian central venous catheter, endotracheal tube, esophageal tubes and enteric tube remain in place. The right lung base opacity is more conspicuous. There is now a suggestion of bilateral pleural effusions. The cardiac silhouette is enlarged.
+Impression: 1. Cardiomegaly. 2. Low lung volumes. 3. Interstitial prominence, likely interstitial edema. 4. Confluent opacities in the right lung base and left retrocardiac region. This may be related to pulmonary edema. However, aspiration or pneumonia cannot be excluded.",0.5520108520181486

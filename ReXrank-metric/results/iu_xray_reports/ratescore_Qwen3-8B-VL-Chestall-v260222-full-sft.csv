@@ -1,0 +1,3541 @@
+study_id,case_id,report,ratescore
+0,CXR1997_IM-0651,"<think>
+
+</think>
+
+Findings: The lungs are clear. The heart and mediastinum are normal. The skeletal structures are normal.
+Impression: No acute cardiopulmonary process.",0.6434768031982652
+1,CXR869_IM-2389,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear of focal consolidation, effusion, or pneumothorax. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities detected.
+Impression: No acute cardiopulmonary process.",0.4759344749120637
+2,CXR3445_IM-1668,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. The lungs are clear without focal consolidation, pleural effusion, or pneumothorax. The cardiac silhouette is normal in size. No mediastinal widening. No displaced rib fracture identified.
+Impression: No acute cardiopulmonary process.",0.6687882950828874
+3,CXR2785_IM-1220,"<think>
+
+</think>
+
+Findings: The cardiomediastinal silhouette is normal in size and configuration. The lungs are well aerated and clear. No focal consolidation, pneumothorax or pleural effusion is present. The osseous structures are normal.
+Impression: No acute cardiopulmonary abnormality.",0.72675275387256
+4,CXR3059_IM-1425,"<think>
+
+</think>
+
+Findings: The heart is not enlarged. The hilar and mediastinal contours are normal. No focal consolidations concerning for pneumonia are identified. No pleural effusion or pneumothorax is seen. The visualized bony structures are unremarkable in appearance.
+Impression: No acute intrathoracic process.",0.6501014819712938
+5,CXR1259_IM-0175,"<think>
+
+</think>
+
+Findings: The lungs are clear. The heart and mediastinal structures are unremarkable. The bony thorax is normal.
+Impression: No active disease.",0.8395944848727435
+6,CXR3991_IM-2044,"<think>
+
+</think>
+
+Findings: The lungs are clear without infiltrate or effusion. The cardiac and mediastinal silhouettes are normal. The bony thorax is normal.
+Impression: Normal chest.",0.500155010232877
+7,CXR1440_IM-0284,"<think>
+
+</think>
+
+Findings: The lungs are clear without infiltrate or effusion. There is no pneumothorax. The heart and mediastinal contours are normal.
+Impression: Normal chest.",0.4982443631972556
+8,CXR3446_IM-1669,"<think>
+
+</think>
+
+Findings: The lungs are clear. The heart and mediastinal structures are unremarkable. The bony thorax is normal.
+Impression: No active disease.",0.5643784092053927
+9,CXR2590_IM-1083,"<think>
+
+</think>
+
+Findings: The lungs are clear without infiltrate or effusion. The bony thorax is normal. Heart and mediastinum are normal.
+Impression: Normal chest.",0.6947051993766311
+10,CXR1603_IM-0391,"<think>
+
+</think>
+
+Findings: The lungs are clear. The heart and mediastinal structures are normal. The bony thorax is unremarkable.
+Impression: Normal chest x-ray.",0.6758187465434031
+11,CXR3427_IM-1657,"<think>
+
+</think>
+
+Findings: The heart and mediastinum are normal. The lung fields are clear. No evidence of active or chronic tuberculosis is present.
+Impression: No active or latent tuberculosis.",0.5385732729456526
+12,CXR1588_IM-0382,"<think>
+
+</think>
+
+Findings: The lungs are clear. The heart and mediastinal structures are unremarkable. The bony thorax is grossly intact.
+Impression: No active disease.",0.6098479540431679
+13,CXR3098_IM-1450,"<think>
+
+</think>
+
+Findings: Cardiomediastinal silhouette is normal. The lungs are clear. There is no pleural effusion or pneumothorax.
+Impression: No acute cardiopulmonary process.",0.6576499273062087
+14,CXR993_IM-2478,"<think>
+
+</think>
+
+Findings: The lungs are clear. The heart and mediastinum are normal. The bony thorax is normal. There are no pleural effusions.
+Impression: Normal chest.",0.7098957575794343
+15,CXR3957_IM-2022,"<think>
+
+</think>
+
+Findings: The lungs are clear. There is no pneumothorax or pleural effusion. The heart and mediastinum are within normal limits.
+Impression: No active disease.",0.6763904524844722
+16,CXR34_IM-1644,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. Cardiomediastinal silhouette is normal. No pleural effusion or pneumothorax.
+Impression: Normal chest radiograph.",0.7550975149266805
+17,CXR377_IM-1889,"<think>
+
+</think>
+
+Findings: The heart size is mildly enlarged. The lungs are clear without infiltrate or effusion. The bony thorax is normal.
+Impression: Mild cardiomegaly. No acute abnormality.",0.4474962058331124
+18,CXR3126_IM-1470,"<think>
+
+</think>
+
+Findings: The lungs are clear. Cardiomediastinal silhouette is unremarkable. There is no pneumothorax or pleural effusion.
+Impression: No acute cardiopulmonary process.",0.784124293787146
+19,CXR3335_IM-1598,"<think>
+
+</think>
+
+Findings: The heart and mediastinum are normal. The lung fields are clear. No pneumonia, pneumothorax, or pleural effusion is seen.
+Impression: Chest clear.",0.6226820020896703
+20,CXR2005_IM-0656,"<think>
+
+</think>
+
+Findings: The lungs are clear. There is no pleural effusion or pneumothorax. The heart and mediastinum are normal. The bony thorax is normal.
+Impression: Normal chest.",0.6873823746906773
+21,CXR1966_IM-0629,"<think>
+
+</think>
+
+Findings: Frontal and lateral radiographs of the chest demonstrate normal heart size, mediastinal and hilar contours. No focal consolidation, pleural effusion or pneumothorax.
+Impression: Normal chest radiograph.",0.5092911109757394
+22,CXR3041_IM-1415,"<think>
+
+</think>
+
+Findings: Frontal and lateral radiographs of the chest demonstrate top normal heart size. Normal mediastinal and hilar contours. Clear lungs. No pneumothorax or pleural effusion.
+Impression: No pneumonia.",0.6873747784049509
+23,CXR3542_IM-1734,"<think>
+
+</think>
+
+Findings: The lungs are clear. The cardiac and mediastinal contours are normal. There are no pleural effusions. No pneumothorax is seen.
+Impression: No acute cardiac or pulmonary process.",0.75560554161193
+24,CXR1771_IM-0505,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. Heart size and cardiomediastinal contours are normal. The lungs are clear without focal consolidation, pleural effusion, or pneumothorax.
+Impression: No acute cardiopulmonary process.",0.46127266915273246
+25,CXR3495_IM-1700,"<think>
+
+</think>
+
+Findings: There is no focal consolidation, pleural effusion, or pneumothorax. Heart size is normal. Mediastinal silhouette and hilar contours are normal.
+Impression: No pneumonia, effusion, or edema.",0.7087226136447575
+26,CXR1176_IM-0119,"<think>
+
+</think>
+
+Findings: Heart size is normal. Cardiomediastinal silhouette and hilar contours are normal. Lungs are clear. No pleural effusion or pneumothorax. Osseous structures are normal.
+Impression: Normal chest radiograph.",0.5055547173783829
+27,CXR658_IM-2234,"<think>
+
+</think>
+
+Findings: There is minimal left basilar atelectasis. There is no pneumothorax, effusion, consolidation, or chf. The cardiac and mediastinal contours are normal.
+Impression: No acute cardiopulmonary process.",0.5004097504443641
+28,CXR2354_IM-0918,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. Heart size and cardiomediastinal contours are normal. The lungs are clear without focal consolidation, pleural effusion, or pneumothorax.
+Impression: Normal chest radiographs.",0.6911898942451347
+29,CXR3552_IM-1741,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. The cardiomediastinal silhouette is within normal limits. Osseous and soft tissue structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.5609392456168055
+30,CXR2940_IM-1341,"<think>
+
+</think>
+
+Findings: The lungs are clear without infiltrate or effusion. The cardiac and mediastinal silhouettes are normal. There is no pneumothorax.
+Impression: No acute cardiopulmonary process.",0.7057780136567765
+31,CXR2389_IM-0944,"<think>
+
+</think>
+
+Findings: The lungs are clear. The heart size is normal. The mediastinal contours are normal. There are no pleural effusions. No pneumothorax is seen.
+Impression: No acute cardiac or pulmonary findings.",0.8143915213915348
+32,CXR931_IM-2429,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There is no focal consolidation, pleural effusion or pneumothorax. The cardiomediastinal and hilar contours are normal.
+Impression: No acute cardiopulmonary process.",0.5238055691344186
+33,CXR1632_IM-0413,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate normal cardiomediastinal silhouette. The lungs are clear. There is no pneumothorax, vascular congestion, or pleural effusion.
+Impression: No acute cardiopulmonary process.",0.7874685667126458
+34,CXR2937_IM-1339,"<think>
+
+</think>
+
+Findings: The lungs are clear. No focal consolidation, pleural effusion, or pneumothorax is seen. The cardiac and mediastinal silhouettes are unremarkable.
+Impression: No acute cardiopulmonary process.",0.8449834197137314
+35,CXR3020_IM-1395,"<think>
+
+</think>
+
+Findings: Frontal and lateral radiographs of the chest demonstrate normal heart size, mediastinal and hilar contours. The lungs are clear. No pleural effusion or pneumothorax. No displaced rib fracture identified.
+Impression: Normal chest radiograph.",0.6975905422628698
+36,CXR461_IM-2090,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. Cardiac silhouette is normal in size. Hilar and mediastinal contours are normal. No pleural effusion. No evidence of pneumothorax.
+Impression: Normal chest radiograph.",0.8258801986365469
+37,CXR3883_IM-1971,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate normal cardiomediastinal silhouette. The lungs are clear. There is no pneumothorax, vascular congestion, or pleural effusion.
+Impression: No acute cardiopulmonary process.",0.6974386479397104
+38,CXR870_IM-2391,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were provided. The lungs are hyperinflated. The lungs are clear. Cardiomediastinal silhouette is normal. Bony structures are intact.
+Impression: No acute intrathoracic abnormality.",0.4705252999110128
+39,CXR3460_IM-1681,"<think>
+
+</think>
+
+Findings: The lungs are well expanded and clear. The cardiomediastinal silhouette, hilar contours and pleural surfaces are normal. No pleural effusion or pneumothorax is present.
+Impression: No acute intrathoracic process.",0.6184114011309606
+40,CXR588_IM-2183,"<think>
+
+</think>
+
+Findings: The lungs are clear. Heart size is normal. The mediastinal and hilar contours are normal. There is no pleural effusion or pneumothorax. Pulmonary vascularity is normal.
+Impression: No acute cardiopulmonary process.",0.7758967806889534
+41,CXR1270_IM-0181,"<think>
+
+</think>
+
+Findings: The lungs are well expanded and clear. Cardiomediastinal silhouette is unremarkable. There is no pneumothorax or pleural effusion. Visualized osseous structures are unremarkable.
+Impression: Normal chest radiograph.",0.6808656348888122
+42,CXR621_IM-2203,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs were obtained. The lungs are well inflated and clear. No focal consolidation, effusion, or pneumothorax is present. Cardiac and mediastinal contours are normal.
+Impression: No acute cardiopulmonary process.",0.6480285898797128
+43,CXR3222_IM-1522,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. The lungs are clear without focal opacity, pleural effusion or pneumothorax. Heart size is top normal. The mediastinal silhouette and hilar contours are normal. No pulmonary edema.
+Impression: No pneumonia, edema, or pleural effusion.",0.6678412891297895
+44,CXR751_IM-2305,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. There is no consolidation or pneumothorax. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities detected.
+Impression: No acute cardiopulmonary process.",0.5690933772940515
+45,CXR2357_IM-0921,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. The lungs are clear of consolidation, effusion, or pulmonary vascular congestion. The cardiomediastinal silhouette is normal. No acute osseous abnormalities detected.
+Impression: No acute cardiopulmonary process.",0.6883257286898182
+46,CXR487_IM-2110,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear of consolidation, effusion or pulmonary vascular congestion. Cardiomediastinal silhouette is within normal limits. Osseous and soft tissue structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.7501457512206996
+47,CXR2686_IM-1158,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. There is no effusion or pneumothorax. The cardiac silhouette is mildly enlarged. The osseous structures are unremarkable.
+Impression: Mild cardiomegaly without acute cardiopulmonary process.",0.6511179097556493
+48,CXR2099_IM-0729,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs were obtained. The lungs are well expanded and clear. There is no focal consolidation, effusion, or pneumothorax. Cardiac and mediastinal contours are normal.
+Impression: No acute cardiopulmonary process.",0.8251413751922464
+49,CXR2916_IM-1318,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest demonstrate the lungs are well expanded and clear. The cardiomediastinal silhouette is unremarkable. There is no evidence of pleural effusion, pulmonary edema, pneumothorax or focal airspace opacity.
+Impression: No acute cardiopulmonary process.",0.6424946696428423
+50,CXR1831_IM-0538,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. There is no effusion or pneumothorax. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities detected.
+Impression: No acute cardiopulmonary process.",0.5534954118685756
+51,CXR2953_IM-1351,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs were obtained. The lungs are well expanded and clear. There is no focal consolidation, effusion, or pneumothorax. Cardiac and mediastinal contours are normal.
+Impression: No acute cardiopulmonary process.",0.715383755059108
+52,CXR1434_IM-0279,"<think>
+
+</think>
+
+Findings: The cardiomediastinal silhouette is unremarkable. Low lung volumes without evidence of focal consolidation, pneumothorax, or pleural effusion. There is no evidence of acute osseous abnormality.
+Impression: No acute cardiopulmonary disease.",0.3616183210145279
+53,CXR1467_IM-0302,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. Lung volumes are slightly low. The lungs are clear without focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.8163856983860142
+54,CXR3734_IM-1866,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest demonstrate the lungs are well expanded and clear. The cardiomediastinal silhouette is unremarkable. There is no pleural effusion, pulmonary edema, pneumothorax, or focal airspace consolidation.
+Impression: No acute cardiopulmonary process.",0.8024094198242911
+55,CXR2780_IM-1218,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. Heart is normal size and cardiomediastinal contour is unremarkable. Lungs are clear. There is no pleural effusion and no pneumothorax.
+Impression: No acute intrathoracic abnormality.",0.5376937774748229
+56,CXR43_IM-2070,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate low lung volumes. There is no focal consolidation, pleural effusion or pneumothorax. Cardiomediastinal and hilar contours are normal. Cervical spine hardware is partially imaged.
+Impression: No acute cardiopulmonary process.",0.3972715704731841
+57,CXR2232_IM-0832,"<think>
+
+</think>
+
+Findings: Frontal and lateral chest radiograph demonstrates well expanded and clear lungs. No focal consolidation, pleural effusion or pneumothorax. The heart size is top normal. The cardiomediastinal and hilar contours are unremarkable.
+Impression: No acute cardiopulmonary process.",0.8318209629952666
+58,CXR3817_IM-1925,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear of consolidation or effusion. The cardiomediastinal silhouette is normal. No acute osseous abnormality is identified. Surgical clips in the right axilla are noted.
+Impression: No acute cardiopulmonary process.",0.549316929864161
+59,CXR632_IM-2213,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest were obtained. The heart size and cardiomediastinal contours are normal. The lungs are clear. No focal consolidation, pleural effusion, or pneumothorax.
+Impression: No acute cardiopulmonary process.",0.7270983372873178
+60,CXR1425_IM-0272,"<think>
+
+</think>
+
+Findings: Frontal and lateral radiograph through the chest demonstrates well expanded clear lungs. The cardiomediastinal and hilar contours are unremarkable. There is no pleural effusion or pneumothorax. No acute displaced rib fracture is identified.
+Impression: No acute intrathoracic abnormality.",0.7485707669511551
+61,CXR3765_IM-1884,"<think>
+
+</think>
+
+Findings: There is no evidence of tuberculosis. The lungs are clear. The cardiomediastinal silhouette is unremarkable. There are no pleural effusions or pneumothoraces. The bony thorax is normal.
+Impression: Normal chest radiograph. No evidence of tuberculosis.",0.8182350597354694
+62,CXR3867_IM-1960,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The cardiomediastinal, pleural and pulmonary structures are unremarkable. There is no pleural effusion or pneumothorax. The soft tissues and bony structures are normal.
+Impression: No acute cardiopulmonary process.",0.7423482209919997
+63,CXR2851_IM-1260-0001,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate low lung volumes which exaggerates pulmonary markings. Allowing for this, the lungs are clear. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.7101896118464801
+64,CXR735_IM-2294,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. The lungs are clear. There is no effusion, consolidation, or pneumothorax. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormality is identified.
+Impression: No acute cardiopulmonary process.",0.8425074618794013
+65,CXR2204_IM-0813,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The cardiomediastinal and hilar contours are normal. There is no pleural effusion or pneumothorax. Lungs are well expanded and clear. Pulmonary vasculature is within normal limits.
+Impression: No acute cardiopulmonary process.",0.4845059205519223
+66,CXR269_IM-1161,"<think>
+
+</think>
+
+Findings: The lungs are clear. There is no focal infiltrate, effusion, or pneumothorax. The cardiac and mediastinal silhouettes are normal. There are no bony abnormalities. There is no free air under the diaphragm.
+Impression: No acute cardiopulmonary process.",0.6796517573190651
+67,CXR2480_IM-1009,"<think>
+
+</think>
+
+Findings: The heart size is normal. The mediastinal and hilar contours are unremarkable. The pulmonary vascularity is normal. The lungs are clear. No pleural effusion or pneumothorax is visualized. There are no acute osseous abnormalities.
+Impression: No acute cardiopulmonary process.",0.6805731179371387
+68,CXR2098_IM-0728,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. The heart is normal size and cardiomediastinal silhouette is unremarkable. The lungs are well expanded and clear. There is no pleural effusion or pneumothorax. The osseous structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.8241580973065721
+69,CXR1633_IM-0414,"<think>
+
+</think>
+
+Findings: The lungs are clear with no evidence of focal consolidation, pleural effusion, or pneumothorax. The heart size is normal. The mediastinal contours are normal. The visualized osseous structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.7809900813882075
+70,CXR738_IM-2296,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. Heart is normal in size and cardiomediastinal silhouette is stable. Lungs are symmetrically expanded and clear. There is no pleural effusion or pneumothorax. Osseous structures are unremarkable.
+Impression: No acute intrathoracic process.",0.5071165011452142
+71,CXR1008_IM-0009,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear of focal consolidation, effusion or pulmonary vascular congestion. The cardiomediastinal silhouette is within normal limits. Atherosclerotic calcifications noted at the arch. No acute osseous abnormality detected.
+Impression: No acute cardiopulmonary process.",0.47288741534208467
+72,CXR1509_IM-0331,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest were obtained. The lungs are well expanded and clear without focal consolidation, pleural effusion or pneumothorax. Heart size is normal. Mediastinal silhouette and hilar contours are normal. No acute osseous abnormality is identified.
+Impression: Normal chest radiographs.",0.7132946706089167
+73,CXR1347_IM-0225,"<think>
+
+</think>
+
+Findings: The lungs are clear. There is no focal consolidation or pneumothorax. There is no vascular congestion or pleural effusions. Cardiomediastinal silhouette is within normal limits. Metallic clip projects over the right lung apex. There are no acute skeletal abnormalities.
+Impression: No acute cardiopulmonary process.",0.7363609805219506
+74,CXR1005_IM-0006,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. There is no consolidation, pneumothorax, or pleural effusion. The cardiac, mediastinal, and hilar contours are normal. There is a small calcified granuloma at the right apex.
+Impression: No acute cardiopulmonary process.",0.5294297072054299
+75,CXR2915_IM-1317,"<think>
+
+</think>
+
+Findings: Pa and lateral chest x-xxxx demonstrate clear lungs bilaterally. Cardiomediastinal and hilar contours are within normal limits. There is no pneumothorax or pleural effusion. No evidence of pulmonary edema. There is no air under the right hemidiaphragm.
+Impression: No acute cardiopulmonary process.",0.7561361167153292
+76,CXR38_IM-1911,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. The heart is normal in size. The cardiomediastinal silhouette is unremarkable. The lungs are clear without focal consolidation, pleural effusion, or pneumothorax. Osseous structures are unremarkable.
+Impression: No acute intrathoracic abnormality.",0.7882995106067059
+77,CXR1854_IM-0555,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. The heart is normal size and cardiomediastinal silhouette is stable. There is no focal consolidation, pleural effusion or pneumothorax. Pulmonary vasculature is within normal limits. Osseous structures are unremarkable.
+Impression: No acute intrathoracic abnormality.",0.770369767362236
+78,CXR879_IM-2393,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs. There is a small area of patchy opacity in the right lower lobe. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: Small area of patchy opacity in the right lower lobe may represent atelectasis or infection.",0.4443940675534235
+79,CXR3720_IM-1859,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate no focal consolidation, pleural effusion, or pneumothorax. The heart size is normal. The cardiac, hilar, and mediastinal contours are normal.
+Impression: No acute cardiopulmonary process.",0.6892476654698694
+80,CXR325_IM-1539,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. The heart is normal in size. The mediastinal and hilar contours are unremarkable. The pulmonary vascularity is normal. The lungs are clear. No pleural effusion or pneumothorax is identified. There are no acute osseous abnormalities.
+Impression: No acute intrathoracic abnormality.",0.7464729897407081
+81,CXR3105_IM-1456,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs were obtained. The lungs are well inflated and clear. No nodule, consolidation, effusion, or pneumothorax is present. The cardiac and mediastinal contours are normal.
+Impression: No acute cardiopulmonary process.",0.7218467183886982
+82,CXR1931_IM-0602,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There is no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal and hilar contours are normal.
+Impression: No acute cardiopulmonary process.",0.5879695334365429
+83,CXR242_IM-0963,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest demonstrate the lungs are well expanded and clear. The cardiomediastinal silhouette is unremarkable. There is no evidence of focal consolidation, pleural effusion, pulmonary edema or pneumothorax.
+Impression: No acute cardiopulmonary process.",0.7513583464980788
+84,CXR2277_IM-0864,"<think>
+
+</think>
+
+Findings: The lungs are well inflated. The cardiomediastinal silhouette, hilar contours, and pleural surfaces are normal. There is no pleural effusion or pneumothorax. Visualized upper abdomen is unremarkable. Osseous structures are grossly intact.
+Impression: No acute cardiopulmonary process.",0.6093608978022483
+85,CXR795_IM-2331,"<think>
+
+</think>
+
+Findings: The lungs are well inflated and clear. The cardiomediastinal silhouette, hila, and pleura are unremarkable. There is no evidence of acute or prior tb. There is no pleural effusion or pneumothorax.
+Impression: Normal chest x-ray.",0.6531266360033636
+86,CXR3220_IM-1522,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate normal lung volumes without pleural effusion, focal consolidation or pneumothorax. Hilar and mediastinal silhouettes are unremarkable. Heart size is normal. There is no pulmonary edema. Partially imaged upper abdomen is unremarkable.
+Impression: No evidence of acute cardiopulmonary process.",0.7844635245875523
+87,CXR3030_IM-1405,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate normal lung volumes. There is no pleural effusion, focal consolidation or pneumothorax. Hilar and mediastinal silhouettes are unremarkable. Heart size is normal. There is no pulmonary edema.
+Impression: No evidence of acute cardiopulmonary process.",0.7623775438799223
+88,CXR2734_IM-1189,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest were obtained. The heart is of normal size with normal cardiomediastinal contours. The pulmonary vasculature is unremarkable. Lungs are clear without focal or diffuse abnormality. No pleural effusion or pneumothorax. Osseous structures are unremarkable. No radiopaque foreign bodies.
+Impression: No acute cardiopulmonary process.",0.7898288661245771
+89,CXR3265_IM-1551,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate normal cardiomediastinal silhouette. The lungs are clear. There is no pneumothorax, vascular congestion, or pleural effusion. Cholecystectomy clips are seen in the right upper quadrant. Osseous structures are intact.
+Impression: No acute cardiopulmonary process.",0.6780105236454587
+90,CXR1323_IM-0209,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear of focal consolidation, effusion, or pulmonary vascular congestion. The cardiomediastinal silhouette is within normal limits. Osseous structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.5870779707000395
+91,CXR2136_IM-0758,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs were obtained. The lungs are well expanded and clear. There is no focal consolidation, effusion, or pneumothorax. Cardiac and mediastinal contours are normal.
+Impression: Normal chest radiograph.",0.7834826150825475
+92,CXR1309_IM-0201-1001,"<think>
+
+</think>
+
+Findings: The lungs are clear. Cardiac silhouette is normal in size. No pleural effusion or pneumothorax. No evidence of free air.
+Impression: Normal chest radiograph.",0.8141134532723352
+93,CXR1209_IM-0142,"<think>
+
+</think>
+
+Findings: The cardiomediastinal and hilar contours are normal. The lungs are hyperinflated with flattened hemidiaphragms, suggesting chronic obstructive pulmonary disease. No consolidation, pulmonary edema, pleural effusion or pneumothorax is present.
+Impression: No acute cardiopulmonary pathology.",0.6749198401867899
+94,CXR2423_IM-0965,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. The heart is normal in size. The cardiomediastinal silhouette and hilar contours are normal. The lungs are clear. There is no pleural effusion or pneumothorax. The visualized osseous structures are unremarkable.
+Impression: No acute intrathoracic abnormality.",0.6718787204274044
+95,CXR3194_IM-1505,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. The lungs are clear of consolidation, effusion, or pneumothorax. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormality detected.
+Impression: No acute cardiopulmonary process.",0.49293032690575966
+96,CXR2796_IM-1228,"<think>
+
+</think>
+
+Findings: Heart size and mediastinum are stable. Lungs are clear. There is no pleural effusion or pneumothorax. There is mild compression fracture of the t12 vertebral body, unchanged since prior examinations.
+Impression: Heart size and mediastinum are stable. Lungs are clear. There is no pleural effusion or pneumothorax. There is mild compression fracture of the t12 vertebral body, unchanged since prior examinations.",0.5113480769699672
+97,CXR3646_IM-1808-0001,"<think>
+
+</think>
+
+Findings: There is a small area of subsegmental atelectasis in the left lower lung. The lungs are otherwise clear. No pulmonary edema. No pneumothorax. No pleural effusions. Cardiomediastinal contours are stable.
+Impression: 1. No evidence of pulmonary edema or pneumonia. 2. Subsegmental atelectasis in the left lower lung.",0.6975765804051285
+98,CXR2786_IM-1221,"<think>
+
+</think>
+
+Findings: The lungs are well expanded and clear. Cardiomediastinal silhouette is unremarkable. There is no pneumothorax or pleural effusion. Visualized osseous structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.7751450307219474
+99,CXR717_IM-2279,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate left subclavian central line with the tip at the confluence of the brachiocephalic veins. The tip of the central line is pointing towards the right wall of the svc. There is no pneumothorax. The cardiomediastinal silhouette is normal. The lungs are clear. There is no pleural effusion.
+Impression: Normal chest radiograph. Left subclavian central line with tip at the confluence of brachiocephalic veins, pointing towards the right wall of the svc. No pneumothorax, normal cardiomediastinal silhouette, clear lungs, no pleural effusion.",0.4545351255323495
+100,CXR1726_IM-0479,"<think>
+
+</think>
+
+Findings: The heart size is upper limits of normal. Mediastinal and hilar contours are normal. There is mild prominence of the pulmonary interstitium, likely due to low lung volumes and mild vascular crowding. No focal consolidation, pleural effusion, or pneumothorax is identified. No acute displaced fractures are seen.
+Impression: Mild prominence of the pulmonary interstitium, likely due to low lung volumes and mild vascular crowding. No focal consolidation, pleural effusion, or pneumothorax identified.",0.4089232631101173
+101,CXR485_IM-2109,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs. There is no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is normal. The cardiac size is top normal.
+Impression: No acute cardiopulmonary process.",0.47011589182568725
+102,CXR2592_IM-1084,"<think>
+
+</think>
+
+Findings: Pa and lateral views of chest. There is no focal consolidation, pleural effusion or pneumothorax. The cardiomediastinal and hilar contours are normal.
+Impression: No acute cardiopulmonary process.",0.7056899317735564
+103,CXR3763_IM-1883,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest are provided. The heart and mediastinal contours are normal. The lungs are clear. There is no pleural effusion or pneumothorax. The imaged osseous structures are intact.
+Impression: No acute intrathoracic process.",0.5449644175206202
+104,CXR3549_IM-1739-1001,"<think>
+
+</think>
+
+Findings: The lungs are clear without effusion or pneumothorax. Cardiomediastinal silhouette is normal. No free air below the right hemidiaphragm is seen.
+Impression: No acute cardiopulmonary process.",0.6754467386228551
+105,CXR497_IM-2114,"<think>
+
+</think>
+
+Findings: There is a small amount of soft tissue density overlying the right paratracheal region. There is no focal infiltrate. There is no effusion or pneumothorax. The heart is not enlarged. There is no mediastinal shift. The left clavicle is not visualized on this study.
+Impression: No acute cardiopulmonary process. Soft tissue density overlying the right paratracheal region may be related to the patient's history of hodgkin's disease. Recommend comparison with any prior outside radiographs and/or ct scan of the chest for further assessment.",0.5662810422271466
+106,CXR2623_IM-1111,"<think>
+
+</think>
+
+Findings: The lungs are clear with no evidence of consolidation, effusion, or pneumothorax. Cardiomediastinal silhouette is normal. No acute fractures are identified.
+Impression: No acute cardiopulmonary process.",0.7210886627597904
+107,CXR1454_IM-0293,"<think>
+
+</think>
+
+Findings: The lungs are clear without infiltrate or effusion. The bony thorax is normal. The cardiac and mediastinal silhouettes are normal. There is no evidence of old granulomatous disease.
+Impression: Normal chest.",0.5592331272410535
+108,CXR1190_IM-0128,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. Heart size and cardiomediastinal contours are normal. Lung volumes are low. No focal consolidation, pleural effusion, or pneumothorax.
+Impression: Low lung volumes. No focal consolidation.",0.4091631863441262
+109,CXR771_IM-2316,"<think>
+
+</think>
+
+Findings: The lungs are clear. The heart and mediastinal structures are normal. The bony thorax is grossly intact.
+Impression: No active chest disease.",0.4074512612732258
+110,CXR1487_IM-0314,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.3957805896021059
+111,CXR1646_IM-0423,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. Heart is normal size and cardiomediastinal silhouette is unremarkable. Lungs are well expanded and clear. There is no focal consolidation, pleural effusion or pneumothorax.
+Impression: No acute intrathoracic abnormality.",0.8247755100004621
+112,CXR1535_IM-0346,"<think>
+
+</think>
+
+Findings: The cardiomediastinal silhouette and hilar contours are unremarkable. The lungs are clear. There is no pleural effusion or pneumothorax.
+Impression: No acute intrathoracic process.",0.6389203832147937
+113,CXR1410_IM-0260,"<think>
+
+</think>
+
+Findings: The lungs are clear without confluent consolidation. There is no pulmonary edema or pleural effusions. Cardiomediastinal and hilar contours are within normal limits. There is no pneumothorax. A well-defined 5-mm nodular density in the left lung apex is consistent with a granuloma.
+Impression: No acute cardiopulmonary process.",0.6720848006147636
+114,CXR141_IM-0260,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs were obtained. The lungs are well inflated and clear. No nodule, consolidation, effusion, or pneumothorax is present. The cardiac and mediastinal contours are normal.
+Impression: No acute cardiopulmonary process.",0.7395531199459537
+115,CXR3603_IM-1779,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs were obtained. The lungs are well expanded and clear. There is no focal consolidation, effusion, or pneumothorax. Cardiac and mediastinal contours are normal.
+Impression: Normal chest radiograph.",0.6990625126276548
+116,CXR3745_IM-1872,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate low lung volumes. No focal consolidation, pleural effusion, or pneumothorax is identified. The cardiac and mediastinal silhouettes are unremarkable. There is no pulmonary edema. No displaced fracture is seen.
+Impression: No acute cardiopulmonary process.",0.6717804739032354
+117,CXR2020_IM-0668,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. The heart size and cardiomediastinal contours are normal. The lungs are clear without focal consolidation, pleural effusion, or pneumothorax.
+Impression: Normal chest radiographs.",0.7683661244938073
+118,CXR3063_IM-1428,"<think>
+
+</think>
+
+Findings: Pa and lateral radiographs of the chest demonstrate clear lungs and normal hilar and cardiomediastinal contours. There is no pneumothorax or pleural effusion. Pulmonary vascularity is normal.
+Impression: Normal radiographs of the chest.",0.8075114459069374
+119,CXR3890_IM-1973,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest demonstrate the lungs are well expanded and clear. The cardiomediastinal silhouette is unremarkable. The hilar and pleural surfaces are normal.
+Impression: No acute cardiopulmonary process.",0.7195998892224096
+120,CXR3532_IM-1726,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate clear lungs. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.4733811954677859
+121,CXR1205_IM-0138,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs were provided. There is no focal consolidation, pleural effusion or pneumothorax. Cardiomediastinal silhouette is normal. Bones are intact.
+Impression: No acute cardiopulmonary process.",0.715484445445801
+122,CXR328_IM-1560,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs were obtained. The lungs are well expanded and clear. There is no focal consolidation, effusion, or pneumothorax. Cardiac and mediastinal contours are normal.
+Impression: No acute cardiopulmonary process.",0.6863076044446039
+123,CXR2948_IM-1348,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs. The lungs are clear. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.6637338858511617
+124,CXR1956_IM-0623,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There is no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal and hilar contours are normal.
+Impression: No acute cardiopulmonary process.",0.6549495414539402
+125,CXR770_IM-2316,"<think>
+
+</think>
+
+Findings: The lungs are clear without confluent consolidation. There is no pulmonary edema or pleural effusions. Cardiomediastinal and hilar contours are within normal limits. There is no pneumothorax. No displaced fracture is identified.
+Impression: No acute cardiopulmonary process.",0.7165714488110857
+126,CXR3962_IM-2027,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate mild cardiomegaly. The lungs are clear. There is no focal consolidation, pleural effusion, or pneumothorax. The visualized osseous structures are unremarkable.
+Impression: Mild cardiomegaly. Otherwise, unremarkable chest radiograph.",0.6017542266158714
+127,CXR2861_IM-1269,"<think>
+
+</think>
+
+Findings: The heart is not enlarged. There is no pleural effusion, pneumothorax, or focal airspace consolidation. The pulmonary vasculature is within normal limits.
+Impression: No acute cardiopulmonary process.",0.6355989593385954
+128,CXR1344_IM-0223,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs. The lungs are clear. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.8003176105955366
+129,CXR1812_IM-0525,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate low lung volumes, which accentuate bronchovascular markings. There is no focal consolidation, pleural effusion or pneumothorax. The hilar and mediastinal silhouettes are unremarkable. Heart size is normal. There is no pulmonary edema. Imaged osseous structures are intact.
+Impression: No acute cardiopulmonary process.",0.7516133128921745
+130,CXR3066_IM-1430,"<think>
+
+</think>
+
+Findings: The lungs are clear. The heart and mediastinum are normal. The skeletal structures are normal.
+Impression: No active disease.",0.5184713657831296
+131,CXR623_IM-2205,"<think>
+
+</think>
+
+Findings: The lungs are clear. Cardiac silhouette is normal in size. There is a small hiatal hernia.
+Impression: No evidence of pneumonia.",0.4863238958455251
+132,CXR2146_IM-0766,"<think>
+
+</think>
+
+Findings: The lungs are clear. The heart and mediastinum are normal. The bony thorax is normal.
+Impression: No active disease.",0.5527715256531678
+133,CXR2889_IM-1291,"<think>
+
+</think>
+
+Findings: The lungs are clear. The heart and mediastinum are normal. The skeletal structures are unremarkable.
+Impression: No active disease.",0.5430633816623767
+134,CXR1093_IM-0064,"<think>
+
+</think>
+
+Findings: The lungs are clear. Cardiac and mediastinal silhouettes are normal. No acute fractures are identified.
+Impression: No acute cardiopulmonary process.",0.5626715217046835
+135,CXR1188_IM-0127,"<think>
+
+</think>
+
+Findings: The lungs are clear. The heart and mediastinum are normal. The bony thorax is normal.
+Impression: No acute cardiopulmonary disease.",0.6714319753329596
+136,CXR1891_IM-0580,"<think>
+
+</think>
+
+Findings: The heart and mediastinum are normal. The right lower lobe opacity has cleared. There is no effusion or pneumothorax.
+Impression: Resolved pneumonia.",0.4537279753318822
+137,CXR1860_IM-0558,"<think>
+
+</think>
+
+Findings: The lungs are clear. Cardiomediastinal silhouette is within normal limits. Osseous structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.515995028590158
+138,CXR2413_IM-0959,"<think>
+
+</think>
+
+Findings: Cardiomediastinal contours are normal. Lungs are clear. There is no pneumothorax or pleural effusion.
+Impression: No acute cardiopulmonary abnormality.",0.8152438080680519
+139,CXR3778_IM-1894,"<think>
+
+</think>
+
+Findings: The lungs are clear. There is no pneumothorax, effusion, consolidation or chf.
+Impression: No acute cardiopulmonary process.",0.651806340518037
+140,CXR3527_IM-1724,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate clear lungs. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.49308924855328723
+141,CXR2445_IM-0981,"<think>
+
+</think>
+
+Findings: The lungs are clear without infiltrate or effusion. The cardiac and mediastinal silhouettes are normal. The bony thorax is normal.
+Impression: Normal chest.",0.5914378876203346
+142,CXR1470_IM-0303,"<think>
+
+</think>
+
+Findings: The lungs are clear without infiltrate or effusion. The bony thorax is normal. Heart size is normal. There is no pneumothorax.
+Impression: Normal chest x-ray",0.7234413033605361
+143,CXR3922_IM-1996-0001,"<think>
+
+</think>
+
+Findings: The lungs are clear without infiltrate or effusion. The cardiac silhouette is mildly enlarged but stable. The bony thorax is normal.
+Impression: No acute cardiopulmonary process.",0.4364650169489988
+144,CXR1675_IM-0445,"<think>
+
+</think>
+
+Findings: The lungs are well expanded and clear. There is no focal consolidation, effusion, or pneumothorax. Cardiac and mediastinal contours are normal.
+Impression: Normal chest radiograph.",0.5052112343045843
+145,CXR2862_IM-1270,"<think>
+
+</think>
+
+Findings: The cardiomediastinal and hilar contours are normal. The lungs are well expanded and clear, without consolidation, pleural effusion or pneumothorax.
+Impression: No acute cardiopulmonary pathology.",0.7549582054746973
+146,CXR1480_IM-0311,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate clear lungs. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.7571409576775003
+147,CXR1582_IM-0378,"<think>
+
+</think>
+
+Findings: The lungs are clear without infiltrate or effusion. The cardiac and mediastinal silhouettes are normal. The bony thorax is normal.
+Impression: No acute cardiopulmonary disease.",0.5440224333017414
+148,CXR1030_IM-0024,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.7865976578211089
+149,CXR3329_IM-1594,"<think>
+
+</think>
+
+Findings: The lungs are clear without consolidation or edema. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.7112696984400992
+150,CXR692_IM-2258,"<think>
+
+</think>
+
+Findings: The lungs are clear. There is no pneumothorax or pleural effusion. The heart size is normal. The mediastinum is unremarkable.
+Impression: Normal chest.",0.7196258322997279
+151,CXR3993_IM-2044,"<think>
+
+</think>
+
+Findings: The heart is mildly enlarged. The aorta is mildly tortuous. The lungs are clear. No effusions or pneumothoraces are seen.
+Impression: No acute cardiopulmonary process.",0.6287306162928384
+152,CXR3521_IM-1719,"<think>
+
+</think>
+
+Findings: The lungs are well expanded and clear. There is no focal consolidation, effusion, or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.7355252085141657
+153,CXR1319_IM-0205,"<think>
+
+</think>
+
+Findings: Heart size and mediastinum are unremarkable. Lungs are clear. There is no pleural effusion or pneumothorax.
+Impression: No acute cardiopulmonary process.",0.6016598673542425
+154,CXR785_IM-2325,"<think>
+
+</think>
+
+Findings: The heart size is normal. The mediastinal and hilar contours are unremarkable. The lungs are clear. No pleural effusion or pneumothorax is seen. There are no acute osseous abnormalities.
+Impression: No acute cardiopulmonary process.",0.6885238221618051
+155,CXR2229_IM-0831,"<think>
+
+</think>
+
+Findings: The cardiomediastinal and hilar contours are normal. The lungs are well expanded and clear, without consolidation, pleural effusion or pneumothorax.
+Impression: No acute cardiopulmonary pathology.",0.6915835384468519
+156,CXR86_IM-2380,"<think>
+
+</think>
+
+Findings: The cardiomediastinal and hilar contours are normal. The lungs are well expanded and clear, without consolidation, pleural effusion or pneumothorax.
+Impression: No acute cardiopulmonary pathology.",0.7968332333351545
+157,CXR344_IM-1664,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. The lungs are clear. Cardiomediastinal silhouette is normal. Osseous and soft tissue structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.5423644030501473
+158,CXR435_IM-2075,"<think>
+
+</think>
+
+Findings: The heart size is normal. The lungs are clear. There is no pneumothorax or pleural effusion. The mediastinal and hilar structures are normal.
+Impression: No acute cardiopulmonary process.",0.9328628061570117
+159,CXR3902_IM-1981,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs were obtained. The lungs are well expanded and clear. No focal consolidation, effusion, or pneumothorax is present. Cardiac and mediastinal contours are normal.
+Impression: Normal chest radiograph.",0.46774765237198235
+160,CXR3474_IM-1688,"<think>
+
+</think>
+
+Findings: The lungs are clear of focal consolidation, effusion, or pneumothorax. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities detected.
+Impression: No acute cardiopulmonary process.",0.37341656331211187
+161,CXR3587_IM-1765,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs. The lungs are clear. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.9169719473844197
+162,CXR3472_IM-1688,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. Heart size and cardiomediastinal contours are normal. Lungs are clear without focal consolidation, pleural effusion, or pneumothorax.
+Impression: Normal chest radiograph.",0.5698023886896479
+163,CXR2336_IM-0903,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. The lungs are clear of consolidation or effusion. Cardiac silhouette is enlarged. No acute osseous abnormality detected.
+Impression: No definite acute cardiopulmonary process. Cardiomegaly.",0.5139353381404762
+164,CXR3774_IM-1892,"<think>
+
+</think>
+
+Findings: The cardiomediastinal and hilar contours are normal. The lungs are clear, without consolidation, pleural effusion or pneumothorax. Mild aortic tortuosity is noted.
+Impression: No acute cardiopulmonary pathology.",0.7830681273471904
+165,CXR1742_IM-0489,"<think>
+
+</think>
+
+Findings: Frontal and lateral chest radiographs demonstrate clear lungs, without effusion or pneumothorax. The heart size is normal, the mediastinal contours are normal. The pulmonary vasculature is normal.
+Impression: No acute chest abnormality.",0.5634315297287203
+166,CXR2876_IM-1282,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. Cardiomediastinal silhouette is within normal limits. Osseous and soft tissue structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.4738527250690627
+167,CXR1765_IM-0499,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest demonstrate well-expanded and clear lungs. The heart is normal in size and cardiomediastinal contour is unremarkable. There is no pleural effusion or pneumothorax.
+Impression: No evidence of pneumonia.",0.6428727001019064
+168,CXR3136_IM-1475,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate normal cardiomediastinal silhouette. The lungs are well expanded and clear. There is no pneumothorax, vascular congestion, or pleural effusion.
+Impression: No acute cardiopulmonary process.",0.7128576102333524
+169,CXR1932_IM-0603,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There is no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal and hilar contours are normal.
+Impression: No acute cardiopulmonary process.",0.78323336405346
+170,CXR12_IM-0133,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate no focal consolidation, pleural effusion, or pneumothorax. The heart size is normal. The cardiac, hilar, and mediastinal contours are normal.
+Impression: No acute cardiopulmonary process.",0.7378690678441036
+171,CXR850_IM-2373-0001,"<think>
+
+</think>
+
+Findings: The heart is normal in size. The mediastinal and hilar contours are within normal limits. The lungs are well expanded. There is no focal consolidation, pleural effusion, or pneumothorax.
+Impression: No acute cardiopulmonary process.",0.7183494592973747
+172,CXR988_IM-2474,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs. The lungs are clear. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.7152241260381972
+173,CXR3283_IM-1564,"<think>
+
+</think>
+
+Findings: Frontal and lateral radiographs of the chest demonstrate normal heart size. The cardiomediastinal silhouette and hilar contours are normal. The lungs are clear. No pleural effusion or pneumothorax. No displaced rib fracture identified.
+Impression: Normal chest radiograph.",0.7396993679543165
+174,CXR3751_IM-1875,"<think>
+
+</think>
+
+Findings: Ap and lateral views of the chest demonstrate clear lungs bilaterally. The cardiomediastinal and hilar contours are within normal limits. There is no pneumothorax or pleural effusion. Pulmonary vascularity is normal.
+Impression: No acute cardiopulmonary process.",0.583987033288496
+175,CXR3085_IM-1444,"<think>
+
+</think>
+
+Findings: The lungs are clear without infiltrate or effusion. The cardiac and mediastinal silhouettes are normal. The pulmonary vasculature is normal. No pneumothorax. No bony abnormality.
+Impression: No acute cardiopulmonary process.",0.6407182115066627
+176,CXR364_IM-1804,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate no focal consolidation, pleural effusion, or pneumothorax. The heart size is normal. The cardiac, hilar, and mediastinal contours are unremarkable.
+Impression: No acute cardiopulmonary process.",0.689264360881174
+177,CXR1219_IM-0146,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. There is no pleural effusion or pneumothorax. The cardiac silhouette is top normal. The mediastinal contours are normal.
+Impression: No acute cardiopulmonary process.",0.7424958385976718
+178,CXR474_IM-2101,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate normal lung volumes without pleural effusion, focal consolidation or pneumothorax. Hilar and mediastinal silhouettes are unremarkable. Heart size is normal. There is no pulmonary edema.
+Impression: No acute cardiopulmonary process.",0.7753615893108078
+179,CXR932_IM-2430,"<think>
+
+</think>
+
+Findings: Cardiomediastinal silhouette is within normal limits. There are low lung volumes. The lungs are clear with no evidence of focal consolidation or pleural effusions. There is no pneumothorax. There are no acute bony abnormalities.
+Impression: No evidence of pneumonia or pleural effusions.",0.6981633984678557
+180,CXR779_IM-2321,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate normal cardiomediastinal silhouette. The lungs are clear. There is no pneumothorax, vascular congestion, or pleural effusion. No acute osseous abnormality is identified.
+Impression: No acute cardiopulmonary process.",0.7008873892547223
+181,CXR3775_IM-1893,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest are provided. The lungs are well expanded and clear. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is unremarkable.
+Impression: No acute cardiopulmonary process.",0.7928244770645996
+182,CXR2784_IM-1220,"<think>
+
+</think>
+
+Findings: The cardiomediastinal silhouette is stable with normal cardiac size and calcified aortic knob. Lungs are well expanded and clear. There is no pleural effusion or pneumothorax. Bones are unremarkable.
+Impression: No acute cardiopulmonary process.",0.7151234381503635
+183,CXR3687_IM-1838,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. Low lung volumes. The heart size is top normal. The mediastinal contours are normal. No focal consolidation, pleural effusion, or pneumothorax. Partially imaged cervical spinal fusion hardware.
+Impression: No focal consolidation.",0.5936559741202582
+184,CXR2145_IM-0766,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. There are low lung volumes. There is no focal consolidation, effusion, or pneumothorax. Cardiac and mediastinal contours are normal. No acute fractures are identified.
+Impression: No acute intrathoracic process.",0.6579221917789475
+185,CXR3192_IM-1505,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate a large hiatal hernia containing the stomach and splenic flexure. Heart size is normal. There is no pleural effusion or pneumothorax. No focal consolidation.
+Impression: Large hiatal hernia. No acute cardiopulmonary process.",0.5831851387592543
+186,CXR3845_IM-1945,"<think>
+
+</think>
+
+Findings: The heart size is normal. The mediastinal and hilar contours are within normal limits. The pulmonary vascularity is normal and the lungs are clear. No pleural effusion or pneumothorax is present. There are no acute osseous abnormalities.
+Impression: Normal chest radiograph.",0.744378749076066
+187,CXR3403_IM-1647,"<think>
+
+</think>
+
+Findings: The lungs are clear. Cardiac silhouette and mediastinal contours are normal. No pleural effusion or pneumothorax. Osseous structures are intact. No rib fractures are seen.
+Impression: Normal chest radiograph. No evidence of acute cardiopulmonary process or rib fracture.",0.7377421987232953
+188,CXR3016_IM-1392,"<think>
+
+</think>
+
+Findings: The heart is mildly enlarged. The lungs are clear. There are no focal consolidations, pleural effusions, pulmonary edema, or pneumothorax. The aorta is mildly tortuous. No acute fractures are identified.
+Impression: Mild cardiomegaly without evidence of acute pulmonary process.",0.45275103369808734
+189,CXR1256_IM-0173,"<think>
+
+</think>
+
+Findings: The heart is normal in size. The mediastinal and hilar contours are within normal limits. There is no chf, focal infiltrate or effusion. There is no pneumothorax detected. Degenerative changes of the thoracic spine and the ac joints are again noted.
+Impression: No acute pulmonary process detected.",0.7357443690695017
+190,CXR1460_IM-0298,"<think>
+
+</think>
+
+Findings: The heart size is normal. The mediastinal and hilar contours are unremarkable. There is no pleural effusion or pneumothorax. There is no focal consolidation concerning for pneumonia. Pulmonary vasculature is within normal limits.
+Impression: No acute cardiopulmonary process.",0.4597241108049328
+191,CXR3466_IM-1683,"<think>
+
+</think>
+
+Findings: The cardiomediastinal and hilar contours are normal. The lungs are well expanded and clear, without consolidation, pleural effusion or pneumothorax. Bilateral breast implants are present.
+Impression: No acute cardiopulmonary pathology.",0.6049804586911002
+192,CXR1796_IM-0517,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest demonstrate well-expanded and clear lungs. The cardiomediastinal and hilar contours are unremarkable. There is no pneumothorax, pleural effusion, or consolidation. A linear opacity at the left apex is stable since the prior study.
+Impression: No acute cardiopulmonary process.",0.7653240712014703
+193,CXR2681_IM-1154,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate clear lungs without focal consolidation, pleural effusion or pneumothorax. There is a nodular density overlying the left lower lung, likely a nipple shadow. The cardiomediastinal silhouette is normal. No acute osseous abnormality is identified.
+Impression: No acute cardiopulmonary process.",0.5503035759315904
+194,CXR3203_IM-1513,"<think>
+
+</think>
+
+Findings: Frontal and lateral chest radiographs demonstrate mild peribronchial thickening and increased interstitial markings. No focal consolidation, pleural effusion, or pneumothorax. The heart size is normal. The cardiac, hilar, and mediastinal contours are within normal limits.
+Impression: No acute cardiopulmonary process.",0.6677555288096366
+195,CXR2910_IM-1314,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. There is no pneumothorax or pleural effusion. The cardiomediastinal silhouette is normal. No acute osseous abnormalities detected.
+Impression: No acute cardiopulmonary process.",0.7315785657656741
+196,CXR1193_IM-0129,"<think>
+
+</think>
+
+Findings: The cardiac silhouette is enlarged, increased since prior. Bilateral hazy opacities are noted, compatible with mild-to-moderate pulmonary edema. There is a small right pleural effusion. No pneumothorax is present. Mediastinal contours are normal.
+Impression: Mild-to-moderate pulmonary edema.",0.4582737708753006
+197,CXR304_IM-1413,"<think>
+
+</think>
+
+Findings: Ap and lateral views of the chest. There are low lung volumes which crowd the pulmonary vascular markings. However, there is no evidence of focal consolidation, effusion or pneumothorax. Cardiac silhouette is normal. The cardiomediastinal silhouette is normal. No acute osseous abnormalities identified.
+Impression: No acute cardiopulmonary process.",0.5776614876179268
+198,CXR1015_IM-0001,"<think>
+
+</think>
+
+Findings: The heart is normal in size. The mediastinal and hilar contours are unremarkable. The pulmonary vasculature is normal. There are no focal parenchymal opacities. There is no pleural effusion or pneumothorax. There is mild bilateral diaphragmatic flattening.
+Impression: No acute intrathoracic abnormality.",0.5492882217326143
+199,CXR1277_IM-0185,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate clear lungs. There is no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is within normal limits.
+Impression: No acute cardiopulmonary process.",0.8078323984404615
+200,CXR1191_IM-0128,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were reviewed. The cardiomediastinal, pleural and pulmonary structures are unremarkable. There is no pleural effusion or pneumothorax. The heart size is normal. The mediastinum is normal. The lungs are clear. The hilar structures are normal.
+Impression: No acute cardiopulmonary process.",0.6811700397667776
+201,CXR3382_IM-1629-0001,"<think>
+
+</think>
+
+Findings: The lungs are clear, but hyperexpanded with flattening of the hemidiaphragms suggestive of copd. The cardiomediastinal silhouette is normal. There is no pleural effusion or pneumothorax. A pigtail catheter is seen projecting over the left upper quadrant. The upper abdomen is otherwise unremarkable.
+Impression: No acute cardiopulmonary process.",0.5276792989441532
+202,CXR3595_IM-1773-0001,"<think>
+
+</think>
+
+Findings: The lungs are well expanded. Mild pulmonary vascular congestion is present without overt edema. There is a small left-sided pleural effusion. There is no focal consolidation. The heart is top-normal in size. A right-sided dialysis catheter terminates in the right atrium. Aortic arch calcifications are present. The aorta is tortuous.
+Impression: Small left-sided pleural effusion.",0.462795747352321
+203,CXR1544_IM-0354,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. The heart is normal in size and cardiomediastinal silhouette is unremarkable. There is no pleural effusion or pneumothorax. The lungs are well expanded and clear. Pulmonary vasculature is within normal limits. The osseous structures are grossly unremarkable.
+Impression: No acute intrathoracic abnormality.",0.8514053936454945
+204,CXR2061_IM-0698,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest were obtained. The heart is of normal size with normal cardiomediastinal contours. The lungs are clear without focal or diffuse abnormality. Pulmonary vasculature is unremarkable. No pleural effusion or pneumothorax. Osseous structures are unremarkable. No radiopaque foreign bodies.
+Impression: No acute cardiopulmonary process.",0.7414407674045299
+205,CXR39_IM-1978,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs were obtained. The lungs are well expanded and clear. There is no focal consolidation, effusion, or pneumothorax. A calcified granuloma is present in the right upper lobe, unchanged since prior study. There is no central vascular congestion or overt pulmonary edema. The heart and mediastinal contours are normal.
+Impression: No acute cardiopulmonary process.",0.5126718157733854
+206,CXR3844_IM-1945,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. The lungs are clear bilaterally with no evidence of focal consolidation or pulmonary edema. There is no pleural effusion or pneumothorax. The cardiac silhouette is moderately enlarged. The mediastinum is normal in contour. The visualized osseous structures are intact.
+Impression: 1. Moderate cardiomegaly. 2. No acute pulmonary process.",0.6810586664850978
+207,CXR2363_IM-0926,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest were obtained. The heart is mildly enlarged. Pulmonary vasculature is normal. Patchy opacities are seen at both lung bases. There is no pleural effusion or pneumothorax. No radiopaque foreign body is seen.
+Impression: 1. Patchy bibasilar opacities could represent aspiration or infection in the appropriate clinical setting. 2. Mild cardiomegaly.",0.577694343593124
+208,CXR162_IM-0401,"<think>
+
+</think>
+
+Findings: The heart size is normal. The mediastinal and hilar contours are unremarkable. The lungs are clear. No pleural effusion or pneumothorax is visualized. There are no acute osseous abnormalities.
+Impression: No acute cardiopulmonary process.",0.623817208214107
+209,CXR1627_IM-0408,"<think>
+
+</think>
+
+Findings: The lungs are clear. There is no pleural effusion, pneumothorax or focal airspace consolidation. The cardiac and mediastinal contours are normal. The hilar structures are unremarkable. The imaged upper abdomen is normal. There are no acute osseous abnormalities appreciated.
+Impression: Normal chest radiograph.",0.5739308754519337
+210,CXR3106_IM-1456,"<think>
+
+</think>
+
+Findings: Heart size and mediastinum are stable. Lungs are clear. There is no pleural effusion or pneumothorax.
+Impression: No evidence of abnormality within the limitations of the study technique to explain patient's symptoms.",0.7752567931170216
+211,CXR2965_IM-1358,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest demonstrate the lungs are well expanded and clear. The cardiomediastinal silhouette is unremarkable. There is no pleural effusion, pulmonary edema, pneumothorax, or focal airspace opacity. No evidence of calcified or noncalcified nodules or masses are present. No evidence of calcified lymphadenopathy. The osseous structures are grossly intact.
+Impression: No acute cardiopulmonary process. No evidence of active or latent tuberculosis.",0.6727109193002325
+212,CXR1608_IM-0394,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is normal. A nodule is seen in the left lower lobe measuring 8.8 mm. No additional nodules are identified.
+Impression: No acute cardiopulmonary process. 8.8 mm nodule in the left lower lobe. Comparison with any prior radiographs is recommended. If no prior radiographs are available, a nonurgent chest ct can be performed for further evaluation.",0.7815998342580375
+213,CXR913_IM-2417,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear of focal consolidation, pleural effusion or pneumothorax. The cardiac silhouette is normal in size. There is no pulmonary edema. The mediastinal contours are unremarkable.
+Impression: No acute cardiopulmonary process.",0.6459542333564576
+214,CXR3843_IM-1944,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest demonstrate no evidence of consolidation or pulmonary edema. A right-sided port-a-cath catheter is noted with its tip in the right atrium. No pleural effusion or pneumothorax. The cardiac, mediastinal, and hilar contours are within normal limits.
+Impression: No acute cardiopulmonary process.",0.6153424777206417
+215,CXR565_IM-2166,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. The heart is normal in size and cardiomediastinal silhouette is unremarkable. The lungs are well expanded and clear. There is no focal consolidation, pleural effusion or pneumothorax. No evidence of pulmonary edema. No acute osseous abnormality is identified. There is no free air under the diaphragm. There is a rounded metallic density in the soft tissues of the left shoulder.
+Impression: 1. No acute intrathoracic abnormality. 2. Rounded metallic density in the soft tissues of the left shoulder.",0.6938410029725128
+216,CXR2918_IM-1320,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrates low lung volumes. The lungs are clear. There is no pneumothorax, no pleural effusion. There is a mild anterior wedge deformity of a lower thoracic vertebral body, likely t11. No definite acute fractures are seen. There is no free air below the right hemidiaphragm. There is no radiopaque foreign body.
+Impression: 1. No acute cardiopulmonary disease. No radiopaque foreign body. 2. Mild anterior wedge deformity of the t11 vertebral body, likely chronic. No definite acute fracture seen.",0.5149981483412648
+217,CXR3355_IM-1609,"<think>
+
+</think>
+
+Findings: The lungs are clear without focal consolidation, pleural effusion or pneumothorax. There is mild cardiomegaly. There is no pulmonary vascular congestion or edema. The thoracic aorta is tortuous and mildly calcified. There is no acute osseous abnormality.
+Impression: No acute cardiopulmonary process. Mild cardiomegaly.",0.6330715174954886
+218,CXR2088_IM-0719,"<think>
+
+</think>
+
+Findings: Ap and lateral views of the chest were obtained. There is persistent mild enlargement of the cardiac silhouette, similar to the prior examination. There is slight increased opacification of the left lung base, possibly secondary to atelectasis, however, an acute infectious process cannot be excluded in the correct clinical setting. There is no pneumothorax. No overt pulmonary edema is seen. A surgical clip is seen projecting over the left lateral chest wall.
+Impression: Persistent cardiomegaly. Increased opacity at the left lung base, which could be secondary to atelectasis, however, cannot exclude pneumonia in the correct clinical setting.",0.5279307448650612
+219,CXR1373_IM-0240,"<think>
+
+</think>
+
+Findings: Pa and lateral views of chest demonstrate no definite evidence of pneumonia or chf. There is a 2.2 x 2.5 cm opacity in the left upper lobe which is not clearly seen on lateral view but may represent a parenchymal lesion. Heart size is normal. There is no pleural effusion or pneumothorax. The aorta is slightly tortuous. Mediastinum and hilar structures are unremarkable. The bony thorax is grossly intact.
+Impression: 2.2 x 2.5 cm opacity in left upper lobe. This could represent a pulmonary lesion. Recommend ct for further evaluation.",0.6602664934797426
+220,CXR3508_IM-1710,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were reviewed. Compared to the prior study, there is no significant change. Multiple bilateral lung nodules are stable. There is also stable right upper lobe volume loss. Cardiac size is normal. No new consolidation, pulmonary edema or pneumothorax is present. Bilateral pleural effusions are unchanged.
+Impression: No change in bilateral pulmonary nodules and bilateral pleural effusions.",0.6106965857569091
+221,CXR3673_IM-1828,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. A focal opacity in the left upper lobe is slightly more dense than on prior. The right lung is clear. There is no effusion or pneumothorax. Heart size is top normal. Mediastinal silhouette and hilar contours are stable. Aortic arch calcifications are noted.
+Impression: Left upper lobe opacity is slightly more dense than on prior. Recommend followup radiograph to ensure resolution.",0.6677534596288895
+222,CXR2537_IM-1049,"<think>
+
+</think>
+
+Findings: Ap and lateral chest radiographs. Compared to the prior radiograph, the mild pulmonary edema has resolved. The lungs are clear. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.5832339523907236
+223,CXR578_IM-2176,"<think>
+
+</think>
+
+Findings: The lungs are clear. No pleural effusions or pneumothorax. Cardiomediastinal silhouette is normal. No free air is seen under the hemidiaphragms. Bony structures are intact.
+Impression: No acute intrathoracic process. No evidence of pneumoperitoneum.",0.7016398878002218
+224,CXR569_IM-2169-0001,"<think>
+
+</think>
+
+Findings: Again seen is a moderate-to-large right-sided pleural effusion. The left-sided pleural effusion is smaller. There are compressive atelectatic changes at both lung bases. The heart size is normal. There is no pneumothorax. Post-surgical changes from prior esophagectomy are again noted.
+Impression: Stable right pleural effusion.",0.48588423298376276
+225,CXR1510_IM-0331,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There is a subtle opacity at the left lung base, seen best on the frontal view, not well seen on the lateral. There is no pleural effusion or pneumothorax. Cardiomediastinal silhouette is normal. There is no free air under the right hemidiaphragm.
+Impression: Subtle opacity at the left lung base, seen best on the frontal view, may represent atelectasis or infection in the appropriate clinical setting.",0.5759390061228356
+226,CXR1642_IM-0421,"<think>
+
+</think>
+
+Findings: The heart size is mildly enlarged. The aortic valve replacement is present. Median sternotomy wires are noted. No mediastinal lymphadenopathy is seen. The pulmonary vascularity is normal. No focal consolidation, pleural effusion or pneumothorax is present. No hilar lymphadenopathy is seen. There are no acute osseous abnormalities.
+Impression: No acute cardiopulmonary process. No evidence of mediastinal or hilar lymphadenopathy.",0.6206469572846257
+227,CXR308_IM-1439,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There is a large right pleural effusion, which appears to be increasing in size compared to prior. There is also increased opacity of the right lung base which may represent pneumonia or asymmetric pulmonary edema. The left lung appears clear. The cardiomediastinal and hilar contours are stable.
+Impression: 1. Increasing right pleural effusion. 2. Increased opacity of the right lung base which may represent pneumonia or asymmetric pulmonary edema.",0.39441466731645036
+228,CXR1269_IM-0181,"<think>
+
+</think>
+
+Findings: The lungs are clear. The cardiomediastinal silhouette is normal. Osseous and soft tissue structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.5712505051344463
+229,CXR1377_IM-0242,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. There is no consolidation or pneumothorax. There is no effusion. The cardiomediastinal silhouette is normal. Osseous structures are unremarkable.
+Impression: Normal chest x-ray.",0.6420813358184408
+230,CXR3784_IM-1898,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs are provided. Lung volumes are low which limits assessment. There is no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is normal. There is dextroscoliosis of the thoracic spine.
+Impression: No acute cardiopulmonary process.",0.6707757586735369
+231,CXR877_IM-2392,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. Low lung volumes are again noted with stable cardiomediastinal silhouette and a prosthetic valve. There are small bilateral effusions with mild pulmonary edema. No pneumothorax.
+Impression: Small bilateral effusions and mild pulmonary edema.",0.581496676354209
+232,CXR862_IM-2383,"<think>
+
+</think>
+
+Findings: There are bibasilar areas of scarring. The heart and mediastinal structures are unremarkable. The bony thorax is grossly intact. There is no evidence of pneumothorax or pleural effusion.
+Impression: Bibasilar scarring. No focal infiltrate.",0.6442735966889949
+233,CXR2433_IM-0975,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest are limited due to patient's body habitus and technique. There are low lung volumes which accentuate the bronchovascular markings. There is no pleural effusion, pneumothorax or focal airspace consolidation. Heart is mildly enlarged and there is mild pulmonary edema.
+Impression: Mild cardiomegaly and mild pulmonary edema.",0.6210395897184426
+234,CXR3885_IM-1971,"<think>
+
+</think>
+
+Findings: The lungs are well inflated and clear. The cardiomediastinal silhouette, hilar contours, and pleural surfaces are normal. No pleural effusion or pneumothorax is present.
+Impression: No evidence of acute intrathoracic process.",0.6814190014849464
+235,CXR1965_IM-0629,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There is persistent enlargement of the cardiac silhouette. The lungs are clear of consolidation or effusion. No acute osseous abnormalities detected. Surgical clips in the axillary regions bilaterally.
+Impression: Cardiomegaly without acute cardiopulmonary process.",0.5776938227714457
+236,CXR404_IM-2052,"<think>
+
+</think>
+
+Findings: The cardiomediastinal and hilar contours are normal. The lungs are well expanded and clear, without consolidation, pleural effusion or pneumothorax.
+Impression: No acute cardiopulmonary pathology.",0.6671430565468259
+237,CXR3221_IM-1522,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate interval removal of a right-sided central line. The cardiomediastinal contours are within normal limits. The lungs are clear with no evidence of pneumothorax or pleural effusion.
+Impression: No acute cardiopulmonary process.",0.7518671515335481
+238,CXR184_IM-0544,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs were obtained. The lungs are well expanded and clear. There is no focal consolidation, effusion, or pneumothorax. Cardiac and mediastinal contours are normal.
+Impression: Normal chest radiograph.",0.7051727172017279
+239,CXR2209_IM-0816,"<think>
+
+</think>
+
+Findings: Frontal and lateral radiographs of the chest demonstrate normal heart size. The cardiomediastinal silhouette and hilar contours are normal. The lungs are clear. No pleural effusion or pneumothorax. Surgical clips in the right axilla. No displaced rib fracture identified.
+Impression: No acute process.",0.5544187407881359
+240,CXR761_IM-2310,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest were obtained. Low lung volumes result in bronchovascular crowding. There is no focal consolidation, pleural effusion or pneumothorax. Heart size is within normal limits. Mediastinal silhouette and hilar contours are normal allowing for low lung volumes. A surgical clip is present in the left axilla.
+Impression: No pneumonia, edema or effusion.",0.46427577195749714
+241,CXR2575_IM-1075,"<think>
+
+</think>
+
+Findings: The lungs are clear. The cardiomediastinal silhouette is normal. There is no pleural effusion or pneumothorax. There is a right lateral rib deformity consistent with prior fracture.
+Impression: No evidence of pneumonia or other acute cardiopulmonary process.",0.6247332612450663
+242,CXR379_IM-1903,"<think>
+
+</think>
+
+Findings: There has been interval placement of a dialysis catheter with tip ending in the right atrium. Cardiomediastinal silhouette is stable. Lung volumes are lower than on the prior study. Bibasilar opacities likely represent atelectasis. Small bilateral pleural effusions are present. There is no pneumothorax.
+Impression: Dialysis catheter with tip ending in the right atrium. Bibasilar atelectasis and small bilateral pleural effusions.",0.610445652372237
+243,CXR2424_IM-0966,"<think>
+
+</think>
+
+Findings: The lungs are clear. There is no pneumothorax or pleural effusion. The heart size is normal. There is no displaced rib fracture.
+Impression: No acute cardiopulmonary process.",0.8289520954742281
+244,CXR584_IM-2181,"<think>
+
+</think>
+
+Findings: Pa and lateral films of the chest demonstrate well-expanded lungs. There is no focal consolidation. Cardiomediastinal and hilar contours are unremarkable. There is no pleural effusion or pneumothorax. Visualized osseous structures are without acute abnormality.
+Impression: No acute cardiopulmonary process.",0.7721982751083167
+245,CXR3155_IM-1486,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear of consolidation, effusion, or pneumothorax. The cardiomediastinal silhouette is within normal limits. Osseous and soft tissue structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.35397168509071886
+246,CXR387_IM-1962,"<think>
+
+</think>
+
+Findings: There is marked widening of the mediastinum with obliteration of the aortic knob and left paratracheal stripe. The left hemithorax is also widened, suggesting left-sided volume loss, though the left heart border is not well delineated. There is no large pleural effusion or pneumothorax. The right lung is grossly clear.
+Impression: Marked widening of the mediastinum with obliteration of the aortic knob and left paratracheal stripe. Left hemithorax widening suggesting left-sided volume loss with indistinct left heart border. No large pleural effusion or pneumothorax. Right lung grossly clear.",0.51567017798948
+247,CXR30_IM-1385,"<think>
+
+</think>
+
+Findings: The cardiomediastinal and hilar contours are normal. The lungs are clear without consolidation, pleural effusion or pneumothorax.
+Impression: No acute cardiopulmonary pathology.",0.7361800208432702
+248,CXR2983_IM-1371,"<think>
+
+</think>
+
+Findings: The lungs are clear without infiltrate or effusion. The bony thorax is normal. The heart and mediastinal silhouette is normal. There is no free air underneath the diaphragm.
+Impression: Normal chest x-ray",0.45658682969732683
+249,CXR2545_IM-1054,"<think>
+
+</think>
+
+Findings: The lungs are clear. Heart size is normal. No pneumothorax or pleural effusion. No focal bony abnormality.
+Impression: Normal chest.",0.5893451976407434
+250,CXR1253_IM-0171-0001,"<think>
+
+</think>
+
+Findings: The heart and mediastinum are normal. The lung fields are clear. No pleural effusion is identified.
+Impression: No acute disease",0.6228936294004833
+251,CXR708_IM-2271,"<think>
+
+</think>
+
+Findings: The lungs are clear. Cardiomediastinal silhouette is normal. No acute osseous abnormalities identified.
+Impression: No acute cardiopulmonary process.",0.4557314313623994
+252,CXR2401_IM-0950,"<think>
+
+</think>
+
+Findings: The lungs are clear. There is no pneumothorax, effusion, consolidation or chf.
+Impression: No acute cardiopulmonary process.",0.7067102675300698
+253,CXR427_IM-2070,"<think>
+
+</think>
+
+Findings: Cardiomediastinal silhouette is normal. The lungs are clear. There is no pleural effusion or pneumothorax.
+Impression: No acute cardiopulmonary process.",0.8888604313671173
+254,CXR617_IM-2200,"<think>
+
+</think>
+
+Findings: The lungs are clear. There is mild hyperinflation. There is no infiltrate or effusion. There is no pneumothorax.
+Impression: Mild hyperinflation.",0.5824892510766131
+255,CXR3707_IM-1851,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. Cardiomediastinal silhouette is normal. Osseous structures are unremarkable.
+Impression: Normal chest x-ray.",0.5718248954871694
+256,CXR3281_IM-1562,"<think>
+
+</think>
+
+Findings: The lungs are clear. The heart and mediastinum are unremarkable. The bony thorax is normal.
+Impression: No acute cardiopulmonary disease.",0.4749897197586357
+257,CXR980_IM-2468,"<think>
+
+</think>
+
+Findings: The lungs are clear. Cardiac and mediastinal contours are normal. There are no pleural effusions. No pneumothorax.
+Impression: No acute cardiac or pulmonary process.",0.8056067252780027
+258,CXR1197_IM-0131,"<think>
+
+</think>
+
+Findings: Heart size is normal. The mediastinum is normal. Lungs are clear. There is no pleural effusion or pneumothorax.
+Impression: No evidence of acute cardiopulmonary process.",0.684535422748622
+259,CXR1431_IM-0278,"<think>
+
+</think>
+
+Findings: The lungs are clear without infiltrate or effusion. The bony thorax is normal. The heart and mediastinum are normal.
+Impression: Normal chest.",0.5326251602776534
+260,CXR2559_IM-1063,"<think>
+
+</think>
+
+Findings: The heart and mediastinum are normal. The lung fields are clear. There is no evidence of pneumonia, pneumothorax, or pleural effusion.
+Impression: Normal chest x-ray.",0.5510388594842696
+261,CXR292_IM-1322,"<think>
+
+</think>
+
+Findings: The cardiomediastinal silhouette is normal. There are no pleural effusions or pneumothoraces. No focal consolidations are identified.
+Impression: No acute cardiopulmonary process.",0.5508178974763769
+262,CXR1404_IM-0258,"<think>
+
+</think>
+
+Findings: Cardiomediastinal silhouette is within normal limits. There are no focal consolidations, pleural effusion, or pulmonary edema. There are no pneumothoraces.
+Impression: Normal chest radiograph.",0.591531022745437
+263,CXR307_IM-1432,"<think>
+
+</think>
+
+Findings: There is no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal and hilar contours are normal.
+Impression: No acute cardiopulmonary process.",0.794208958908763
+264,CXR1046_IM-0036,"<think>
+
+</think>
+
+Findings: The lungs are clear. Cardiomediastinal silhouette and hilar contours are unremarkable. No pleural effusion or pneumothorax.
+Impression: No acute cardiopulmonary process.",0.774412595010506
+265,CXR3088_IM-1444,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.5805337642105552
+266,CXR3340_IM-1601,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. The lungs are clear. Cardiomediastinal silhouette is within normal limits. Osseous structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.5260137856303525
+267,CXR759_IM-2309,"<think>
+
+</think>
+
+Findings: The heart size is normal. The lungs are clear. There are no pleural effusions or pneumothoraces. Degenerative changes of the thoracic spine are again seen.
+Impression: No acute cardiopulmonary process.",0.6321815708465945
+268,CXR2799_IM-1231,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There is no focal consolidation, pleural effusion or pneumothorax. The cardiomediastinal and hilar contours are normal.
+Impression: No acute cardiopulmonary process.",0.7601318257695995
+269,CXR2197_IM-0807,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. The cardiomediastinal silhouette is within normal limits. Osseous and soft tissue structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.3491852456832256
+270,CXR3889_IM-1973,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. The cardiomediastinal silhouette is normal. Osseous structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.5689899589391751
+271,CXR2159_IM-0776,"<think>
+
+</think>
+
+Findings: The lungs are clear without consolidation or edema. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.589232886007851
+272,CXR1950_IM-0618,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate normal cardiomediastinal silhouette. The lungs are clear. There is no pneumothorax, vascular congestion, or pleural effusion.
+Impression: No acute cardiopulmonary process.",0.6749286914246068
+273,CXR356_IM-1744,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There is no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal and hilar contours are normal.
+Impression: No acute cardiopulmonary process.",0.7972219694235371
+274,CXR2768_IM-1212,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There is no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal and hilar contours are normal.
+Impression: No acute cardiopulmonary process.",0.6550024756031082
+275,CXR2552_IM-1058,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. Cardiomediastinal silhouette is normal. Osseous and soft tissue structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.6408145508304279
+276,CXR3716_IM-1856,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. The lungs are clear without consolidation, effusion, or pneumothorax. The cardiomediastinal silhouette is within normal limits. No displaced fractures identified.
+Impression: No acute cardiopulmonary process.",0.6461211173448119
+277,CXR922_IM-2423,"<think>
+
+</think>
+
+Findings: Frontal and lateral chest radiographs demonstrate moderate cardiomegaly, mild pulmonary vascular congestion, and no pleural effusion. The lungs are clear.
+Impression: Moderate cardiomegaly with mild pulmonary vascular congestion, without focal consolidation.",0.5606278823693936
+278,CXR251_IM-1032,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate a left upper lobe calcified granuloma. The lungs are otherwise clear. The cardiac silhouette is normal. The osseous structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.40410281546580945
+279,CXR3682_IM-1834,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate normal cardiomediastinal silhouette. The lungs are clear. There is no pneumothorax, vascular congestion, or pleural effusion.
+Impression: No acute cardiopulmonary process.",0.7326814880421587
+280,CXR1570_IM-0372,"<think>
+
+</think>
+
+Findings: The lungs are clear without focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is normal. Osseous structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.7032558635735077
+281,CXR663_IM-2239,"<think>
+
+</think>
+
+Findings: The cardiomediastinal and hilar contours are normal. The lungs are clear without consolidation, pleural effusion or pneumothorax. No acute osseous abnormality is seen.
+Impression: No acute cardiopulmonary pathology.",0.7880264183374853
+282,CXR2727_IM-1187,"<think>
+
+</think>
+
+Findings: The lungs are well expanded and clear. There is no pleural effusion or pneumothorax. Heart size is normal. Mediastinal contour is unremarkable.
+Impression: No acute chest abnormality. No residual pneumothorax.",0.6784256379209553
+283,CXR608_IM-2196,"<think>
+
+</think>
+
+Findings: No focal opacity to suggest pneumonia is seen. No pleural effusion or pneumothorax is present. The cardiomediastinal silhouette is normal. No acute osseous abnormality is seen.
+Impression: No acute cardiopulmonary process.",0.4962302140139314
+284,CXR2446_IM-0982,"<think>
+
+</think>
+
+Findings: Frontal and lateral radiographs of the chest demonstrate normal heart size. The mediastinal and hilar contours are normal. The lungs are clear. No pleural effusion or pneumothorax. No displaced rib fracture identified.
+Impression: No acute cardiopulmonary process.",0.5181434239131076
+285,CXR2531_IM-1045,"<think>
+
+</think>
+
+Findings: The cardiomediastinal and hilar contours are normal. The lungs are well expanded and clear, without consolidation, pleural effusion or pneumothorax. No acute osseous abnormality is seen.
+Impression: No acute cardiopulmonary pathology.",0.7411024899096402
+286,CXR1586_IM-0380,"<think>
+
+</think>
+
+Findings: The lungs are clear. There is no pleural effusion, pneumothorax or focal airspace consolidation. The cardiac silhouette is normal. There is mild tortuosity of the aorta.
+Impression: No acute cardiopulmonary process.",0.662990490387436
+287,CXR3271_IM-1552,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. Heart is normal in size and cardiomediastinal contour is unremarkable. Lungs are clear. There is no pleural effusion or pneumothorax.
+Impression: No acute intrathoracic abnormality.",0.7541297272967341
+288,CXR1539_IM-0349,"<think>
+
+</think>
+
+Findings: Heart size is within normal limits. Aorta is mildly tortuous. The lungs are clear. There is no pneumothorax or pleural effusion. Bony structures are grossly intact.
+Impression: No acute intrathoracic process.",0.6638430090364458
+289,CXR535_IM-2142,"<think>
+
+</think>
+
+Findings: Again seen is scarring at the left lung base. The lungs are otherwise clear. There is no pneumothorax or effusion. The heart and mediastinal contours are normal.
+Impression: No acute cardiopulmonary process.",0.5897309689935014
+290,CXR3489_IM-1696,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. There is no effusion or pneumothorax. The cardiomediastinal silhouette is normal. No acute osseous abnormalities detected.
+Impression: Normal chest x-ray.",0.7885677239513708
+291,CXR3415_IM-1650,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The heart size is normal. The lungs are clear. There is no evidence of pulmonary edema. The mediastinal and hilar contours are normal. The pleural surfaces are normal.
+Impression: No acute cardiopulmonary process.",0.5630081752953299
+292,CXR2086_IM-0717,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs were provided. There is no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is normal. The bones are intact.
+Impression: No acute cardiopulmonary process.",0.9419367301587707
+293,CXR136_IM-0233,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. The heart and mediastinum are within normal limits. There is no consolidation, effusion or pneumothorax. The bony thorax is intact.
+Impression: No acute cardiopulmonary process.",0.6416744965960126
+294,CXR23_IM-0879,"<think>
+
+</think>
+
+Findings: There is mild hyperinflation of the lungs. The heart is normal in size. The mediastinum is unremarkable. There are no focal infiltrates or effusions. There is no pneumothorax.
+Impression: No acute cardiopulmonary process.",0.5191794816695177
+295,CXR2000_IM-0654,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There is no evidence of fracture. The lungs are clear. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process or evidence of fracture.",0.6467945541343643
+296,CXR1530_IM-0344,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. The cardiomediastinal silhouette is normal. The lungs are clear. There is no pleural effusion or pneumothorax. The imaged osseous structures are intact.
+Impression: No acute intrathoracic process.",0.7508961747806494
+297,CXR689_IM-2257,"<think>
+
+</think>
+
+Findings: There is no focal infiltrate, effusion, or mass. A large hiatal hernia is present. The cardiac and mediastinal silhouettes are normal. The bony thorax is normal.
+Impression: No acute pulmonary disease. Large hiatal hernia.",0.4521997777745768
+298,CXR2129_IM-0753,"<think>
+
+</think>
+
+Findings: The lungs are clear. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal. There is no rib fracture.
+Impression: No acute cardiopulmonary process. No evidence of rib fracture.",0.6874286835864307
+299,CXR1560_IM-0366,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There is no focal consolidation, effusion or pneumothorax. The cardiomediastinal silhouette is normal. Surgical clips are seen in the right upper quadrant. No acute osseous abnormalities.
+Impression: No acute cardiopulmonary process.",0.6912238024533943
+300,CXR2179_IM-0791,"<think>
+
+</think>
+
+Findings: The lungs are clear without focal infiltrate, effusion, or pneumothorax. There is some linear atelectasis at the bases. The heart and mediastinal structures are unremarkable. The bony thorax is normal.
+Impression: No acute cardiopulmonary disease.",0.6173388710831827
+301,CXR3860_IM-1954,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest were obtained. The heart size and cardiomediastinal contours are normal. The lungs are clear. No focal consolidation, pleural effusion, or pneumothorax. No radiopaque foreign body.
+Impression: No acute cardiopulmonary process.",0.6804541255935276
+302,CXR891_IM-2403,"<think>
+
+</think>
+
+Findings: The heart size is normal. The mediastinal and hilar contours are unremarkable. The pulmonary vascularity is normal. Lungs are clear. No pleural effusion or pneumothorax is present. No acute osseous abnormality is present.
+Impression: No acute cardiopulmonary process.",0.6304118198948214
+303,CXR3546_IM-1738,"<think>
+
+</think>
+
+Findings: There is moderate cardiomegaly. The mediastinal and hilar contours are within normal limits. There are low lung volumes and bibasilar atelectasis. There is no focal consolidation or pneumothorax. Small bilateral effusions cannot be excluded.
+Impression: Moderate cardiomegaly and low lung volumes.",0.5655805568084687
+304,CXR3958_IM-2022,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest were obtained. The lungs are clear without focal consolidation, pleural effusion or pneumothorax. Heart size is normal. Mediastinal silhouette and hilar contours are normal. No osseous abnormality is identified.
+Impression: Normal chest radiographs.",0.5971477810138393
+305,CXR757_IM-2308,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. There is no focal consolidation, pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal. Hardware from cervical fusion is noted. There are no concerning osseous or soft tissue lesions.
+Impression: No acute intrathoracic process.",0.6820465618844546
+306,CXR657_IM-2233-0001,"<think>
+
+</think>
+
+Findings: The heart size is within normal limits. There is mild pulmonary vascular engorgement without frank pulmonary edema. No focal consolidation is identified. No pleural effusion or pneumothorax is seen. There are no acute osseous abnormalities.
+Impression: Mild pulmonary vascular engorgement without frank pulmonary edema.",0.667741908604964
+307,CXR1210_IM-0142,"<think>
+
+</think>
+
+Findings: The cardiomediastinal and hilar contours are normal. The lungs are well expanded and clear, without consolidation, pleural effusion or pneumothorax. Mild degenerative changes of the thoracic spine are present.
+Impression: No acute cardiopulmonary pathology.",0.7046027492833039
+308,CXR3657_IM-1818,"<think>
+
+</think>
+
+Findings: The heart size is normal. The mediastinal and hilar contours are unremarkable. There is no pneumothorax or pleural effusion. The lungs are well expanded and clear. The pulmonary vascularity is within normal limits. The osseous structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.6465071293139468
+309,CXR2314_IM-0889,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate hyperinflated lungs with flattened diaphragms, consistent with chronic obstructive pulmonary disease. However, there is no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.5853931463098506
+310,CXR1399_IM-0255,"<think>
+
+</think>
+
+Findings: The lungs are mildly hyperinflated and the diaphragms are flattened, consistent with copd. The heart is not enlarged. There is no definite chf, focal infiltrate, or effusion. There is minimal atelectasis at the left base.
+Impression: Findings consistent with copd. No acute pulmonary process identified.",0.3988445503697199
+311,CXR2285_IM-0870,"<think>
+
+</think>
+
+Findings: The heart is moderately enlarged, slightly larger than on prior exams. There is central vascular engorgement, but no overt edema. No definite pleural effusions are seen. There is no pneumothorax.
+Impression: Moderate cardiomegaly with central vascular engorgement, but no overt edema.",0.5263112358363788
+312,CXR1899_IM-0582,"<think>
+
+</think>
+
+Findings: Pa and lateral radiographs demonstrate no focal consolidation, no pleural effusion or pneumothorax. The cardiomediastinal silhouette is within normal limits. A chronic right posterior rib fracture is again noted. Surgical anchors project over the right humeral head. There is no acute osseous abnormality.
+Impression: No acute intrathoracic process.",0.7487937795902267
+313,CXR2378_IM-0938,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate normal cardiomediastinal silhouette. The lungs are clear. There is no pneumothorax, vascular congestion, or pleural effusion. A left picc is seen in place with tip in the lower svc. Surgical clips project over the upper abdomen.
+Impression: No acute cardiopulmonary process.",0.6374122597122813
+314,CXR3523_IM-1721,"<think>
+
+</think>
+
+Findings: The heart size is normal. Mediastinal and hilar contours are unchanged. Surgical clips are noted overlying the right axilla. Lungs are clear. No pleural effusion or pneumothorax is present. The pulmonary vascularity is normal. No acute osseous abnormality is seen.
+Impression: No acute cardiopulmonary process.",0.4753726892775423
+315,CXR1953_IM-0621,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. The lungs are clear. There is no pneumothorax or pleural effusion. The cardiac and mediastinal contours are normal. There is no acute osseous abnormality.
+Impression: No acute cardiopulmonary process.",0.6394350497682365
+316,CXR3348_IM-1605,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. The heart is moderately enlarged, increased in size since prior. There is no evidence of pulmonary vascular congestion or pulmonary edema. The lungs are clear. No pleural effusion or pneumothorax. No radiopaque foreign body.
+Impression: Moderate cardiomegaly without evidence of decompensation.",0.6366022321571005
+317,CXR3705_IM-1851-1001,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. The lungs are clear without focal opacity, pleural effusion or pneumothorax. Heart size and cardiomediastinal contours are stable. Median sternotomy wires and mediastinal clips are again noted. Degenerative changes are seen in the thoracic spine.
+Impression: No acute cardiopulmonary process.",0.5453729916410366
+318,CXR1943_IM-0612,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There is a 7 mm calcified granuloma in the right lower lobe. The lungs are otherwise clear. There is no evidence of consolidation, effusion, or pneumothorax. The cardiomediastinal silhouette is normal. No acute osseous abnormality is identified.
+Impression: No acute cardiopulmonary process.",0.674176959015544
+319,CXR3388_IM-1633,"<think>
+
+</think>
+
+Findings: Frontal and lateral chest radiographs demonstrate mild rightward deviation of the trachea, similar in appearance compared to prior exams. There is no pleural effusion, pneumothorax, or focal consolidation. The heart size is normal. There is no evidence of pulmonary edema. The mediastinal contours are within normal limits.
+Impression: No acute cardiopulmonary process.",0.6071435841592892
+320,CXR1126_IM-0082,"<think>
+
+</think>
+
+Findings: Frontal and lateral chest radiograph demonstrates well expanded lungs with mild left lower lobe atelectasis. No pleural effusion or pneumothorax is seen. Heart size is top normal. There is no pulmonary edema. Median sternotomy wires are intact. There is stable aortic tortuosity. The pleural surfaces are unremarkable.
+Impression: No evidence of pneumonia.",0.5565375529282748
+321,CXR2797_IM-1229,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate low lung volumes. There is no pleural effusion, focal consolidation or pneumothorax. Hilar and mediastinal silhouettes are unremarkable. Heart size is normal. There is no pulmonary edema. Partially imaged upper abdomen is unremarkable.
+Impression: No evidence of acute cardiopulmonary process.",0.5289700687098883
+322,CXR3691_IM-1842,"<think>
+
+</think>
+
+Findings: Compared to the prior study, there is no significant change. No evidence of pneumonia. Cardiac and mediastinal silhouettes are stable. No pulmonary vascular congestion. No pleural effusion.
+Impression: No evidence of pneumonia. No significant change compared to prior study. Cardiac and mediastinal silhouettes are stable. No pulmonary vascular congestion. No pleural effusion.",0.5866123439461062
+323,CXR2082_IM-0714,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate diffuse alveolar opacities with a perihilar predominance, likely pulmonary edema. There is no pleural effusion or pneumothorax. The heart size is top normal. The cardiac, hilar, and mediastinal contours are normal.
+Impression: Diffuse alveolar opacities, likely pulmonary edema.",0.6688386569188421
+324,CXR3712_IM-1854,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate multiple clips in the upper abdomen. There is severe dextroscoliosis of the thoracic spine. There is mild cardiomegaly. The lungs are grossly clear. There is no pleural effusion or pneumothorax. The mediastinum appears normal.
+Impression: No acute cardiopulmonary process.",0.5041897877578834
+325,CXR3124_IM-1468,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate normal cardiomediastinal silhouette. There is enlargement of the pulmonary artery, with a suggestion of a double contour to the right main pulmonary artery, better characterized on prior ct. There is no pneumothorax, vascular congestion, or pleural effusion.
+Impression: Enlargement of the pulmonary artery, better characterized on prior ct, without evidence of pulmonary edema.",0.6933017341296046
+326,CXR423_IM-2066-0001,"<think>
+
+</think>
+
+Findings: Two portable views of the chest. Exam is limited secondary to patient body habitus and portable technique. Allowing for this, there is no definite confluent consolidation. Previously seen small bilateral pleural effusions have decreased in size. The cardiomediastinal silhouette is stable. A nasoenteric tube is again noted.
+Impression: Limited exam without definite acute cardiopulmonary process. Decreased bilateral pleural effusions.",0.6129798619682785
+327,CXR353_IM-1726,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate diffuse interstitial and airspace opacities, which may represent pulmonary edema, however, superimposed infection cannot be excluded. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: Diffuse interstitial and airspace opacities, which may represent pulmonary edema, however, superimposed infection cannot be excluded.",0.48202770764852765
+328,CXR3651_IM-1813,"<think>
+
+</think>
+
+Findings: The cardiac, mediastinal and hilar contours are normal. Both lungs show mild prominence of the interstitial markings which may be due to underlying chronic lung disease. There are no focal areas of consolidation, pleural effusion or pneumothorax.
+Impression: No evidence of intrathoracic malignancy.",0.6266526959625257
+329,CXR1346_IM-0224,"<think>
+
+</think>
+
+Findings: Single ap radiograph is provided. A right central venous catheter ends in the low svc. The lung volumes are low. The heart size is normal. The mediastinal contours are normal. There is no focal consolidation, pleural effusion or pneumothorax. Surgical clips are noted in the right upper quadrant.
+Impression: Right central venous catheter ends in the low svc. No pneumothorax.",0.6791702101045561
+330,CXR831_IM-2358,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. Low lung volumes are seen. The lungs however remain clear of consolidation, effusion or pulmonary vascular congestion. Cardiomediastinal silhouette is within normal limits. No acute osseous abnormality detected.
+Impression: No acute cardiopulmonary process.",0.702329320872785
+331,CXR3025_IM-1400,"<think>
+
+</think>
+
+Findings: Frontal and lateral radiographs of the chest show clear lungs. The cardiomediastinal and hilar contours are unremarkable. No pneumothorax, pleural effusion, or consolidation is seen. No rib fracture is seen.
+Impression: 1. No acute cardiopulmonary process. 2. No rib fracture seen. If there is clinical concern for rib fracture, dedicated rib films with a marker placed at the site of pain is recommended.",0.7901673360880076
+332,CXR2502_IM-1027-1001,"<think>
+
+</think>
+
+Findings: There is a large mass in the right upper lobe. There is a small right pleural effusion. There is mild pulmonary vascular redistribution. The heart size is normal. There is a small left effusion. There is a compression fracture of the l1 vertebral body. The right hemidiaphragm is elevated.
+Impression: 1. Large right upper lobe mass. 2. Pulmonary vascular redistribution and bilateral pleural effusions.",0.5215394451973075
+333,CXR3391_IM-1637,"<think>
+
+</think>
+
+Findings: The examination is limited secondary to low lung volumes. Within this limitation, there is no focal consolidation, pleural effusion, pneumothorax, or evidence of pulmonary edema. The cardiomediastinal silhouette is unremarkable. The osseous structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.5507937197506491
+334,CXR3171_IM-1494,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest show interval improvement in interstitial markings, compatible with improving pulmonary edema. The lungs are better expanded and there are no areas of focal consolidation. Heart size is top normal. The hilar and mediastinal contours are unremarkable. There is no pneumothorax or pleural effusion. Cervical fusion hardware is partially imaged and unchanged.
+Impression: Interval improvement in pulmonary edema. No evidence of pneumonia.",0.5169071492629246
+335,CXR2168_IM-0784,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate normal cardiomediastinal silhouette. The lungs are well expanded and clear. There is no pneumothorax, vascular congestion, or pleural effusion. S-shaped scoliosis of the thoracolumbar spine is noted.
+Impression: No acute cardiopulmonary process.",0.7049208098584696
+336,CXR3359_IM-1612,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate normal cardiomediastinal silhouette. The lungs are well expanded and clear. There is no pneumothorax, vascular congestion, or pleural effusion. Mild dextroscoliosis of the thoracic spine is noted.
+Impression: No acute cardiopulmonary process.",0.5984586318853957
+337,CXR1799_IM-0519,"<think>
+
+</think>
+
+Findings: Pa and lateral views the chest are obtained. There is mild cardiomegaly, stable. There is mild central pulmonary vascular congestion. No overt pulmonary edema is seen. There is no pleural effusion or pneumothorax. Mediastinal contour is normal. Osseous structures are unremarkable.
+Impression: Mild cardiomegaly with central vascular congestion. No overt pulmonary edema.",0.546068426728108
+338,CXR1622_IM-0404,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest were obtained. The heart size and cardiomediastinal contours are normal. The lungs are clear. No focal consolidation, pleural effusion, or pneumothorax. No displaced rib fracture is seen.
+Impression: No displaced rib fracture. If there is continued concern for rib fracture, consider dedicated rib radiographs with a skin marker indicating the site of pain.",0.6537200583289948
+339,CXR2327_IM-0898,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There is a moderate right pleural effusion and a small left pleural effusion. The right pleural effusion has increased in size since ___. There is no focal consolidation. No pneumothorax. The cardiomediastinal and hilar contours are normal.
+Impression: Moderate right pleural effusion and small left pleural effusion, increased in size since ___.",0.6324117584529143
+340,CXR2743_IM-1197,"<think>
+
+</think>
+
+Findings: The lungs are well inflated. There is a right middle lobe opacity. No other focal opacities are seen. There is no pleural effusion or pneumothorax. The cardiac silhouette is normal in size. The mediastinal contours are normal.
+Impression: Right middle lobe opacity. In the appropriate clinical setting, this may represent pneumonia. Follow up radiograph is recommended in 4 weeks to document resolution.",0.5487217849926173
+341,CXR2866_IM-1273,"<think>
+
+</think>
+
+Findings: The heart size is normal. The hilar and mediastinal contours are within normal limits. There is no pneumothorax, focal consolidation, or pleural effusion. There is mild prominence of the pulmonary interstitium, which is nonspecific and could be seen in the setting of mild interstitial edema or viral infection.
+Impression: Nonspecific mild prominence of the interstitium, which could be seen in the setting of mild interstitial edema or viral infection.",0.5638009329981127
+342,CXR800_IM-2334,"<think>
+
+</think>
+
+Findings: Frontal and lateral chest radiographs demonstrate a large retrocardiac opacity, likely representing a hiatal hernia. Lung volumes are low, exaggerating the pulmonary vasculature and cardiac silhouette. The lungs are otherwise clear. There is no pleural effusion or pneumothorax. Multilevel degenerative changes of the thoracic spine are noted. Severe degenerative changes of bilateral glenohumeral joints are also seen.
+Impression: Large retrocardiac opacity, likely representing a hiatal hernia.",0.6381215630212784
+343,CXR2081_IM-0713,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. The heart is normal size and cardiomediastinal silhouette is unremarkable. There is a 7 mm nodular opacity projecting over the left mid lung, over the left fifth posterior rib. There is also a second 7 mm nodular opacity projecting over the left lower lung, over the left ninth rib. There is no focal consolidation, pleural effusion or pneumothorax.
+Impression: 1. No evidence of pneumonia. 2. Two left lung nodular opacities. Recommend non-emergent chest ct for further evaluation.",0.5363021188059539
+344,CXR1591_IM-0384,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate low lung volumes. The lungs are clear. The hilar and mediastinal silhouettes are unremarkable. The heart size is normal. There is no pneumothorax, pleural effusion, or pulmonary edema. Partially imaged upper abdomen is unremarkable.
+Impression: No evidence of acute cardiopulmonary process.",0.5226029118068536
+345,CXR2190_IM-0800,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate a normal cardiomediastinal silhouette. No evidence of pulmonary edema, pleural effusion, or focal consolidation. A spinal stimulator is in place. The osseous structures are grossly unremarkable.
+Impression: No acute cardiopulmonary process.",0.6642520302796325
+346,CXR700_IM-2265,"<think>
+
+</think>
+
+Findings: There is mild elevation of the right hemidiaphragm. The lungs are clear. There is no pneumothorax or pleural effusion. Heart size is normal. The mediastinal silhouette is unremarkable. There are degenerative changes in the spine.
+Impression: No acute cardiopulmonary process.",0.6801510330592759
+347,CXR2713_IM-1180,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. Low lung volumes cause bronchovascular crowding. The cardiomediastinal silhouette is unremarkable. Bibasilar opacities are likely atelectasis. No pneumothorax or pleural effusion is seen.
+Impression: Bibasilar atelectasis.",0.7644760913577521
+348,CXR3193_IM-1505,"<think>
+
+</think>
+
+Findings: Heart size and mediastinal contours are normal. A small amount of fluid is noted in the major fissure on the right. There is no focal consolidation or pleural effusion. No pneumothorax is present. Bilateral hilar fullness is noted.
+Impression: 1. Small amount of fluid in the right major fissure. 2. Bilateral hilar fullness which could be due to underlying adenopathy or vascular prominence.",0.5602197852205799
+349,CXR1471_IM-0304,"<think>
+
+</think>
+
+Findings: Frontal and lateral chest radiograph demonstrates hyperinflated lungs with flattening of the hemidiaphragms and increased retrosternal clear space. No pleural effusion, pneumothorax or focal consolidation. No overt pulmonary edema. Heart size is normal. The cardiomediastinal silhouette is unremarkable. There is no evidence of pulmonary edema. The visualized osseous structures demonstrate no acute abnormality.
+Impression: Hyperinflated lungs with flattening of the hemidiaphragms and increased retrosternal clear space. Otherwise unremarkable chest radiograph.",0.6127467842811065
+350,CXR491_IM-2111,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. Lung volumes are decreased with bibasilar atelectasis. No focal consolidation, pleural effusion, or pneumothorax. Cardiomediastinal and hilar contours are normal.
+Impression: No acute cardiopulmonary process.",0.6963265210672718
+351,CXR3039_IM-1412,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.7026125177373203
+352,CXR238_IM-0939,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate no focal consolidation, pleural effusion, or pneumothorax. The heart size is normal. The cardiac, hilar, and mediastinal contours are unremarkable.
+Impression: No acute cardiopulmonary process.",0.724590887178789
+353,CXR1701_IM-0462,"<think>
+
+</think>
+
+Findings: The lungs are well-expanded and clear. The cardiomediastinal silhouette is unremarkable. There is no pleural effusion, pneumothorax, or pulmonary edema. There are no acute osseous abnormalities.
+Impression: No acute cardiopulmonary process.",0.6832543467443323
+354,CXR3534_IM-1727,"<think>
+
+</think>
+
+Findings: The lungs are clear. Heart size is normal. No pleural effusion or pneumothorax.
+Impression: No acute cardiopulmonary process.",0.7910341913300705
+355,CXR1960_IM-0627,"<think>
+
+</think>
+
+Findings: The heart is normal in size. The mediastinal and hilar contours are within normal limits. The lungs are clear. There is no pleural effusion or pneumothorax. There is no acute bony abnormality.
+Impression: No evidence of pneumonia.",0.7504892508300964
+356,CXR2577_IM-1077,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest were obtained. The heart is of normal size with normal cardiomediastinal contours. Lung volumes are low. No focal consolidation, pleural effusion, or pneumothorax. Osseous structures are unremarkable. No radiopaque foreign bodies.
+Impression: No acute cardiopulmonary process.",0.5569956541028475
+357,CXR1598_IM-0389,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiograph demonstrate unremarkable cardiomediastinal and hilar contours. Lungs are clear. There is no pleural effusion or pneumothorax.
+Impression: Normal chest radiograph.",0.7790651143119346
+358,CXR2211_IM-0818,"<think>
+
+</think>
+
+Findings: The heart is enlarged. The lungs are clear. The costophrenic angles are sharp.
+Impression: Cardiomegaly.",0.6962691247099803
+359,CXR1175_IM-0119,"<think>
+
+</think>
+
+Findings: The lungs are clear. The heart and mediastinum are unremarkable. The bony thorax is normal.
+Impression: No acute cardiopulmonary disease.",0.6713440125923834
+360,CXR2865_IM-1273,"<think>
+
+</think>
+
+Findings: The lungs are clear without infiltrate or effusion. The cardiac and mediastinal silhouettes are normal. There is no pneumothorax.
+Impression: No acute disease.",0.6760767879156869
+361,CXR814_IM-2345,"<think>
+
+</think>
+
+Findings: The lungs are clear. The heart is normal in size. The aorta is unfolded. Degenerative changes are seen in the spine.
+Impression: No acute cardiopulmonary process.",0.5593636151105726
+362,CXR3653_IM-1815,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate low lung volumes. There is no pleural effusion, focal consolidation or pneumothorax. Hilar and mediastinal silhouettes are unremarkable. Heart size is top normal. Mild pulmonary edema is present. Partially imaged upper abdomen is unremarkable.
+Impression: Mild pulmonary edema.",0.5993924848223408
+363,CXR1133_IM-0090,"<think>
+
+</think>
+
+Findings: The heart size remains moderately enlarged. There is no mediastinal widening. There is no pleural effusion or pneumothorax. There is no focal consolidation concerning for pneumonia. There is mild central pulmonary vascular congestion. Aortic arch calcifications are again noted.
+Impression: Mild pulmonary vascular congestion. No evidence of pneumonia.",0.4139942898721521
+364,CXR3814_IM-1923,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. The cardiomediastinal silhouette is normal. No acute osseous abnormalities identified.
+Impression: No acute cardiopulmonary process.",0.48458676786148436
+365,CXR3321_IM-1588,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. The lungs are clear without focal consolidation, pleural effusion, or pneumothorax. The cardiac and mediastinal contours are normal. No acute osseous abnormality is seen.
+Impression: No acute cardiopulmonary process.",0.6538698120730265
+366,CXR2618_IM-1107,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate low lung volumes. There is no focal consolidation, pleural effusion, or pneumothorax. Cardiomediastinal silhouette is within normal limits. The bones are intact.
+Impression: No acute cardiopulmonary process.",0.6230043769735434
+367,CXR859_IM-2380,"<think>
+
+</think>
+
+Findings: Frontal and lateral radiographs of the chest demonstrate normal heart size, mediastinal and hilar contours. Clear lungs. No pleural effusion or pneumothorax. No displaced rib fracture identified. Surgical clips noted in the upper abdomen.
+Impression: Normal chest radiograph.",0.6263658407128935
+368,CXR1964_IM-0629,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest demonstrate well-expanded and clear lungs. Heart is normal in size and cardiomediastinal contour is unremarkable. There is no pleural effusion or pneumothorax. The bony structures are grossly intact.
+Impression: No acute intrathoracic abnormality.",0.7049887687592523
+369,CXR3282_IM-1563,"<think>
+
+</think>
+
+Findings: Two views of the chest were obtained. The lung volumes are low which leads to bronchovascular crowding. No focal consolidation is seen. The heart is of normal size with normal cardiomediastinal contours. No pleural effusion or pneumothorax.
+Impression: Low lung volumes. No focal consolidation.",0.8209385101241544
+370,CXR1543_IM-0353,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. Mild cardiomegaly is chronic. Pulmonary vascular congestion is unchanged since ___. There is no evidence of pulmonary edema. There is no pleural effusion. There is no pneumothorax. The lungs are clear.
+Impression: No acute cardiopulmonary abnormality.",0.5025769467734318
+371,CXR1855_IM-0555,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest demonstrate increased opacification in the left lower lobe which obscures the left hemidiaphragm. This is consistent with pneumonia. There is no pleural effusion or pneumothorax. The cardiac and mediastinal contours are normal. There is no acute osseous abnormality.
+Impression: Left lower lobe pneumonia.",0.5111590423423509
+372,CXR1255_IM-0172-1001,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest were obtained. The right pleural catheter has been removed. No pneumothorax. Mild pulmonary vascular congestion is unchanged. No pleural effusion. Low lung volumes cause bronchovascular crowding. Bibasilar atelectasis is unchanged. The heart is mildly enlarged. Mediastinal silhouette is stable.
+Impression: No pneumothorax.",0.5888770918631439
+373,CXR386_IM-1954,"<think>
+
+</think>
+
+Findings: Semi-upright ap and lateral views of the chest. The lungs are clear. There is no effusion or pneumothorax. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities detected.
+Impression: No acute cardiopulmonary process.",0.5390825963899482
+374,CXR2355_IM-0919,"<think>
+
+</think>
+
+Findings: Pa and lateral views of chest demonstrate low lung volumes. There is moderate cardiomegaly. No focal consolidation is seen. There is no pleural effusion. Pulmonary vascular markings are prominent, suggesting mild edema.
+Impression: Low lung volumes. Moderate cardiomegaly. Pulmonary vascular markings are prominent suggesting mild edema. No pleural effusion.",0.6283881517268074
+375,CXR1109_IM-0076,"<think>
+
+</think>
+
+Findings: The heart size is normal. The mediastinal and hilar contours are unremarkable. The lungs are clear. No pleural effusion or pneumothorax is seen. No acute fractures are noted.
+Impression: No acute cardiopulmonary process. No acute fracture is identified. If there is continued clinical concern for rib fracture, then a dedicated rib series is recommended.",0.5827224633035333
+376,CXR1466_IM-0302,"<think>
+
+</think>
+
+Findings: The cardiomediastinal and hilar contours are normal. The lungs are clear, without consolidation, pleural effusion or pneumothorax. No displaced fracture is seen.
+Impression: No acute cardiopulmonary pathology.",0.6501334084681075
+377,CXR1094_IM-0065,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. Right picc tip is in the mid svc. The lungs are clear. Cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities.
+Impression: No acute cardiopulmonary process.",0.5277461116749897
+378,CXR3083_IM-1442,"<think>
+
+</think>
+
+Findings: The lungs are clear without infiltrate or effusion. Cardiac and mediastinal silhouettes are normal. Bony structures are normal.
+Impression: Normal chest.",0.5637059568098414
+379,CXR1158_IM-0107,"<think>
+
+</think>
+
+Findings: The heart is mildly enlarged, stable from the prior study. There is a tortuous aorta. The lungs are clear without infiltrate or effusion. The bony thorax is normal. There is no pneumothorax.
+Impression: No acute cardiopulmonary disease.",0.7198172980703584
+380,CXR2210_IM-0817,"<think>
+
+</think>
+
+Findings: The lungs are well expanded. On the lateral view, there is increased density at the posterior lung base with blunting of the costophrenic angle. The cardiac silhouette and mediastinal contours are normal. There is no pneumothorax.
+Impression: Left posterior lung base opacity with small pleural effusion. In the acute setting, findings may represent atelectasis or pneumonia. In the chronic setting, findings may represent pleural thickening. Correlation with clinical history is recommended.",0.573926536824211
+381,CXR710_IM-2273,"<think>
+
+</think>
+
+Findings: The lungs are clear. The heart and mediastinal structures are normal. The bony thorax is unremarkable.
+Impression: No acute cardiopulmonary disease.",0.5051309119200398
+382,CXR2706_IM-1172,"<think>
+
+</think>
+
+Findings: The lungs are clear. The heart size is normal. The aorta is mildly tortuous. There are no pleural effusions. No pneumothorax.
+Impression: No acute cardiopulmonary process.",0.5697053914833509
+383,CXR2660_IM-1142,"<think>
+
+</think>
+
+Findings: There is mild cardiomegaly. There is mild pulmonary vascular redistribution. The lungs are clear. There is no focal infiltrate.
+Impression: No focal infiltrate.",0.44648270997215195
+384,CXR908_IM-2413,"<think>
+
+</think>
+
+Findings: The lungs are clear. The heart and mediastinal structures are normal. The bony thorax is unremarkable.
+Impression: No evidence for intrathoracic malignancy.",0.5623205500917878
+385,CXR1623_IM-0405,"<think>
+
+</think>
+
+Findings: The lungs are clear. The cardiomediastinal silhouette is unremarkable. The osseous structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.6504644115529624
+386,CXR301_IM-1389,"<think>
+
+</think>
+
+Findings: Cardiac silhouette is within normal limits and there is no evidence of vascular congestion, pleural effusion, or acute focal pneumonia.
+Impression: No acute cardiopulmonary process.",0.5750406597631667
+387,CXR3976_IM-2035,"<think>
+
+</think>
+
+Findings: The heart, mediastinum, hila, pleura, lungs, and osseous structures are all unremarkable.
+Impression: No active disease.",0.49897341514076154
+388,CXR3118_IM-1466,"<think>
+
+</think>
+
+Findings: The cardiomediastinal and hilar contours are normal. The lungs are well expanded and clear, without consolidation, pleural effusion or pneumothorax.
+Impression: No acute cardiopulmonary pathology.",0.6227417319752214
+389,CXR1280_IM-0187,"<think>
+
+</think>
+
+Findings: The lungs are clear. The heart and mediastinal structures are unremarkable. The bony thorax is grossly intact.
+Impression: No acute cardiopulmonary disease.",0.5384442913308776
+390,CXR2008_IM-0658,"<think>
+
+</think>
+
+Findings: The lungs are clear. Cardiac and mediastinal contours are normal. There are no pleural effusions. No pneumothorax.
+Impression: No acute cardiac or pulmonary process.",0.7275718669229716
+391,CXR1697_IM-0458,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs. The lungs are clear. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.868855342260473
+392,CXR2291_IM-0874,"<think>
+
+</think>
+
+Findings: Cardiomediastinal silhouette is normal. Lungs are clear. No pleural effusion. No pneumothorax. Bones are normal.
+Impression: Normal chest radiograph",0.6815957537269391
+393,CXR2760_IM-1207,"<think>
+
+</think>
+
+Findings: The lungs are clear. The cardiomediastinal silhouette is normal. There are no pleural effusions. There is no pneumothorax.
+Impression: No acute pulmonary process.",0.6794624597548033
+394,CXR3975_IM-2035,"<think>
+
+</think>
+
+Findings: The cardiomediastinal and hilar contours are normal. The lungs are well expanded and clear, without consolidation, pleural effusion or pneumothorax.
+Impression: No acute cardiopulmonary pathology.",0.7572837768151506
+395,CXR539_IM-2145,"<think>
+
+</think>
+
+Findings: The lungs are well expanded and clear. There is no focal consolidation, effusion, or pneumothorax. Cardiac and mediastinal contours are normal. No acute fracture is identified.
+Impression: Normal chest radiograph.",0.7510350538622058
+396,CXR1683_IM-0449,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs. The lungs are clear. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: Normal chest radiographs.",0.5275064127125723
+397,CXR1130_IM-0087,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There is no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.5678951273769466
+398,CXR3639_IM-1804,"<think>
+
+</think>
+
+Findings: Heart size is mildly enlarged. Mediastinum is unremarkable. Lungs are clear. There is no pleural effusion or pneumothorax.
+Impression: No evidence of pneumonia.",0.716731979826645
+399,CXR605_IM-2194,"<think>
+
+</think>
+
+Findings: Frontal and lateral radiographs of the chest demonstrate normal heart size, mediastinal and hilar contours. No focal consolidation, pleural effusion or pneumothorax. No displaced rib fracture.
+Impression: Normal chest radiograph.",0.4799645118625864
+400,CXR3836_IM-1939,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormality detected.
+Impression: No acute cardiopulmonary process.",0.6682013132080348
+401,CXR1610_IM-0395,"<think>
+
+</think>
+
+Findings: There is mild cardiomegaly. The lungs are clear. There is no pneumothorax or pleural effusion. The pulmonary vascularity is normal.
+Impression: Mild cardiomegaly.",0.4127674526792451
+402,CXR399_IM-2043,"<think>
+
+</think>
+
+Findings: The lungs are well expanded and clear. Cardiomediastinal silhouette is unremarkable. There is no pneumothorax or pleural effusion. No focal consolidation is present.
+Impression: No acute cardiopulmonary process.",0.6727399246443682
+403,CXR3576_IM-1757,"<think>
+
+</think>
+
+Findings: The lungs are well expanded and clear. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is unremarkable.
+Impression: No acute cardiopulmonary process.",0.9661351909352133
+404,CXR3721_IM-1859,"<think>
+
+</think>
+
+Findings: The lungs are well expanded and clear. There is no pulmonary edema, pleural effusion, or pneumothorax. The heart size is normal. The hilar and mediastinal contours are normal.
+Impression: No acute cardiopulmonary process.",0.6125858521659039
+405,CXR3224_IM-1524,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. The cardiomediastinal silhouette is within normal limits. Osseous and soft tissue structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.6773831631731521
+406,CXR3582_IM-1761,"<think>
+
+</think>
+
+Findings: The lungs are clear with no evidence of consolidation, effusion, or pneumothorax. Cardiomediastinal silhouette is normal. No acute fractures are identified.
+Impression: No acute cardiopulmonary process.",0.6526264896077506
+407,CXR3964_IM-2028,"<think>
+
+</think>
+
+Findings: The lungs are clear. There is no focal consolidation or pneumothorax. There is no pleural effusion. The cardiomediastinal silhouette is normal. No fracture.
+Impression: No acute cardiopulmonary process.",0.5302083847432344
+408,CXR2275_IM-0862,"<think>
+
+</think>
+
+Findings: Frontal and lateral radiographs of the chest demonstrate normal heart size. The cardiomediastinal silhouette and hilar contours are normal. The lungs are clear. No pleural effusion or pneumothorax. No displaced rib fracture identified.
+Impression: Normal chest radiograph.",0.6688381720661427
+409,CXR1788_IM-0513,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate normal cardiomediastinal silhouette. The lungs are clear. There is no pneumothorax, vascular congestion, or pleural effusion.
+Impression: No acute cardiopulmonary process.",0.6589888613016133
+410,CXR367_IM-1826,"<think>
+
+</think>
+
+Findings: The lungs are well inflated and clear. The cardiomediastinal silhouette, hilar contours, and pleural surfaces are normal. There is no pleural effusion or pneumothorax.
+Impression: No acute cardiopulmonary process.",0.7978750267723593
+411,CXR3378_IM-1627,"<think>
+
+</think>
+
+Findings: Cardiomediastinal silhouette is normal. The lungs are clear. There is no pleural effusion or pneumothorax. No acute fractures are identified. Surgical clips are noted in the right axilla.
+Impression: No acute intrathoracic process.",0.5432661856738451
+412,CXR419_IM-2062,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate clear lungs. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.611076448029698
+413,CXR2151_IM-0771,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. The cardiomediastinal silhouette is within normal limits. Osseous structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.452622535015564
+414,CXR1574_IM-0374,"<think>
+
+</think>
+
+Findings: The cardiomediastinal and hilar contours are normal. There is no pleural effusion or pneumothorax. The lungs are well expanded and clear. Pulmonary vasculature is within normal limits.
+Impression: No acute cardiopulmonary process.",0.8714155463962048
+415,CXR3428_IM-1657,"<think>
+
+</think>
+
+Findings: Frontal and lateral radiographs of the chest demonstrate normal heart size, mediastinal and hilar contours. No focal consolidation, pleural effusion or pneumothorax. The upper abdomen is unremarkable.
+Impression: No acute process.",0.6165259984555331
+416,CXR1226_IM-0150,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate low lung volumes. There is no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.6459331612262392
+417,CXR3360_IM-1613,"<think>
+
+</think>
+
+Findings: The heart is normal in size. The mediastinal and hilar contours are unremarkable. The pulmonary vasculature is normal. The lungs are clear. There are no pleural effusions or pneumothoraces.
+Impression: No acute cardiopulmonary process.",0.690132670238768
+418,CXR1851_IM-0553,"<think>
+
+</think>
+
+Findings: The lungs are well expanded and clear. Cardiomediastinal and hilar contours are normal. There is no pleural effusion or pneumothorax.
+Impression: No acute cardiopulmonary process.",0.6844961425011006
+419,CXR2695_IM-1166,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs were provided. There is no focal consolidation, pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal. The bones are intact.
+Impression: No acute cardiopulmonary process.",0.44539790723089306
+420,CXR661_IM-2238,"<think>
+
+</think>
+
+Findings: The lungs are clear. The heart is within normal limits in size. The aorta is tortuous. There is an old healed fracture of the left clavicle. There are mild degenerative changes in the thoracic spine.
+Impression: No active lung disease.",0.6540235623661292
+421,CXR929_IM-2427,"<think>
+
+</think>
+
+Findings: The lungs are well expanded and clear. There is no focal consolidation, effusion, or pneumothorax. Cardiac and mediastinal contours are normal. Surgical clips in the neck are again noted.
+Impression: No acute cardiopulmonary process.",0.4735457505478349
+422,CXR1911_IM-0593,"<think>
+
+</think>
+
+Findings: The lungs are clear. No focal consolidation, pleural effusion or pneumothorax. The cardiac silhouette is normal in size. The mediastinal contours are normal. The pulmonary vasculature is normal.
+Impression: No acute cardiopulmonary process.",0.7599355228595934
+423,CXR3204_IM-1513,"<think>
+
+</think>
+
+Findings: Frontal and lateral chest radiographs were obtained. The lungs are clear. No focal consolidation, effusion, pneumothorax is present. The heart and mediastinal contours are normal.
+Impression: No acute cardiopulmonary process.",0.6363551725970046
+424,CXR2247_IM-0844,"<think>
+
+</think>
+
+Findings: Frontal and lateral radiographs of the chest demonstrate normal heart size. The cardiomediastinal silhouette and hilar contours are normal. The lungs are clear. No pleural effusion or pneumothorax. No displaced rib fracture identified.
+Impression: Normal chest radiograph",0.8910453143063073
+425,CXR3302_IM-1579,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate no focal consolidation, pleural effusion, or pneumothorax. The heart size is normal. The cardiac, hilar, and mediastinal contours are within normal limits.
+Impression: No acute cardiopulmonary process.",0.7626444664981478
+426,CXR2290_IM-0874,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs were obtained. The lungs are well expanded and clear. There is no focal consolidation, effusion or pneumothorax. Cardiac and mediastinal contours are normal.
+Impression: No acute cardiopulmonary process.",0.70254213621218
+427,CXR1085_IM-0059,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. Cardiomediastinal silhouette is normal. Lungs are clear. There is no pleural effusion or pneumothorax. Bones are grossly normal.
+Impression: No acute intrathoracic abnormality.",0.704892926341405
+428,CXR968_IM-2458,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. The lungs are clear of consolidation, effusion, or pneumothorax. The cardiomediastinal silhouette is normal. No displaced fractures identified.
+Impression: No acute cardiopulmonary process.",0.4212038659637392
+429,CXR3746_IM-1872,"<think>
+
+</think>
+
+Findings: The lungs are well expanded and clear. No focal consolidation, pleural effusion, pulmonary edema, or pneumothorax. The heart size is top normal. The descending thoracic aorta is tortuous, unchanged from the prior exam.
+Impression: No acute cardiopulmonary process.",0.5125029680066848
+430,CXR1110_IM-0076,"<think>
+
+</think>
+
+Findings: There is stable mild cardiomegaly and the mediastinal and hilar contours are unremarkable. There is no chf, focal infiltrate, pleural effusion or pneumothorax.
+Impression: No acute pulmonary process. Stable mild cardiomegaly.",0.5855412374875288
+431,CXR511_IM-2127,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. There is no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal and hilar contours are normal.
+Impression: No acute cardiopulmonary process.",0.6278597614004502
+432,CXR1517_IM-0335,"<think>
+
+</think>
+
+Findings: Pa and lateral radiographs of the chest demonstrate clear lungs bilaterally. The cardiomediastinal and hilar contours are within normal limits. There is no pneumothorax, pleural effusion, or consolidation.
+Impression: No acute cardiopulmonary process.",0.7725582465750315
+433,CXR1117_IM-0079,"<think>
+
+</think>
+
+Findings: The cardiomediastinal and hilar contours are normal. There is no pleural effusion or pneumothorax. The lungs are well expanded and clear. Pulmonary vasculature is within normal limits.
+Impression: No acute cardiopulmonary process.",0.5880310888919896
+434,CXR3426_IM-1656,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There is no focal consolidation, pleural effusion or pneumothorax. The cardiomediastinal and hilar contours are normal. There is no evidence of chf.
+Impression: No acute cardiopulmonary process.",0.6944374935813589
+435,CXR937_IM-2433,"<think>
+
+</think>
+
+Findings: The lungs are well inflated and clear. The cardiomediastinal silhouette, hilar contours, and pleural surfaces are normal. There is no pleural effusion or pneumothorax. No displaced rib fractures are seen.
+Impression: No acute cardiopulmonary process or displaced rib fractures.",0.5264620478348784
+436,CXR3196_IM-1507,"<think>
+
+</think>
+
+Findings: There is a left-sided picc line with tip projecting over the mid svc. The heart size is within normal limits. There is no focal consolidation, pleural effusion, or pneumothorax.
+Impression: No acute cardiopulmonary process.",0.4658738802860032
+437,CXR1920_IM-0598,"<think>
+
+</think>
+
+Findings: The lungs are well expanded and clear. Cardiomediastinal silhouette is unremarkable. There is no pneumothorax or pleural effusion. Visualized osseous structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.7814073776805599
+438,CXR1601_IM-0390,"<think>
+
+</think>
+
+Findings: The lungs are clear. There is no pneumothorax, effusion, consolidation or chf. The heart is at the upper limits of normal in size. There is a mild dextroscoliosis of the thoracic spine.
+Impression: No acute pulmonary process.",0.5734899537966889
+439,CXR760_IM-2310,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate fully expanded and clear lungs. There is no focal consolidation, pleural effusion or pneumothorax. The heart is normal in size. There is no pulmonary edema.
+Impression: No acute cardiopulmonary process.",0.5951524276036053
+440,CXR1234_IM-0157,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest show mild cardiomegaly and postoperative changes. There is no consolidation, pulmonary edema, pleural effusion or pneumothorax.
+Impression: Mild cardiomegaly. No acute cardiopulmonary process.",0.5034754287010986
+441,CXR591_IM-2186,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. Cardiomediastinal silhouette is within normal limits. There is no focal consolidation, pleural effusion or pneumothorax. There are no acute osseous abnormalities.
+Impression: No acute intrathoracic abnormality.",0.48814937769677247
+442,CXR764_IM-2311,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear without consolidation or pulmonary vascular congestion. There is no pleural effusion. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormalities detected.
+Impression: No acute cardiopulmonary process.",0.7637762790512594
+443,CXR2100_IM-0731,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. The lungs are clear of consolidation, effusion, or pneumothorax. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormality is detected.
+Impression: No acute cardiopulmonary process.",0.5202570266597493
+444,CXR190_IM-0583,"<think>
+
+</think>
+
+Findings: Frontal and lateral radiographs of the chest demonstrate normal heart size. The cardiomediastinal silhouette and hilar contours are normal. The lungs are clear. No pleural effusion or pneumothorax. No displaced rib fracture identified.
+Impression: No acute process.",0.7124909689105814
+445,CXR1265_IM-0179,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There is a right mid lung calcified granuloma. There is no focal consolidation or pleural effusion. The cardiomediastinal silhouette is normal. No acute osseous abnormalities detected.
+Impression: No acute cardiopulmonary process.",0.5737352094995658
+446,CXR2558_IM-1062,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest were obtained. The heart size and cardiomediastinal contours are normal. The lungs are clear. No focal consolidation, pleural effusion, or pneumothorax. No displaced rib fracture.
+Impression: No acute cardiopulmonary process.",0.7842993395906952
+447,CXR3810_IM-1920,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs were provided. There is no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is normal. The bones are intact. Clips are noted in the upper abdomen.
+Impression: No acute cardiopulmonary process.",0.7017040322662248
+448,CXR510_IM-2126,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. The lungs are clear. Cardiomediastinal silhouette is normal. Osseous structures demonstrate no acute abnormality. Surgical clips seen in the right upper quadrant suggesting prior cholecystectomy.
+Impression: No acute cardiopulmonary process.",0.5494074087677
+449,CXR2579_IM-1078,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. There is no effusion, consolidation, or pneumothorax. The cardiomediastinal silhouette is normal. Osseous and soft tissue structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.8456702738847228
+450,CXR3594_IM-1772,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. The lungs are clear. Cardiomediastinal silhouette is normal. There is no pleural effusion or pneumothorax. There is no evidence of free air under the hemidiaphragms.
+Impression: No acute intrathoracic process.",0.7299992248448185
+451,CXR912_IM-2417,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. The heart is normal in size and cardiomediastinal contour is unremarkable. Lungs are clear. There is no pleural effusion or pneumothorax. Bones are grossly unremarkable.
+Impression: No acute intrathoracic abnormality.",0.7534253025839739
+452,CXR3672_IM-1828,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate stable sternotomy wires and prosthetic valve. Compared to the prior radiograph there is interval development of pulmonary vascular congestion and interstitial edema. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is stable.
+Impression: Mild pulmonary edema.",0.5564604852167879
+453,CXR1302_IM-0198,"<think>
+
+</think>
+
+Findings: Heart size and mediastinum are stable. There is interval development of right lower lobe opacity concerning for infectious process. Left lung is essentially clear. No appreciable pleural effusion or pneumothorax seen.
+Impression: Interval development of right lower lobe opacity concerning for infectious process.",0.6076233469574629
+454,CXR2631_IM-1118,"<think>
+
+</think>
+
+Findings: The lungs are clear. No consolidation, effusion, or pneumothorax is present. Heart and mediastinal contours are normal. There is no pulmonary vascular congestion. No acute osseous abnormality is seen. A right humeral head prosthesis and lumbar spinal hardware are partially visualized.
+Impression: No acute cardiopulmonary process.",0.5816666470868692
+455,CXR3081_IM-1440,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs were obtained. The lungs are well expanded and clear. No focal consolidation, effusion, or pneumothorax is present. The cardiac and mediastinal contours are normal. No acute osseous abnormality is seen.
+Impression: No acute cardiopulmonary process.",0.6631158673377824
+456,CXR670_IM-2244,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate multiple calcified pleural plaques bilaterally, suggesting prior asbestos exposure. The lungs are otherwise clear. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: Calcified pleural plaques bilaterally, suggesting prior asbestos exposure.",0.3692721796097573
+457,CXR2077_IM-0710,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs were obtained. A right subclavian infusion port terminates in the low svc. The lungs are well expanded and clear. There is no focal consolidation, effusion, pneumothorax. Cardiac and mediastinal contours are normal.
+Impression: No acute cardiopulmonary process.",0.6076325288348237
+458,CXR613_IM-2200,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were reviewed. Cardiomediastinal and hilar contours are stable. There is no pleural effusion or pneumothorax. The lungs are well expanded with no focal consolidation concerning for pneumonia. Pulmonary vasculature is within normal limits.
+Impression: No acute cardiopulmonary process.",0.5144884285296907
+459,CXR1738_IM-0486,"<think>
+
+</think>
+
+Findings: The heart size is normal. The mediastinal and hilar contours are unremarkable. The pulmonary vascularity is normal. The lungs are clear. No pleural effusion or pneumothorax is present. There are no acute osseous abnormalities.
+Impression: No acute cardiopulmonary process.",0.6005532802165876
+460,CXR391_IM-1986,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate low lung volumes, accentuating bronchovascular crowding. There is no focal consolidation, pleural effusion, or pneumothorax. The cardiac silhouette is top normal. The mediastinal and hilar contours are unremarkable.
+Impression: No acute cardiopulmonary process.",0.6453123571774667
+461,CXR3785_IM-1898,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest demonstrate low lung volumes, which accentuate bronchovascular markings. Within this limitation, the cardiomediastinal silhouette is unremarkable. There is no pneumothorax, pleural effusion, or focal consolidation.
+Impression: No acute cardiopulmonary process.",0.5923790766720542
+462,CXR3112_IM-1461,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest demonstrate the lungs are well expanded and clear. The cardiomediastinal silhouette is unremarkable. There is no pleural effusion, pulmonary edema, pneumothorax, or focal airspace opacity. The bones and soft tissues are normal.
+Impression: No acute cardiopulmonary process.",0.6151416024163878
+463,CXR380_IM-1911,"<think>
+
+</think>
+
+Findings: There is a right perihilar opacity. Otherwise, the lungs are clear. There are no effusions or pneumothoraces. The heart and mediastinum are normal. There is a right-sided picc line with the tip at the cavoatrial junction.
+Impression: Right perihilar opacity, pneumonia is not excluded.",0.5433315555432615
+464,CXR1017_IM-0013,"<think>
+
+</think>
+
+Findings: There is a subtle area of increased opacity in the right upper lobe which could be an area of scarring. No definite evidence of tuberculosis. There is no pleural effusion or pneumothorax. The heart size is normal. The mediastinal silhouette is unremarkable.
+Impression: No evidence of active tuberculosis.",0.40642588858647627
+465,CXR2200_IM-0811,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. Previously seen left-sided central line is no longer visualized. The lungs are clear of focal consolidation, effusion, or pulmonary vascular congestion. The cardiomediastinal silhouette is within normal limits. Surgical clips project over the left upper quadrant. No acute osseous abnormalities detected.
+Impression: No acute cardiopulmonary process.",0.43742084963114425
+466,CXR3933_IM-2004,"<think>
+
+</think>
+
+Findings: Two views of the chest demonstrate clear lungs without pleural effusion, pneumothorax, or focal consolidation. The cardiac silhouette is top normal. The mediastinal contours are unremarkable.
+Impression: No acute cardiopulmonary process.",0.7148878792129469
+467,CXR3505_IM-1707,"<think>
+
+</think>
+
+Findings: The lungs are clear. There is no pleural effusion or pneumothorax. There is no focal consolidation. Heart size is normal. Mediastinal silhouette is normal. There is no displaced rib fracture.
+Impression: No evidence of rib fracture. If clinical concern for rib fracture persists, recommend dedicated rib series with a bb marker placed at the site of the patient's pain.",0.6577105616563105
+468,CXR768_IM-2313,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest demonstrate well expanded and clear lungs. Heart is normal in size and cardiomediastinal contour is stable. There is no pleural effusion or pneumothorax.
+Impression: No acute intrathoracic abnormality.",0.6141395982262071
+469,CXR3722_IM-1859,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest were obtained. The cardiomediastinal silhouette is normal in size and configuration. There are low lung volumes, which accentuate the bronchovascular markings. The lungs are clear bilaterally. No focal consolidation, effusion, or pneumothorax is seen. The osseous structures are unremarkable.
+Impression: Low lung volumes. No evidence of consolidation or effusion.",0.5841880707373533
+470,CXR3123_IM-1468,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate low lung volumes. There is no pleural effusion, focal consolidation or pneumothorax. Hilar and mediastinal silhouettes are unremarkable. Heart size is normal. There is no pulmonary edema. Patient is status post median sternotomy and cabg. Partially imaged upper abdomen is unremarkable.
+Impression: No evidence of acute cardiopulmonary process.",0.5748232779392287
+471,CXR502_IM-2120,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate normal cardiomediastinal silhouette. The lungs are well expanded and clear. There is no pneumothorax, vascular congestion, or pleural effusion. The imaged upper abdomen demonstrates a mildly dilated small bowel, as better demonstrated on ct performed the same day.
+Impression: 1. No evidence of acute cardiopulmonary process. 2. Mildly dilated small bowel, as better demonstrated on ct performed the same day.",0.6133979392978183
+472,CXR1972_IM-0633,"<think>
+
+</think>
+
+Findings: There is improved aeration of the left lung. There is some residual linear opacity in the left mid lung. The right lung is clear. Cardiomediastinal silhouette is normal. There are no pleural effusions or pneumothorax.
+Impression: Improved aeration of the left lung with residual linear opacities in the left mid lung, likely scarring.",0.6373519809841234
+473,CXR442_IM-2078,"<think>
+
+</think>
+
+Findings: There is no pneumothorax, pleural effusion, focal consolidation or pulmonary edema. There are mild bilateral apical scarring and calcification. There is mild hyperexpansion of the lungs. The cardiac and mediastinal contours are normal.
+Impression: No acute cardiopulmonary process.",0.4863303339241994
+474,CXR3170_IM-1494,"<think>
+
+</think>
+
+Findings: There is mild bilateral interstitial edema. There are no focal infiltrates. The heart size is normal. There are no effusions or pneumothoraces. There is a mild compression deformity of the l1 vertebral body. There is also a moderate compression deformity of a lower thoracic vertebral body, which may be t10. These are age indeterminate.
+Impression: 1. Mild bilateral interstitial edema. 2. Mild compression deformity of l1. 3. Moderate compression deformity of a lower thoracic vertebral body, possibly t10. These are age indeterminate and clinical correlation is suggested.",0.48955117658643943
+475,CXR1249_IM-0169,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate normal cardiomediastinal silhouette. The lungs are well expanded and clear. There is no pneumothorax, vascular congestion, or pleural effusion. No displaced rib fractures are identified.
+Impression: No acute cardiopulmonary process.",0.5817991552670426
+476,CXR1515_IM-0333,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest demonstrate the lungs are well-expanded and clear. The cardiomediastinal silhouette is unremarkable. There is no pleural effusion, pulmonary edema, pneumothorax, or focal consolidation. Cholecystectomy clips are noted.
+Impression: No acute cardiopulmonary pathology.",0.7538494512416912
+477,CXR679_IM-2251,"<think>
+
+</think>
+
+Findings: The lungs are clear. There is no pleural effusion or pneumothorax. The heart size is normal. Pulmonary vascularity is within normal limits. The mediastinal contour is unremarkable. There is no free air under the diaphragm. No acute osseous abnormality is evident.
+Impression: No acute intrathoracic process.",0.6023092604051349
+478,CXR1282_IM-0188,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs are obtained. Left picc line has been removed. Lung volumes are low. There is no focal consolidation, effusion, or pneumothorax. Cardiac and mediastinal contours are normal.
+Impression: Low lung volumes. No acute intrathoracic process.",0.5498180912219305
+479,CXR264_IM-1125,"<think>
+
+</think>
+
+Findings: Left-sided pacemaker is unchanged. Heart size is upper limits of normal. The aorta is unfolded. There is no focal infiltrate or effusion. Compared to the prior study there is improved aeration at the left base. Degenerative changes are seen in the spine.
+Impression: No acute cardiopulmonary process.",0.39489554177012387
+480,CXR3250_IM-1540-1001,"<think>
+
+</think>
+
+Findings: There is a severe dextroscoliosis of the thoracic spine. The heart size is normal. The mediastinal and hilar contours are normal. The pulmonary vasculature is normal. There is a left basilar opacity which is consistent with atelectasis. There is a possible small left pleural effusion. No pneumothorax. No focal consolidation.
+Impression: Left basilar atelectasis. Possible small left pleural effusion.",0.4543776828091519
+481,CXR3509_IM-1711-0001,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. Again seen is a small right pleural effusion, slightly larger than before. The cardiomediastinal and hilar contours are normal. No pneumothorax. Left lung is clear.
+Impression: Slight interval increase in size of right pleural effusion.",0.7282731913233841
+482,CXR3981_IM-2039,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs. The lungs are clear. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal. There is a nondisplaced fracture through the midshaft of the left clavicle.
+Impression: Nondisplaced fracture through the midshaft of the left clavicle.",0.5605595646582381
+483,CXR2148_IM-0767,"<think>
+
+</think>
+
+Findings: There is mild cardiomegaly. The lungs are clear. There is no pneumothorax or pleural effusion.
+Impression: No acute cardiopulmonary process.",0.5727102465490468
+484,CXR753_IM-2306,"<think>
+
+</think>
+
+Findings: Frontal and lateral radiographs of the chest demonstrate well expanded clear lungs. The cardiomediastinal and hilar contours are unremarkable. There is no pneumothorax, pleural effusion, or consolidation.
+Impression: No acute cardiopulmonary process.",0.6859833857741967
+485,CXR3430_IM-1659,"<think>
+
+</think>
+
+Findings: A right-sided tunneled central venous catheter is present with tip in the right atrium. The heart is at the upper limits of normal in size. The mediastinal contours are within normal limits. Lung volumes are low but the lungs are grossly clear. There is no pneumothorax or large pleural effusion.
+Impression: No acute chest abnormality.",0.4736311881735869
+486,CXR94_IM-2436,"<think>
+
+</think>
+
+Findings: The lungs are clear without focal consolidation. There is no pleural effusion or pneumothorax. The cardiac silhouette is normal in size. There are mild atherosclerotic calcifications of the aortic arch.
+Impression: No acute cardiopulmonary process.",0.6428529506026192
+487,CXR1034_IM-0028,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There is no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal and hilar contours are normal.
+Impression: No acute cardiopulmonary process.",0.4365688036418909
+488,CXR681_IM-2252-0001,"<think>
+
+</think>
+
+Findings: There are ill-defined opacities in the left lower lung and to a lesser extent right lower lung. The heart is mildly enlarged. There are no pleural effusions or pneumothorax. The hilar and mediastinal contours are normal. Pulmonary vascularity is normal.
+Impression: Left lower lobe pneumonia with a possible co-existing right lower lobe pneumonia.",0.5991202068814387
+489,CXR659_IM-2235,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. There is no consolidation or pneumothorax. There is no pleural effusion. The cardiac silhouette is mildly enlarged. The aorta is tortuous.
+Impression: No acute cardiopulmonary process.",0.6972732155844711
+490,CXR3816_IM-1925,"<think>
+
+</think>
+
+Findings: In comparison with the study of ___, the patient has taken a much better inspiration. Cardiac silhouette is mildly enlarged but there is no vascular congestion, pleural effusion, or acute focal pneumonia. Specifically, no evidence of parenchymal or skeletal metastasis.
+Impression: No evidence of parenchymal or skeletal metastasis. Cardiac silhouette is mildly enlarged but there is no vascular congestion, pleural effusion, or acute focal pneumonia.",0.45541020249187203
+491,CXR421_IM-2064,"<think>
+
+</think>
+
+Findings: Frontal and lateral chest radiographs demonstrate low lung volumes. There is no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is within normal limits. There is mild tortuosity of the descending aorta. The visualized upper abdomen is unremarkable. The bones are intact.
+Impression: No acute cardiopulmonary process.",0.5397527084369936
+492,CXR1914_IM-0595,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There is subtle right midlung and left basilar opacities, new from priors. These are nonspecific and could represent infection. There is no pleural effusion. Cardiomediastinal silhouette is normal. Osseous structures are unremarkable.
+Impression: Right mid and left lower lung opacities which are new from priors. These are nonspecific and could represent infection.",0.39346451893457
+493,CXR3570_IM-1754,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There are low lung volumes. There is no focal consolidation, pleural effusion, or pneumothorax. There is no evidence of pulmonary edema. The cardiomediastinal and hilar contours are normal.
+Impression: No acute cardiopulmonary process.",0.723707924593247
+494,CXR2130_IM-0755,"<think>
+
+</think>
+
+Findings: Frontal and lateral chest radiographs demonstrate slightly decreased lung volumes compared to prior exam. There is unchanged cardiomegaly and prominence of the pulmonary vasculature without frank pulmonary edema. No pleural effusion or pneumothorax is seen.
+Impression: No acute cardiopulmonary process.",0.4151067735511077
+495,CXR1526_IM-0341,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. There is no effusion or pneumothorax. Cardiomediastinal silhouette is within normal limits. Osseous and soft tissue structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.6005281344750697
+496,CXR3609_IM-1782,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. The lungs are clear of consolidation or effusion. The cardiac silhouette is moderately enlarged. The mediastinal silhouette is within normal limits. No acute osseous abnormality is detected.
+Impression: Cardiomegaly without acute cardiopulmonary process.",0.5582388435482504
+497,CXR543_IM-2148,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate clear lungs. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: Normal chest radiographs.",0.91920323908717
+498,CXR1853_IM-0555,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest were obtained. Low lung volumes result in bronchovascular crowding. There is no focal consolidation, pleural effusion or pneumothorax. Heart size is normal. Mediastinal silhouette and hilar contours are normal.
+Impression: No acute intrathoracic process.",0.6462185542908324
+499,CXR2491_IM-1017,"<think>
+
+</think>
+
+Findings: Cardiomediastinal silhouette is normal. There is no focal lung consolidation. There is no pneumothorax or pleural effusion.
+Impression: Normal chest radiograph.",0.8750148431692872
+500,CXR2924_IM-1327,"<think>
+
+</think>
+
+Findings: The lungs are clear. Cardiomediastinal silhouette is normal. No acute osseous abnormalities detected.
+Impression: No acute intrathoracic process.",0.5354289412245322
+501,CXR1523_IM-0339,"<think>
+
+</think>
+
+Findings: Cardiomediastinal contours are normal. Lungs and pleural surfaces are clear.
+Impression: No acute cardiopulmonary radiographic abnormality.",0.4135041358362995
+502,CXR97_IM-2460,"<think>
+
+</think>
+
+Findings: The lungs are clear. The heart and mediastinum are unremarkable. The bony thorax is normal.
+Impression: No evidence for active chest disease.",0.4608832506921487
+503,CXR1011_IM-0013,"<think>
+
+</think>
+
+Findings: The lungs are clear. The heart and mediastinum are unremarkable. The bony thorax is intact.
+Impression: No acute cardiopulmonary disease.",0.7884380180191415
+504,CXR2843_IM-1254-1001,"<think>
+
+</think>
+
+Findings: The lungs are clear without infiltrate or effusion. The cardiac and mediastinal silhouettes are normal. The bony thorax is normal.
+Impression: Normal chest",0.5046213703530896
+505,CXR429_IM-2070,"<think>
+
+</think>
+
+Findings: The lungs are clear without infiltrate or effusion. The bony thorax is normal. The cardiac and mediastinal silhouettes are normal.
+Impression: Normal chest.",0.5890709917434758
+506,CXR1485_IM-0313,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.5856193066232567
+507,CXR1393_IM-0251,"<think>
+
+</think>
+
+Findings: The lungs are clear without infiltrate or effusion. The cardiac and mediastinal silhouettes are normal. The bony thorax is normal.
+Impression: Normal chest.",0.3914742510263248
+508,CXR64_IM-2218,"<think>
+
+</think>
+
+Findings: Ap and lateral chest radiographs. The lungs are clear. There is no pleural effusion or pneumothorax. The heart size is top normal.
+Impression: No acute cardiopulmonary process.",0.5118686808701841
+509,CXR226_IM-0851,"<think>
+
+</think>
+
+Findings: The lungs are clear without infiltrate or effusion. The cardiac and mediastinal silhouettes are normal. The bony thorax is normal.
+Impression: Normal chest.",0.5548087313702608
+510,CXR950_IM-2446,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.8494266379000444
+511,CXR278_IM-1218,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. The lungs are clear. The cardiomediastinal silhouette is normal. No acute osseous abnormalities detected.
+Impression: No acute cardiopulmonary process.",0.40451707761596906
+512,CXR260_IM-1090,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate mild cardiomegaly. The lungs are clear. There is no pleural effusion or pneumothorax.
+Impression: Mild cardiomegaly.",0.454200442487843
+513,CXR3578_IM-1758,"<think>
+
+</think>
+
+Findings: The cardiomediastinal silhouette is normal. The lungs are clear. There is no pleural effusion or pneumothorax. There are no suspicious osseous lesions.
+Impression: No evidence of pneumonia.",0.49219202454676103
+514,CXR2078_IM-0710,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate clear lungs. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.5280474032345703
+515,CXR1180_IM-0123,"<think>
+
+</think>
+
+Findings: There is mild cardiomegaly. The lungs are clear. There is no pleural effusion. The osseous structures are normal.
+Impression: Mild cardiomegaly. Otherwise normal chest.",0.45580265365545947
+516,CXR1236_IM-0158,"<think>
+
+</think>
+
+Findings: The lungs are well inflated and clear. No focal consolidation, effusion, or pneumothorax is present. The heart and mediastinal contours are normal.
+Impression: No acute cardiopulmonary process.",0.6887240527431346
+517,CXR3798_IM-1911,"<think>
+
+</think>
+
+Findings: The cardiomediastinal silhouette is normal in size. There is no pleural effusion or pneumothorax. There is no focal lung consolidation.
+Impression: No radiographic evidence of pneumonia.",0.5990565537328922
+518,CXR290_IM-1303,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There is no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal and hilar contours are normal.
+Impression: No acute cardiopulmonary process.",0.41915354786253384
+519,CXR1004_IM-0005,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. No focal consolidation, effusion, or pneumothorax. The cardiomediastinal and hilar contours are normal.
+Impression: No acute cardiopulmonary process.",0.5603129174261896
+520,CXR3522_IM-1720,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs. The lungs are clear. There is no pleural effusion or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.8448882015101546
+521,CXR3898_IM-1978,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate normal cardiomediastinal silhouette. The lungs are clear. There is no pneumothorax, vascular congestion, or pleural effusion.
+Impression: No acute cardiopulmonary process.",0.7510093614045016
+522,CXR460_IM-2090,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There is no focal consolidation, pleural effusion or pneumothorax. The cardiomediastinal and hilar contours are normal.
+Impression: No acute cardiopulmonary process.",0.5147107023671909
+523,CXR2243_IM-0840,"<think>
+
+</think>
+
+Findings: The cardiomediastinal and hilar contours are normal. The lungs are clear without consolidation, pleural effusion or pneumothorax. Mild degenerative changes are present in the thoracic spine.
+Impression: No acute cardiopulmonary pathology.",0.6874745811967385
+524,CXR3449_IM-1672,"<think>
+
+</think>
+
+Findings: The lungs are clear. The heart size is normal. The mediastinal contours are normal. There are no pleural effusions. No pneumothorax is seen.
+Impression: No acute cardiac or pulmonary findings.",0.7186204041350436
+525,CXR3997_IM-2048,"<think>
+
+</think>
+
+Findings: The lungs are clear with no evidence of a consolidation, effusion, or pneumothorax. Cardiomediastinal silhouette is normal. No acute fractures are identified.
+Impression: No acute cardiopulmonary process.",0.437408353688045
+526,CXR3422_IM-1656,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs demonstrate low lung volumes with normal cardiomediastinal silhouette and no evidence of a pneumothorax. There is no focal consolidation or pleural effusion.
+Impression: Low lung volumes. Otherwise, normal chest radiograph.",0.5498534252714273
+527,CXR164_IM-0419,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs were obtained. The lungs are well expanded and clear. No focal consolidation, effusion, or pneumothorax is present. The cardiac and mediastinal contours are normal.
+Impression: No acute cardiopulmonary process.",0.7224261497846087
+528,CXR3849_IM-1947,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear of consolidation or effusion. Cardiomediastinal silhouette is within normal limits. Osseous and soft tissue structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.5746690129146805
+529,CXR1640_IM-0420,"<think>
+
+</think>
+
+Findings: No significant interval change. No new infiltrate or nodule. No effusion or pneumothorax. The cardiac and mediastinal contours are normal. The bony thorax is intact.
+Impression: No significant interval change.",0.43453039419695266
+530,CXR352_IM-1718,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate normal cardiomediastinal silhouette. The lungs are clear. There is no pneumothorax, vascular congestion, or pleural effusion.
+Impression: No acute cardiopulmonary process.",0.6743056776528072
+531,CXR1472_IM-0305,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear without focal consolidation, pleural effusion or pneumothorax. The cardiomediastinal and hilar contours are normal.
+Impression: No acute cardiopulmonary process.",0.7747963920339773
+532,CXR450_IM-2082,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. There is no effusion or pneumothorax. Cardiomediastinal silhouette is normal. Osseous and soft tissue structures are unremarkable.
+Impression: No acute cardiopulmonary process.",0.6756233705945758
+533,CXR2478_IM-1007,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There is consolidation in the left lower lobe. There is mild interstitial abnormality. The cardiac silhouette is within normal limits. No acute osseous abnormality detected.
+Impression: Left lower lobe pneumonia.",0.5836504702536232
+534,CXR1429_IM-0275,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. The cardiomediastinal and hilar contours are normal. There are no pleural effusions or pneumothorax. Pulmonary vasculature is within normal limits.
+Impression: No acute cardiopulmonary process.",0.7459318554199005
+535,CXR2773_IM-1214,"<think>
+
+</think>
+
+Findings: The heart size is within normal limits. The mediastinal and hilar contours are unremarkable. There is no pleural effusion or pneumothorax. There is no focal consolidation concerning for pneumonia.
+Impression: No acute cardiopulmonary process.",0.6612501818701767
+536,CXR93_IM-2428,"<think>
+
+</think>
+
+Findings: The cardiomediastinal and hilar contours are normal. The lungs are well expanded and clear, without consolidation, pleural effusion or pneumothorax. No acute osseous abnormality is seen.
+Impression: No acute cardiopulmonary pathology.",0.6849776458643583
+537,CXR1685_IM-0449,"<think>
+
+</think>
+
+Findings: The cardiomediastinal and hilar contours are normal. The lungs are well expanded and clear, without consolidation, pleural effusion or pneumothorax. No acute osseous abnormality is seen.
+Impression: No acute cardiopulmonary pathology.",0.5403951423381925
+538,CXR3173_IM-1495,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest demonstrate clear lungs. Cardiomediastinal silhouette is within normal limits. No acute osseous abnormality is identified. No free air under the diaphragm.
+Impression: No acute intrathoracic abnormality.",0.641901469558197
+539,CXR3294_IM-1573,"<think>
+
+</think>
+
+Findings: The cardiomediastinal and hilar contours are within normal limits and stable. The lungs are well expanded and clear with no focal consolidation, pleural effusion or pneumothorax.
+Impression: No acute cardiopulmonary process.",0.6457623362874281
+540,CXR106_IM-0042,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. The heart is normal in size. There is no evidence of focal consolidation, pleural effusion, or pneumothorax. The lungs are low in volume, but clear.
+Impression: No acute cardiopulmonary process.",0.7801265746074683
+541,CXR2052_IM-0690,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. Cardiac silhouette is normal in size. Hilar and mediastinal contours are normal. No pleural effusion. No evidence of pneumothorax.
+Impression: No acute cardiopulmonary process.",0.6251739064088173
+542,CXR1681_IM-0448,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs were obtained. The lungs are well expanded and clear. There is no focal consolidation, effusion, or pneumothorax. Cardiac and mediastinal contours are normal.
+Impression: No acute cardiopulmonary process.",0.49269448876568517
+543,CXR2787_IM-1222,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. There is no consolidation, effusion, or pneumothorax. The cardiomediastinal silhouette is normal. No acute osseous abnormalities detected.
+Impression: No acute cardiopulmonary process.",0.6251898095665088
+544,CXR2312_IM-0887,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were obtained. The heart is normal size. There is no consolidation, effusion, or pneumothorax. The cardiomediastinal silhouette is normal.
+Impression: No acute cardiopulmonary process.",0.6761543727745072
+545,CXR2529_IM-1044,"<think>
+
+</think>
+
+Findings: The lungs are well expanded and clear. No chf, focal infiltrate, pleural effusion or pneumothorax is detected. The cardiomediastinal silhouette and hilar contours are normal. The bony structures are grossly intact.
+Impression: No acute pulmonary process identified.",0.7337883189440233
+546,CXR622_IM-2204,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. Heart size and cardiomediastinal contours are normal. Lungs are clear without focal consolidation, pleural effusion, or pneumothorax. No displaced rib fracture identified.
+Impression: Normal chest radiographs.",0.4498749138200727
+547,CXR107_IM-0049,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs were obtained. The lungs are well expanded and clear. There is no focal consolidation, effusion, or pneumothorax. The heart is normal in size. The mediastinal contours are normal.
+Impression: No acute cardiopulmonary process.",0.788195608823458
+548,CXR145_IM-0290,"<think>
+
+</think>
+
+Findings: There is a large right pleural effusion with right basilar consolidation. There is mild left basilar consolidation. The cardiac and mediastinal silhouettes are normal. The bony thorax is normal.
+Impression: Large right pleural effusion with bibasilar consolidation.",0.61544002407676
+549,CXR3519_IM-1717,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There is a moderate left pleural effusion with adjacent atelectasis. The right lung is clear. Cardiac size cannot be evaluated. No pneumothorax.
+Impression: Moderate left pleural effusion with adjacent atelectasis.",0.6609730776517337
+550,CXR1413_IM-0263,"<think>
+
+</think>
+
+Findings: The lungs are well expanded. The heart is mildly enlarged. The mediastinal and hilar contours are normal. There is no focal consolidation, pleural effusion or pneumothorax. The pulmonary vasculature is normal.
+Impression: Mild cardiomegaly.",0.5906555451282092
+551,CXR76_IM-2309,"<think>
+
+</think>
+
+Findings: The cardiac, mediastinal and hilar contours are normal. The pulmonary vascularity is normal. The lungs are clear. No pleural effusion or pneumothorax is present. There are no acute osseous abnormalities.
+Impression: Normal chest radiograph.",0.6846355640425642
+552,CXR1919_IM-0598,"<think>
+
+</think>
+
+Findings: Frontal and lateral chest radiograph demonstrate well expanded and clear lungs. The cardiomediastinal and hilar contours are unremarkable. There is no pleural effusion or pneumothorax. Visualized osseous structures are unremarkable.
+Impression: Normal chest radiograph.",0.6335679232083772
+553,CXR13_IM-0198,"<think>
+
+</think>
+
+Findings: There is mild cardiomegaly and vascular congestion. There is no focal consolidation or pneumothorax. No free air under the hemidiaphragms. The patient is post cabg with sternotomy wires intact and in proper alignment.
+Impression: Mild cardiomegaly and vascular congestion.",0.5051763167459378
+554,CXR3180_IM-1500,"<think>
+
+</think>
+
+Findings: The cardiomediastinal and hilar contours are normal. The lungs are well expanded and clear, without consolidation, pleural effusion or pneumothorax. No acute osseous abnormality is seen. No free air is noted under the diaphragm.
+Impression: No acute cardiopulmonary pathology.",0.7283516208862417
+555,CXR458_IM-2089,"<think>
+
+</think>
+
+Findings: The heart size is normal. The hilar and mediastinal contours are normal. The lungs are clear without evidence of focal consolidations, pneumothoraces or pleural effusions. The visualized osseous structures are unremarkable.
+Impression: No acute cardiopulmonary abnormality",0.755225219935427
+556,CXR2733_IM-1189,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. There is a small left-sided pleural effusion. The lungs are clear of consolidation. The cardiomediastinal silhouette is within normal limits. Osseous structures are unremarkable.
+Impression: Small left-sided pleural effusion.",0.43399954346469866
+557,CXR2259_IM-0850,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. There is no focal consolidation, pleural effusion, or pneumothorax. The cardiac, mediastinal, and hilar contours are normal. The right hemidiaphragm is elevated.
+Impression: No acute cardiopulmonary process.",0.5571716151499295
+558,CXR3384_IM-1631,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest demonstrate that the cardiac, mediastinal and hilar contours are normal. There are no focal consolidation, pleural effusion or pneumothorax. The pulmonary vascularity is normal. There are no acute osseous abnormalities.
+Impression: No acute cardiopulmonary process.",0.42684342757411037
+559,CXR368_IM-1832,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest provided demonstrate no focal consolidation, effusion, or pneumothorax. The cardiomediastinal silhouette is normal. Imaged osseous structures are intact. No free air below the right hemidiaphragm is seen.
+Impression: No acute intrathoracic process.",0.6062107762298123
+560,CXR3878_IM-1968,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. Postoperative mediastinum is stable. Heart size remains normal. There is no pleural effusion or pneumothorax. Bibasilar atelectasis is improved compared to prior. There is no new focal consolidation concerning for pneumonia.
+Impression: No acute cardiopulmonary process.",0.37915344323715944
+561,CXR1708_IM-0466,"<think>
+
+</think>
+
+Findings: The lungs are well expanded and show a small left retrocardiac opacity. The cardiomediastinal silhouette, hilar contours, and pleural surfaces are normal. No pleural effusion or pneumothorax is present.
+Impression: Left retrocardiac opacity may reflect atelectasis or early consolidation.",0.5811215831853374
+562,CXR2_IM-0652,"<think>
+
+</think>
+
+Findings: The lungs are clear without infiltrate or effusion. The cardiac and mediastinal silhouettes are normal. There is a small amount of right middle lobe atelectasis. There are median sternotomy wires and surgical clips consistent with cabg. The upper abdomen is normal.
+Impression: No acute cardiopulmonary process.",0.4119965871818774
+563,CXR3772_IM-1891,"<think>
+
+</think>
+
+Findings: The heart size is normal. The mediastinal and hilar contours are unremarkable. The pulmonary vascularity is not engorged. The lungs are clear. No pleural effusion or pneumothorax is present. There are mild degenerative changes of the thoracic spine.
+Impression: No acute cardiopulmonary abnormality.",0.6201185860584305
+564,CXR2616_IM-1106,"<think>
+
+</think>
+
+Findings: Pa and lateral chest radiographs were provided. The lungs are hyperinflated. There is a small right pleural effusion. There is no focal consolidation or pneumothorax. Cardiomediastinal silhouette is normal. Bones are intact.
+Impression: Hyperinflated lungs and small right pleural effusion.",0.49300169225564333
+565,CXR1273_IM-0183,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. The patient is status post median sternotomy. There is mild cardiomegaly which is unchanged. There is no focal consolidation or pneumothorax. There is a small left pleural effusion. The pulmonary vascular markings are normal.
+Impression: No acute cardiopulmonary process.",0.5555308326454919
+566,CXR383_IM-1932,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate normal cardiomediastinal silhouette. The lungs are clear. There is no pneumothorax, vascular congestion, or pleural effusion. The airway is midline. Multilevel degenerative changes of the thoracic spine are again noted.
+Impression: No acute cardiopulmonary process.",0.6222342143188274
+567,CXR3589_IM-1767,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. Low lung volumes crowd the pulmonary vasculature. There is no focal consolidation, pleural effusion, or pneumothorax. The cardiomediastinal silhouette is normal. No free air below the right hemidiaphragm. No dilated loops of small bowel.
+Impression: No acute cardiopulmonary process.",0.5901397812025404
+568,CXR699_IM-2263,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. Again seen are bilateral hazy opacities projecting over the mid lungs. There is no new consolidation. There is no pleural effusion. The cardiomediastinal silhouette is unchanged.
+Impression: No significant interval change of bilateral hazy opacities projecting over the mid lungs, which may represent infection or edema.",0.5662558507772826
+569,CXR261_IM-1100,"<think>
+
+</think>
+
+Findings: The lung volumes are low, which accentuates the bronchovascular markings. No focal consolidation, pleural effusion, pneumothorax, or pulmonary edema is present. The heart size is top normal, which is likely accentuated by the low lung volumes.
+Impression: No acute cardiopulmonary process. Low lung volumes, which accentuates the bronchovascular markings.",0.763987555419829
+570,CXR1113_IM-0078,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. There has been interval resolution of the right lung opacity previously described. The lungs are clear of consolidation or effusion. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormality detected.
+Impression: Interval resolution of the right lung consolidation. No acute cardiopulmonary process.",0.45413838606359314
+571,CXR2108_IM-0738,"<think>
+
+</think>
+
+Findings: The heart size is normal. The mediastinal and hilar contours are within normal limits. The pulmonary vascularity is normal. The lungs are clear. No pleural effusion or pneumothorax is present. There are no acute osseous abnormalities.
+Impression: No acute cardiopulmonary abnormality. No radiographic evidence of tuberculosis.",0.5658066635240515
+572,CXR1739_IM-0487,"<think>
+
+</think>
+
+Findings: The heart size is normal. The mediastinal and hilar contours are unremarkable. There is no pulmonary vascular congestion. Minimal linear opacities in the left lower lobe likely reflect atelectasis. There is no focal consolidation, pleural effusion or pneumothorax. Mild scoliosis is noted.
+Impression: No acute cardiopulmonary process.",0.5752353701849953
+573,CXR49_IM-2110,"<think>
+
+</think>
+
+Findings: Cardiomediastinal silhouette and hilar contours are unremarkable. The lung volumes are low with minimal bibasilar atelectasis. There is no focal consolidation, pleural effusion or pneumothorax. Degenerative changes of the thoracic spine are present. No displaced rib fracture is noted.
+Impression: No acute cardiopulmonary process.",0.6370360776194367
+574,CXR3411_IM-1649-0001,"<think>
+
+</think>
+
+Findings: Frontal and lateral radiographs of the chest demonstrate low lung volumes which accentuate bronchovascular markings. There is a new opacity in the left upper lobe concerning for infection. Small bilateral pleural effusions are noted. The cardiac and mediastinal contours are normal. No pneumothorax is seen.
+Impression: New left upper lobe opacity concerning for infection.",0.5904723166195012
+575,CXR2612_IM-1103,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate normal lung volumes. There is no pleural effusion, focal consolidation or pneumothorax. Hilar and mediastinal silhouettes are unremarkable. Heart size is normal. There is no pulmonary edema. Partially imaged upper abdomen is unremarkable.
+Impression: No evidence of acute cardiopulmonary process.",0.6833803415589413
+576,CXR1409_IM-0260,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate normal cardiomediastinal silhouette. There is a small patchy opacity in the left lower lung which could represent pneumonia. The right lung is clear. There is no pneumothorax or pleural effusion. The osseous structures are unremarkable.
+Impression: Small patchy opacity in the left lower lung could represent pneumonia.",0.5648644010296118
+577,CXR3846_IM-1946,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. Large left pleural effusion has decreased in size. There is persistent left lower lobe atelectasis. No pneumothorax. Right lung is clear. Heart size and cardiomediastinal contours are normal.
+Impression: Decrease in large left pleural effusion with persistent left lower lobe atelectasis. No pneumothorax.",0.6842191247003073
+578,CXR745_IM-2299,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. The lungs are clear. There is no consolidation, pleural effusion or pneumothorax. The cardiac, mediastinal, and hilar contours are normal. There is no free air beneath the right hemidiaphragm. There are no acute osseous abnormalities.
+Impression: No acute cardiopulmonary process.",0.6716839158579037
+579,CXR3379_IM-1627,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate low lung volumes. The cardiomediastinal and hilar contours are within normal limits. There is no pneumothorax or pleural effusion. No definite focal consolidation. No displaced rib fracture is identified. No displaced rib fracture is identified.
+Impression: Low lung volumes. No displaced rib fracture or focal consolidation.",0.4768751493444971
+580,CXR721_IM-2282,"<think>
+
+</think>
+
+Findings: Heart size and mediastinum are unremarkable. Lungs are clear. There is no pleural effusion or pneumothorax. Overall, no evidence of intrathoracic metastatic disease demonstrated. There is minimal right apical thickening that is unchanged since the prior study.
+Impression: No evidence of intrathoracic metastatic disease. Minimal right apical thickening unchanged since prior study.",0.7084357754628573
+581,CXR1873_IM-0565,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest were provided. Lung volumes are somewhat low which limits the evaluation. Allowing for this, there is no focal consolidation, effusion, or pneumothorax. The cardiomediastinal silhouette is normal. Imaged osseous structures are intact. No free air is seen below the right hemidiaphragm.
+Impression: No acute intrathoracic process.",0.7055030654814674
+582,CXR2074_IM-0708,"<think>
+
+</think>
+
+Findings: Pa and lateral views of the chest. Lower lung volumes seen on the current exam. Bibasilar opacities are most likely due to atelectasis and likely in part due to small bilateral effusions. There is no pulmonary vascular congestion. The cardiomediastinal silhouette is within normal limits. No acute osseous abnormality is identified.
+Impression: Lower lung volumes with bibasilar atelectasis and small bilateral effusions.",0.622699015196851
+583,CXR3139_IM-1476,"<think>
+
+</think>
+
+Findings: There is a vague density in the left lung apex, which may represent a nodule. There is a vague density at the right lung base. These are nonspecific. No effusion or pneumothorax is present. The heart size is normal. The osseous structures are unremarkable.
+Impression: Vague densities at the right base and left apex, which may represent pulmonary nodules. A nonemergent ct chest may be performed for further characterization.",0.5976873173794254
+584,CXR3442_IM-1667,"<think>
+
+</think>
+
+Findings: The lung volumes are low. There is a retrocardiac opacity, which may represent a hiatal hernia. The lungs are otherwise clear. The cardiomediastinal silhouette is normal in size. There is no pneumothorax or pleural effusion. There are degenerative changes of the thoracic spine.
+Impression: 1. Retrocardiac opacity, which may represent a hiatal hernia. However, a pa and lateral film with full inspiration would be helpful to better evaluate this finding. 2. No evidence of pneumonia.",0.5346572363529202
+585,CXR3423_IM-1656,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest. Heart size and cardiomediastinal contours are normal. The aorta is unfolded. Diffuse pulmonary interstitial opacities are nonspecific. No focal consolidation, pleural effusion, or pneumothorax.
+Impression: Diffuse interstitial opacities, of unclear chronicity. No prior studies are available for comparison. If acute, this may represent atypical infection, pulmonary edema, or pulmonary hemorrhage. If chronic, this could represent chronic interstitial lung disease. Ct of the chest is recommended for further evaluation.",0.4833849969951036
+586,CXR3000_IM-1386-0001,"<think>
+
+</think>
+
+Findings: There are low lung volumes. There are multiple pulmonary nodules in the right lung. The largest is in the right lower lobe measuring 1.3 cm. Other smaller nodules are seen throughout the right lung. The largest nodule in the left lung is in the left upper lobe measuring 1.1 cm. Other smaller nodules are seen throughout the left lung. No focal consolidation is identified. There is no pleural effusion or pneumothorax. There is no cardiomegaly.
+Impression: Bilateral pulmonary nodules compatible with metastatic disease. No evidence of pneumonia.",0.725771137678073
+587,CXR628_IM-2208,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest were obtained. The lungs are hyperinflated with flattening of the diaphragms and increased ap diameter, compatible with copd. There is no focal consolidation, pleural effusion or pneumothorax. The hilar and mediastinal silhouettes are unchanged. Heart size is normal. There is no pleural effusion or pneumothorax. No pulmonary edema is seen. Multiple compression deformities of the mid thoracic spine are similar to the prior exam. An ivc filter is incompletely imaged.
+Impression: No acute cardiopulmonary process.",0.5337108861532301
+588,CXR2608_IM-1098,"<think>
+
+</think>
+
+Findings: Frontal and lateral views of the chest demonstrate low lung volumes. The cardiomediastinal silhouette is stable, allowing for differences in patient positioning. There is stable mild cardiomegaly. There is mild pulmonary vascular congestion. Bibasilar opacities, right greater than left, likely reflect small pleural effusions with adjacent atelectasis, although superimposed infection cannot be excluded. There is no pneumothorax. There is mild pulmonary vascular congestion. A radiopaque foreign body projecting over the left axilla is likely external to the patient.
+Impression: Mild pulmonary vascular congestion. Small bilateral pleural effusions with adjacent atelectasis, although superimposed infection cannot be excluded.",0.43463766378825447
+589,CXR2138_IM-0760,"<think>
+
+</think>
+
+Findings: The cardiac size is within normal limits. The aorta is slightly unfolded. The lungs are hyperinflated consistent with the patient's smoking history. The left upper lobe nodule appears slightly smaller than on the prior study, but still suspicious for malignancy. The right upper lobe opacity has cleared. The right hemidiaphragm is mildly elevated. There is a small area of linear atelectasis at the right base. No pneumothorax or pleural effusion is present. There are several wedge compression fractures in the mid to lower thoracic spine.
+Impression: 1. No acute pulmonary disease. 2. Left upper lobe nodule, for which chest ct is again recommended.",0.49069823621935166

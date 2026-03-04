@@ -34,8 +34,8 @@ data/reports/**/*.csv
 data/*.json
 !data/submission_example.json
 
-# Results directories
-results/
+# Results directories - Keep evaluation results in version control
+# results/
 
 # RadGraph copy (too large, use original installation)
 radgraph_fixed/

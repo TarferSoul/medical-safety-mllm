@@ -36,7 +36,7 @@ LLaMA-Factory/cache/
 LLaMA-Factory/logs/
 
 # ReXrank-metric specific
-ReXrank-metric/results/
+# ReXrank-metric/results/  # Keep evaluation results in version control
 ReXrank-metric/data/findings/**/*.csv
 ReXrank-metric/data/reports/**/*.csv
 ReXrank-metric/data/*.json

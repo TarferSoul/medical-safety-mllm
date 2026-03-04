@@ -1,0 +1,2 @@
+bleu_score,bertscore,semb_score,radgraph_combined,1/RadCliQ-v1,ratescore,green_score
+0.122,0.313,0.395,0.158,0.744,0.511,0.251

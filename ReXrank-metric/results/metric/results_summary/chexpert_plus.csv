@@ -1,0 +1,2 @@
+Rank,Date,Model Name,Institution,Model URL,BLEU,BertScore,SembScore,RadGraph,1/RadCliQ-v1,RaTEScore,GREEN
+1,,Qwen3-8B-VL-Chestall-v260222-full-sft,,,0.036,0.156,0.259,0.041,0.53,0.25,0.058
