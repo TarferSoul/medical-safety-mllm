@@ -130,7 +130,8 @@ def process_study(
     max_retries: int,
     retry_delay: int,
 ) -> tuple[str, dict]:
-    image_paths = [os.path.join(img_root_dir, p) for p in data["image_path"]]
+    # Strip leading '/' to ensure os.path.join works correctly
+    image_paths = [os.path.join(img_root_dir, p.lstrip('/')) for p in data["image_path"]]
     context = data.get("context", "")
 
     for attempt in range(max_retries):
