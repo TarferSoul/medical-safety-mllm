@@ -1,0 +1,9 @@
+@misc{zhang2024rexrank,
+      title={ReXrank: A Public Leaderboard for AI-Powered Radiology Report Generation}, 
+      author={Xiaoman Zhang and Hong-Yu Zhou and Xiaoli Yang and Oishi Banerjee and Julián N. Acosta and Josh Miller and Ouwen Huang and Pranav Rajpurkar},
+      year={2024},
+      eprint={2411.15122},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2411.15122}, 
+}
