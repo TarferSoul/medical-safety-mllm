@@ -37,8 +37,10 @@ LLaMA-Factory/logs/
 
 # ReXrank-metric specific
 ReXrank-metric/results/
-ReXrank-metric/data/findings/
-ReXrank-metric/data/reports/
+ReXrank-metric/data/findings/**/*.csv
+ReXrank-metric/data/reports/**/*.csv
+ReXrank-metric/data/*.json
+!ReXrank-metric/data/submission_example.json
 ReXrank-metric/radgraph_fixed/
 ReXrank-metric/logs/
 ReXrank-metric/scripts/CXR-Report-Metric/cache/

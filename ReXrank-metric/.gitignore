@@ -27,9 +27,12 @@ logs/
 Thumbs.db
 
 # Data directories (user-specific data)
-data/findings/
-data/reports/
+data/findings/**/*.csv
+data/reports/**/*.csv
+
+# Ignore all JSON in data/ except example files
 data/*.json
+!data/submission_example.json
 
 # Results directories
 results/
