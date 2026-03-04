@@ -52,6 +52,9 @@ GREEN/cache/
 # Claude memory
 .claude/
 
+# Config files with credentials
+config.yaml
+
 # IDE
 .vscode/
 .idea/

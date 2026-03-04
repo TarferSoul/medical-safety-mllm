@@ -1,0 +1,28 @@
+# ReXrank MLLM Inference Configuration Template
+# Copy this file to config.yaml and fill in your credentials
+
+# API Configuration
+api:
+  url: "https://your-api-url.com/v1/"
+  ak: "your_access_key_here"
+  sk: "your_secret_key_here"
+  model_name: "your_model_name"
+
+# Dataset Image Paths (absolute paths to image directories)
+# IMPORTANT: These paths should point to the subdirectories containing images
+image_paths:
+  # IU X-ray: should point to images/ subdirectory
+  iu_xray: "/path/to/iu_xray/images"
+
+  # MIMIC-CXR: should point to files/ subdirectory (contains p10/, p11/, etc.)
+  mimic_cxr: "/path/to/mimic-cxr/files"
+
+  # CheXpert Plus: should point to PNG/ subdirectory (contains train/, valid/)
+  chexpert_plus: "/path/to/chexpertplus/PNG"
+
+# Execution Settings
+execution:
+  max_workers: 100
+  max_retries: 3
+  retry_delay: 5
+  max_samples: 0  # 0 = process all samples

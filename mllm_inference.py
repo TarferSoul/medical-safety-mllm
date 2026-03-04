@@ -19,8 +19,10 @@ import os
 import threading
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from pathlib import Path
 
 import openai
+import yaml
 from tqdm import tqdm
 
 # ---------------------------------------------------------------------------
@@ -218,9 +220,23 @@ def run_benchmark(
 
 
 # ---------------------------------------------------------------------------
+# Config loader
+# ---------------------------------------------------------------------------
+def load_config(config_path: str = "config.yaml") -> dict:
+    """Load configuration from YAML file."""
+    if not os.path.exists(config_path):
+        return {}
+    with open(config_path, "r") as f:
+        return yaml.safe_load(f) or {}
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 def main():
+    # Load config first
+    config = load_config("config.yaml")
+
     parser = argparse.ArgumentParser(
         description="ReXrank MLLM Inference — evaluate all sub-benchmarks",
         formatter_class=argparse.RawDescriptionHelpFormatter,
@@ -228,14 +244,18 @@ def main():
             "Auth examples:\n"
             "  Bearer token:  --api_key sk-xxx\n"
             "  AK/SK Basic:   --api_ak <ak> --api_sk <sk>\n"
+            "\n"
+            "Config file:\n"
+            "  Copy config.yaml.example to config.yaml and fill in credentials.\n"
+            "  Command-line arguments override config file values.\n"
         ),
     )
     # API
-    parser.add_argument("--api_url", type=str, default="https://h.pjlab.org.cn/kapi/workspace.kubebrain.io/ailab-ai4good1/rjob-c2f2635f8c1c7f79-f61eb500bddbbf61-0.xieyuejin/11454/v1/", help="OpenAI-compatible API base URL")
+    parser.add_argument("--api_url", type=str, default=config.get("api", {}).get("url"), help="OpenAI-compatible API base URL")
     parser.add_argument("--api_key", type=str, default=None, help="Bearer token for auth")
-    parser.add_argument("--api_ak", type=str, default="fb4b11bcc25b0fd8ac2bdad43aff3692", help="Access key for AK/SK Basic auth")
-    parser.add_argument("--api_sk", type=str, default="1be0a8ad0270381b02108d07ba05ce80", help="Secret key for AK/SK Basic auth")
-    parser.add_argument("--model_name", type=str, default="Qwen3-4B-AgentGuard-v251227-boge-7k", help="Model name to call")
+    parser.add_argument("--api_ak", type=str, default=config.get("api", {}).get("ak"), help="Access key for AK/SK Basic auth")
+    parser.add_argument("--api_sk", type=str, default=config.get("api", {}).get("sk"), help="Secret key for AK/SK Basic auth")
+    parser.add_argument("--model_name", type=str, default=config.get("api", {}).get("model_name", "Qwen3-4B"), help="Model name to call")
 
     # Benchmark selection
     parser.add_argument(
@@ -263,29 +283,29 @@ def main():
         "--img_root_iu_xray",
         type=str,
         required=False,
-        default="/mnt/shared-storage-user/ai4good1-share/xieyuejin/datasets/iu_xray",
-        help="Absolute path to IU X-ray images root directory",
+        default=config.get("image_paths", {}).get("iu_xray"),
+        help="Absolute path to IU X-ray images directory (should point to images/ subdirectory)",
     )
     parser.add_argument(
         "--img_root_mimic_cxr",
         type=str,
         required=False,
-        default="/mnt/shared-storage-user/ai4good1-share/xieyuejin/datasets/mimic-cxr",
-        help="Absolute path to MIMIC-CXR images root directory",
+        default=config.get("image_paths", {}).get("mimic_cxr"),
+        help="Absolute path to MIMIC-CXR images directory (should point to files/ subdirectory)",
     )
     parser.add_argument(
         "--img_root_chexpert_plus",
         type=str,
         required=False,
-        default="/mnt/shared-storage-user/ai4good1-share/xieyuejin/datasets/chexpertplus",
-        help="Absolute path to CheXpert Plus images root directory",
+        default=config.get("image_paths", {}).get("chexpert_plus"),
+        help="Absolute path to CheXpert Plus images directory (should point to PNG/ subdirectory)",
     )
 
     # Execution
-    parser.add_argument("--max_workers", type=int, default=25, help="Concurrent workers (default: 25)")
-    parser.add_argument("--max_retries", type=int, default=3, help="Retries per sample (default: 3)")
-    parser.add_argument("--retry_delay", type=int, default=5, help="Base retry delay in seconds (default: 5)")
-    parser.add_argument("--max_samples", type=int, default=0, help="Max samples per benchmark, 0=all (default: 0)")
+    parser.add_argument("--max_workers", type=int, default=config.get("execution", {}).get("max_workers", 100), help="Concurrent workers (default: 100)")
+    parser.add_argument("--max_retries", type=int, default=config.get("execution", {}).get("max_retries", 3), help="Retries per sample (default: 3)")
+    parser.add_argument("--retry_delay", type=int, default=config.get("execution", {}).get("retry_delay", 5), help="Base retry delay in seconds (default: 5)")
+    parser.add_argument("--max_samples", type=int, default=config.get("execution", {}).get("max_samples", 0), help="Max samples per benchmark, 0=all (default: 0)")
 
     args = parser.parse_args()
 
