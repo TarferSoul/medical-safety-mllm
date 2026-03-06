@@ -14,6 +14,11 @@ set -euo pipefail
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_DIR="$(dirname "$SCRIPT_DIR")"
 
+# Force offline mode — all models must be cached locally
+export HF_HUB_OFFLINE=1
+export TRANSFORMERS_OFFLINE=1
+export HF_HOME="${HF_HOME:-/mnt/shared-storage-user/ai4good1-share/hf_hub}"
+
 # Defaults (override via env vars)
 GREEN_MODEL="${GREEN_MODEL_PATH:-/mnt/shared-storage-gpfs2/gpfs2-shared-public/huggingface/zskj-hub/models--StanfordAIMI--GREEN-RadLlama2-7b}"
 GREEN_PORT="${GREEN_VLLM_PORT:-9101}"

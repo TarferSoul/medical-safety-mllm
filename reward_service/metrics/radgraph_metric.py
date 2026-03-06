@@ -67,15 +67,20 @@ class RadGraphMetric:
     """RadGraph F1 metric using the radgraph pip package."""
 
     def __init__(self, cuda_device: int = 1, model_cache_dir: str = None,
-                 tokenizer_cache_dir: str = None):
+                 tokenizer_path: str = None):
+        import os
         from radgraph import RadGraph
+
+        # Ensure offline mode so radgraph doesn't try to reach huggingface.co
+        os.environ.setdefault("HF_HUB_OFFLINE", "1")
+        os.environ.setdefault("TRANSFORMERS_OFFLINE", "1")
 
         self.model = RadGraph(
             model_type="radgraph",
             cuda=cuda_device,
             batch_size=8,
             model_cache_dir=model_cache_dir,
-            tokenizer_cache_dir=tokenizer_cache_dir,
+            tokenizer_cache_dir=tokenizer_path,
         )
 
     def compute(self, predictions: List[str], references: List[str]) -> List[float]:

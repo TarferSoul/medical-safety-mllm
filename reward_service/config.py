@@ -43,6 +43,11 @@ HF_CACHE_DIR = os.environ.get(
     "/mnt/shared-storage-user/ai4good1-share/hf_hub",
 )
 
+RADGRAPH_TOKENIZER_PATH = os.environ.get(
+    "RADGRAPH_TOKENIZER_PATH",
+    "/mnt/shared-storage-user/ai4good1-share/hf_hub/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext",
+)
+
 # ---------- Pickle model paths (RadCliQ) ----------
 DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
 NORMALIZER_PATH = os.path.join(DATA_DIR, "normalizer.pkl")
