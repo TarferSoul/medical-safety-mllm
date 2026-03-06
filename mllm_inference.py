@@ -74,9 +74,31 @@ def create_client(api_url: str, api_key: str = None, api_ak: str = None, api_sk:
 # ---------------------------------------------------------------------------
 # Image / prompt helpers
 # ---------------------------------------------------------------------------
-def encode_image(image_path: str) -> str:
+def encode_image(image_path: str) -> tuple[str, str]:
+    """Encode image to base64 and detect MIME type.
+
+    Returns:
+        (base64_data, mime_type) tuple
+    """
+    from PIL import Image
+
     with open(image_path, "rb") as f:
-        return base64.b64encode(f.read()).decode("utf-8")
+        img_data = f.read()
+
+    # Detect image format using PIL
+    try:
+        with Image.open(image_path) as img:
+            img_format = img.format.lower() if img.format else "jpeg"
+            # Handle common variations
+            if img_format == "jpg":
+                img_format = "jpeg"
+            mime_type = f"image/{img_format}"
+    except Exception:
+        # Fallback to jpeg if detection fails
+        mime_type = "image/jpeg"
+
+    b64_data = base64.b64encode(img_data).decode("utf-8")
+    return b64_data, mime_type
 
 
 def build_prompt(context: str, num_images: int) -> str:
@@ -102,10 +124,10 @@ def call_api(client: openai.OpenAI, model_name: str, images: list[str], context:
 
     content = []
     for img_path in images:
-        b64 = encode_image(img_path)
+        b64_data, mime_type = encode_image(img_path)
         content.append({
             "type": "image_url",
-            "image_url": {"url": f"data:image/jpeg;base64,{b64}"},
+            "image_url": {"url": f"data:{mime_type};base64,{b64_data}"},
         })
     content.append({"type": "text", "text": prompt})
 
