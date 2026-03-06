@@ -45,6 +45,19 @@ BENCHMARKS = {
         "data_file": "ReXrank/data/chexpert_plus/ReXRank_CheXpertPlus.json",
         "img_root_arg": "img_root_chexpert_plus",
     },
+    # Training set benchmarks (converted from ShareGPT format)
+    "train_sample_100": {
+        "data_file": "dataset/cxr_train_for_inference_100.json",
+        "img_root_arg": None,  # Uses absolute paths
+    },
+    "train_sample_1000": {
+        "data_file": "dataset/cxr_train_for_inference_1000.json",
+        "img_root_arg": None,  # Uses absolute paths
+    },
+    "train_full": {
+        "data_file": "dataset/cxr_train_for_inference_full.json",
+        "img_root_arg": None,  # Uses absolute paths
+    },
 }
 
 save_lock = threading.Lock()
@@ -119,7 +132,8 @@ def build_prompt(context: str, num_images: int) -> str:
 # ---------------------------------------------------------------------------
 # API call
 # ---------------------------------------------------------------------------
-def call_api(client: openai.OpenAI, model_name: str, images: list[str], context: str) -> str:
+def call_api(client: openai.OpenAI, model_name: str, images: list[str], context: str) -> dict:
+    """Call API and return full response with reasoning."""
     prompt = build_prompt(context, len(images))
 
     content = []
@@ -137,7 +151,13 @@ def call_api(client: openai.OpenAI, model_name: str, images: list[str], context:
         max_tokens=16384,
         temperature=1.0,
     )
-    return response.choices[0].message.content
+
+    # Return both prediction and reasoning
+    message = response.choices[0].message
+    return {
+        "prediction": message.content,
+        "reasoning": getattr(message, "reasoning", None)
+    }
 
 
 # ---------------------------------------------------------------------------
@@ -152,21 +172,39 @@ def process_study(
     max_retries: int,
     retry_delay: int,
 ) -> tuple[str, dict]:
-    # Strip leading '/' to ensure os.path.join works correctly
-    image_paths = [os.path.join(img_root_dir, p.lstrip('/')) for p in data["image_path"]]
+    # Handle image paths
+    if img_root_dir is None:
+        # Use absolute paths directly (for training set)
+        image_paths = data["image_path"]
+    else:
+        # Strip leading '/' to ensure os.path.join works correctly (for test sets)
+        image_paths = [os.path.join(img_root_dir, p.lstrip('/')) for p in data["image_path"]]
+
     context = data.get("context", "")
 
     for attempt in range(max_retries):
         try:
-            prediction = call_api(client, model_name, image_paths, context)
-            return study_id, {**data, "model_prediction": prediction}
+            result = call_api(client, model_name, image_paths, context)
+            return study_id, {
+                **data,
+                "model_prediction": result["prediction"],
+                "model_reasoning": result["reasoning"]
+            }
         except Exception as e:
             if attempt < max_retries - 1:
                 time.sleep(retry_delay * (attempt + 1))
             else:
-                return study_id, {**data, "model_prediction": f"ERROR: {str(e)}"}
+                return study_id, {
+                    **data,
+                    "model_prediction": f"ERROR: {str(e)}",
+                    "model_reasoning": None
+                }
 
-    return study_id, {**data, "model_prediction": "ERROR: Unknown"}
+    return study_id, {
+        **data,
+        "model_prediction": "ERROR: Unknown",
+        "model_reasoning": None
+    }
 
 
 # ---------------------------------------------------------------------------
@@ -349,19 +387,25 @@ def main():
     for bench_name in args.benchmarks:
         bench = BENCHMARKS[bench_name]
         data_file = os.path.join(args.data_root, bench["data_file"])
-        img_root_dir = getattr(args, bench["img_root_arg"], None)
 
         if not os.path.exists(data_file):
             print(f"\n[{bench_name}] Data file not found: {data_file}, skipping.")
             continue
 
-        if not img_root_dir:
-            print(f"\n[{bench_name}] No --{bench['img_root_arg']} provided, skipping.")
-            continue
-
-        if not os.path.isdir(img_root_dir):
-            print(f"\n[{bench_name}] Image root not found: {img_root_dir}, skipping.")
-            continue
+        # Handle image root directory
+        img_root_arg = bench["img_root_arg"]
+        if img_root_arg is None:
+            # Training set uses absolute paths
+            img_root_dir = None
+        else:
+            # Test sets use relative paths
+            img_root_dir = getattr(args, img_root_arg, None)
+            if not img_root_dir:
+                print(f"\n[{bench_name}] No --{img_root_arg} provided, skipping.")
+                continue
+            if not os.path.isdir(img_root_dir):
+                print(f"\n[{bench_name}] Image root not found: {img_root_dir}, skipping.")
+                continue
 
         out_file = run_benchmark(
             client=client,
