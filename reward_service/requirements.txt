@@ -1,0 +1,13 @@
+torch>=2.1.0
+transformers>=4.36.0
+radgraph
+bert-score==0.3.13
+fast-bleu==0.0.4
+ratescore
+scikit-learn>=1.3.2
+scipy>=1.11.4
+pandas>=2.0.3
+numpy>=1.24.4
+fastapi
+uvicorn[standard]
+openai
