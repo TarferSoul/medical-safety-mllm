@@ -10,6 +10,6 @@ setup(
         "torch",
         "transformers",
         "appdirs",
-        "python-dotmap",
+        "dotmap",
     ],
 )
