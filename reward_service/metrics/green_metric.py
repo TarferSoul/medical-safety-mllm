@@ -122,6 +122,15 @@ class GREENMetric:
         models = self.client.models.list()
         self.model_name = models.data[0].id if models.data else "default"
 
+    def _wrap_chat(self, prompt: str) -> str:
+        """Wrap prompt in the GREEN chat template.
+
+        Matches the original template from GREEN/green_score/green.py:
+          <|user|>\n{prompt}</s>\n<|assistant|>
+        """
+        eos = "</s>"
+        return f"<|user|>\n{prompt}{eos}\n<|assistant|>\n{eos}\n<|assistant|>"
+
     def compute(self, predictions: List[str], references: List[str]) -> List[float]:
         """Compute per-sample GREEN scores via vLLM.
 
@@ -134,11 +143,12 @@ class GREENMetric:
         """
         scores = []
         for pred, ref in zip(predictions, references):
-            prompt = make_prompt(ref, pred)
+            raw_prompt = make_prompt(ref, pred)
+            chat_prompt = self._wrap_chat(raw_prompt)
             try:
                 response = self.client.completions.create(
                     model=self.model_name,
-                    prompt=prompt,
+                    prompt=chat_prompt,
                     max_tokens=1024,
                     temperature=0,
                 )
