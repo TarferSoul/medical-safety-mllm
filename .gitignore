@@ -41,7 +41,7 @@ ReXrank-metric/data/findings/**/*.csv
 ReXrank-metric/data/reports/**/*.csv
 ReXrank-metric/data/*.json
 !ReXrank-metric/data/submission_example.json
-ReXrank-metric/radgraph_fixed/
+# ReXrank-metric/radgraph_fixed/  # Keep fixed radgraph in version control (32MB)
 ReXrank-metric/logs/
 ReXrank-metric/scripts/CXR-Report-Metric/cache/
 

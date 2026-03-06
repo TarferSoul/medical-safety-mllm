@@ -37,8 +37,8 @@ data/*.json
 # Results directories - Keep evaluation results in version control
 # results/
 
-# RadGraph copy (too large, use original installation)
-radgraph_fixed/
+# RadGraph copy - Keep fixed version in version control (32MB)
+# radgraph_fixed/
 
 # Temporary test files
 check_radgraph.py
