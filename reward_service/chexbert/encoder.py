@@ -38,10 +38,8 @@ class bert_encoder(nn.Module):
             self.bert = BertModel.from_pretrained(pretrain_path)
         elif bert_model_path is not None:
             self.bert = BertModel.from_pretrained(bert_model_path)
-        elif clinical:
-            self.bert = BertModel.from_pretrained("emilyalsentzer/Bio_ClinicalBERT")
         else:
-            self.bert = BertModel.from_pretrained("bert-base-uncased")
+            raise ValueError("bert_model_path is required (local absolute path)")
 
         if freeze_embeddings:
             for param in self.bert.embeddings.parameters():

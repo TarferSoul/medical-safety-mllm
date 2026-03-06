@@ -95,7 +95,7 @@ def _load_models():
         _radgraph = RadGraphMetric(
             cuda_device=config.GPU_RADGRAPH,
             model_cache_dir=config.RADGRAPH_MODEL_CACHE,
-            tokenizer_path=config.RADGRAPH_TOKENIZER_PATH,
+            tokenizer_cache_dir=config.RADGRAPH_TOKENIZER_CACHE,
         )
         _models_loaded["radgraph"] = True
         logger.info("RadGraph loaded on GPU %d", config.GPU_RADGRAPH)
