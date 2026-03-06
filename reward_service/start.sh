@@ -43,6 +43,7 @@ if [[ "$SKIP_GREEN" == "false" ]]; then
         --dtype float16 \
         --max-model-len 2048 \
         --gpu-memory-utilization 0.85 \
+        --trust_remote_code \
         &
     VLLM_PID=$!
 
