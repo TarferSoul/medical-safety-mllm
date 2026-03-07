@@ -269,12 +269,25 @@ def run_benchmark(
             for sid, data in pending
         }
 
+        # Batch save every 100 samples
+        save_counter = 0
+        save_interval = 100
+
         for future in tqdm(as_completed(futures), total=len(futures), desc=f"[{bench_name}]"):
             sid, result = future.result()
             with save_lock:
                 save_data[sid] = result
-                with open(save_json_file, "w") as f:
-                    json.dump(save_data, f, indent=4, ensure_ascii=False)
+                save_counter += 1
+
+                # Save every 100 samples
+                if save_counter % save_interval == 0:
+                    with open(save_json_file, "w") as f:
+                        json.dump(save_data, f, indent=4, ensure_ascii=False)
+
+        # Final save for remaining samples
+        with save_lock:
+            with open(save_json_file, "w") as f:
+                json.dump(save_data, f, indent=4, ensure_ascii=False)
 
     print(f"[{bench_name}] Saved to {save_json_file}")
     return save_json_file
