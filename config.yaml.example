@@ -3,7 +3,17 @@
 
 # API Configuration
 api:
-  url: "https://your-api-url.com/v1/"
+  # Single URL (legacy format, still supported)
+  # url: "https://your-api-url.com/v1/"
+
+  # Multiple URLs for load balancing (recommended for production)
+  # Requests will be distributed evenly across all URLs using round-robin
+  urls:
+    - "https://your-api-url-1.com/v1"
+    - "https://your-api-url-2.com/v1"
+    - "https://your-api-url-3.com/v1"
+    - "https://your-api-url-4.com/v1"
+
   ak: "your_access_key_here"
   sk: "your_secret_key_here"
   model_name: "your_model_name"
@@ -22,6 +32,8 @@ image_paths:
 
 # Execution Settings
 execution:
+  # Recommended: Set max_workers to a multiple of the number of URLs
+  # Example: 4 URLs × 25 workers per URL = 100 total workers
   max_workers: 100
   max_retries: 3
   retry_delay: 5

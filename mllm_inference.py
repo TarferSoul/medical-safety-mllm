@@ -19,6 +19,7 @@ import os
 import threading
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from itertools import cycle
 from pathlib import Path
 
 import openai
@@ -61,6 +62,28 @@ BENCHMARKS = {
 }
 
 save_lock = threading.Lock()
+
+
+# ---------------------------------------------------------------------------
+# URL Pool for load balancing
+# ---------------------------------------------------------------------------
+class URLPool:
+    """Thread-safe URL pool for round-robin load balancing."""
+
+    def __init__(self, urls: list[str]):
+        if not urls:
+            raise ValueError("URL list cannot be empty")
+        self.urls = urls
+        self._cycle = cycle(urls)
+        self._lock = threading.Lock()
+
+    def get_next_url(self) -> str:
+        """Get next URL in round-robin fashion."""
+        with self._lock:
+            return next(self._cycle)
+
+    def __len__(self):
+        return len(self.urls)
 
 
 # ---------------------------------------------------------------------------
@@ -164,7 +187,10 @@ def call_api(client: openai.OpenAI, model_name: str, images: list[str], context:
 # Per-study worker
 # ---------------------------------------------------------------------------
 def process_study(
-    client: openai.OpenAI,
+    url_pool: URLPool,
+    api_key: str,
+    api_ak: str,
+    api_sk: str,
     model_name: str,
     study_id: str,
     data: dict,
@@ -184,6 +210,10 @@ def process_study(
 
     for attempt in range(max_retries):
         try:
+            # Get next URL from pool for load balancing
+            api_url = url_pool.get_next_url()
+            client = create_client(api_url, api_key, api_ak, api_sk)
+
             result = call_api(client, model_name, image_paths, context)
             return study_id, {
                 **data,
@@ -211,7 +241,10 @@ def process_study(
 # Run inference on a single benchmark
 # ---------------------------------------------------------------------------
 def run_benchmark(
-    client: openai.OpenAI,
+    url_pool: URLPool,
+    api_key: str,
+    api_ak: str,
+    api_sk: str,
     model_name: str,
     bench_name: str,
     data_file: str,
@@ -258,7 +291,10 @@ def run_benchmark(
         futures = {
             executor.submit(
                 process_study,
-                client,
+                url_pool,
+                api_key,
+                api_ak,
+                api_sk,
                 model_name,
                 sid,
                 data,
@@ -325,7 +361,8 @@ def main():
         ),
     )
     # API
-    parser.add_argument("--api_url", type=str, default=config.get("api", {}).get("url"), help="OpenAI-compatible API base URL")
+    parser.add_argument("--api_url", type=str, default=config.get("api", {}).get("url"), help="OpenAI-compatible API base URL (single URL, legacy)")
+    parser.add_argument("--api_urls", nargs="+", default=config.get("api", {}).get("urls"), help="Multiple API URLs for load balancing (recommended)")
     parser.add_argument("--api_key", type=str, default=None, help="Bearer token for auth")
     parser.add_argument("--api_ak", type=str, default=config.get("api", {}).get("ak"), help="Access key for AK/SK Basic auth")
     parser.add_argument("--api_sk", type=str, default=config.get("api", {}).get("sk"), help="Secret key for AK/SK Basic auth")
@@ -383,18 +420,29 @@ def main():
 
     args = parser.parse_args()
 
+    # Resolve API URLs (support both single url and multiple urls)
+    api_urls = args.api_urls
+    if not api_urls and args.api_url:
+        # Legacy single URL mode
+        api_urls = [args.api_url]
+    if not api_urls:
+        raise ValueError("Must provide either --api_url or --api_urls")
+
+    # Create URL pool for load balancing
+    url_pool = URLPool(api_urls)
+
     # Resolve output dir
     output_dir = args.output_dir or os.path.join("results", args.model_name)
 
-    # Create client
-    client = create_client(args.api_url, args.api_key, args.api_ak, args.api_sk)
-
-    # Verify connectivity
-    print(f"API URL:  {args.api_url}")
-    print(f"Model:    {args.model_name}")
-    print(f"Auth:     {'AK/SK Basic' if args.api_ak else 'Bearer token'}")
-    print(f"Output:   {output_dir}")
+    # Verify connectivity and print config
+    print(f"API URLs:  {len(url_pool)} endpoints")
+    for idx, url in enumerate(api_urls, 1):
+        print(f"  [{idx}] {url}")
+    print(f"Model:     {args.model_name}")
+    print(f"Auth:      {'AK/SK Basic' if args.api_ak else 'Bearer token'}")
+    print(f"Output:    {output_dir}")
     print(f"Benchmarks: {', '.join(args.benchmarks)}")
+    print(f"Load balancing: Round-robin across {len(url_pool)} URLs")
 
     results = {}
     for bench_name in args.benchmarks:
@@ -421,7 +469,10 @@ def main():
                 continue
 
         out_file = run_benchmark(
-            client=client,
+            url_pool=url_pool,
+            api_key=args.api_key,
+            api_ak=args.api_ak,
+            api_sk=args.api_sk,
             model_name=args.model_name,
             bench_name=bench_name,
             data_file=data_file,
